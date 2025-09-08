@@ -5,17 +5,19 @@ import path from "path"
 
 dotenv.config();
 const apiKey = process.env.API_KEY;
+
 const writeToCsv = (data) => {
-    const csvContent = data.map(row => row.join(",")).join("\n");
-    const filePath = path.join(process.cwd(), "output.csv");
-    fs.writeFile(filePath, csvContent, "utf8", (err) => {
-        if (err) {
-            console.error("Error writing CSV file:", err);
-        } else {
-            console.log("CSV file has been saved to", filePath);
-        }
-    });
+  const csvContent = data.map(row => row.join(",")).join("\n");
+  const filePath = path.join(process.cwd(), "output.csv");
+  fs.writeFile(filePath, csvContent, "utf8", (err) => {
+    if (err) {
+      console.error("Error writing CSV file:", err);
+    } else {
+      console.log("CSV file has been saved to", filePath);
+    }
+  });
 }
+
 getJson({
   engine: "google_maps",
   q: "Coffee",
@@ -24,9 +26,11 @@ getJson({
   type: "search"
 }, (json) => {
   const data = [];
+
   data.push(["Name", "Phone", "Rating", "Reviews", "Address"]);
+  json.local_results.forEach(({ title, phone, rating, reviews, address }) => {
+    data.push([title, phone, rating, reviews, `"${address}"`])
+  });
 
-  json.local_results.forEach(({title, phone, rating, reviews, address}) => data.push([title, phone, rating, reviews, address]));
-
-  writeToCsv(data)
+  writeToCsv(data);
 });
