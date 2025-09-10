@@ -7,11 +7,11 @@ const apiKey = process.env.API_KEY;
 const keywords = [
     "coffee",
     "iced coffee",
-    "oat latte",
-    "best coffee",
-    "americano",
-    "latte",
-    "matcha",
+    // "oat latte",
+    // "best coffee",
+    // "americano",
+    // "latte",
+    // "matcha",
     "pumpkin spice latte",
     "oat milk latte",
 ];
@@ -41,3 +41,10 @@ const responses = keywords.map(async (keyword) =>
 
 const json = await Promise.all(responses);
 
+const getRanking = (data) => {
+    const index = data.organic_results.findIndex(result =>
+        result.displayed_link.includes(domain)
+    );
+
+    return index !== -1 ? index + 1 : "N/A";
+}
