@@ -24,13 +24,13 @@ getJson({
   ll: "@40.76173745837114,-73.9774600487914,14z",
   api_key: apiKey,
 }, (json) => {
-  // const data = [];
+  const data = [];
 
-  // data.push(["Name", "Phone", "Rating", "Reviews", "Address"]);
-  // json.local_results.forEach(({ title, phone, rating, reviews, address }) => {
-  //   data.push([title, phone, rating, reviews, `"${address}"`])
-  // });
+  data.push(["Name", "Phone", "Rating", "Reviews", "Address"]);
+  json.local_results.forEach(({ title, phone, rating, reviews, address }) => {
+    data.push([title, phone, rating, reviews, `"${address}"`])
+  });
 
-  // writeToCsv(data);
+  writeToCsv(data);
   console.log(json)
 });

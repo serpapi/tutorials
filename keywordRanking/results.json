@@ -1,0 +1,1515 @@
+[
+  {
+    "search_metadata": {
+      "id": "68c1f301c29c3de6aa0def06",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0abbd97c1fc72508/68c1f301c29c3de6aa0def06.json",
+      "created_at": "2025-09-10 21:52:01 UTC",
+      "processed_at": "2025-09-10 21:52:01 UTC",
+      "google_light_url": "https://www.google.com/search?q=coffee&oq=coffee&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/0abbd97c1fc72508/68c1f301c29c3de6aa0def06.html",
+      "total_time_taken": 1.03
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "coffee",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "coffee",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Coffee - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Coffee",
+        "displayed_link": "en.wikipedia.org › wiki › Coffee",
+        "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "History",
+              "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+            },
+            {
+              "title": "Coffee bean",
+              "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+            },
+            {
+              "title": "Coffee preparation",
+              "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+            },
+            {
+              "title": "Coffee production",
+              "link": "https://en.wikipedia.org/wiki/Coffee_production"
+            }
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "title": "Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/",
+        "displayed_link": "www.starbucks.com",
+        "snippet": "More than just great coffee. Explore the menu, sign up for Starbucks® Rewards, manage your gift card and more."
+      },
+      {
+        "position": 3,
+        "title": "Coffee - Reddit",
+        "link": "https://www.reddit.com/r/Coffee/",
+        "displayed_link": "www.reddit.com › Coffee",
+        "snippet": "thread where you can share what you are brewing or ask for bean recommendations. This is a place to share and talk about your favorite coffee roasters or beans.",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Finally broke my coffee shop addiction and it's life-changing - Reddit",
+              "link": "https://www.reddit.com/r/Frugal/comments/1ncmk4a/finally_broke_my_coffee_shop_addiction_and_its/"
+            },
+            {
+              "title": "What do you put in coffee? : r/AskEurope - Reddit",
+              "link": "https://www.reddit.com/r/AskEurope/comments/1ndkwsq/what_do_you_put_in_coffee/"
+            }
+          ]
+        },
+        "date": "Mar 6, 2014"
+      },
+      {
+        "position": 4,
+        "title": "Shop Coffee K-Cup Pods, Ground Coffee, Instant Coffee, & More!",
+        "link": "https://shop.smucker.com/collections/coffee?srsltid=AfmBOoqmhA9JMDw4oz6JQlsrHalrDz2tvBqHleiOIKtLevgoq4PBzweY",
+        "displayed_link": "shop.smucker.com › Collections",
+        "snippet": "Shop Dunkin'® coffee, Folgers® coffee, Café Bustelo® coffee, and more. No matter how you like your coffee, we've got you covered! Choose from subtle to bold ...",
+        "extensions": [
+          "10–11 day delivery"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Blue Bottle Coffee | Fresh Roasted Specialty Coffee",
+        "link": "https://bluebottlecoffee.com/?srsltid=AfmBOor3QI4mul3p86A2ABYxzsPeNGn-sSGgxlDsEnJMZFT67RPAZGrC",
+        "displayed_link": "bluebottlecoffee.com",
+        "snippet": "Blue Bottle Coffee is a specialty coffee roaster with cafes in LA, SF, NYC, & Japan. Shop our freshly roasted specialty coffee online & in-store."
+      },
+      {
+        "position": 6,
+        "title": "Coffee - The Nutrition Source",
+        "link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+        "displayed_link": "nutritionsource.hsph.harvard.edu › food-features › coffee",
+        "snippet": "A plain “black” cup of coffee is a very low calorie drink—8 ounces only contains 2 calories! However, adding sugar, cream, and milk can quickly bump up the ..."
+      },
+      {
+        "position": 7,
+        "title": "Buy Coffee, Tea, Powders Online | The Coffee Bean & Tea Leaf ...",
+        "link": "https://www.coffeebean.com/",
+        "displayed_link": "www.coffeebean.com",
+        "snippet": "Every Tastemaker has a story. · Great coffee starts with the hands that brew it. · Try one of our delicious NEW Organic L.A Series coffees · & get FREE SHIPPING ..."
+      },
+      {
+        "position": 8,
+        "title": "9 Reasons Why (the Right Amount of) Coffee Is Good for You",
+        "link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you",
+        "displayed_link": "www.hopkinsmedicine.org › health › wellness-and-prevention › 9-reasons-...",
+        "snippet": "Drinking one to two cups of coffee a day may help ward off heart failure, when a weakened heart has difficulty pumping enough blood to the body. You ..."
+      },
+      {
+        "position": 9,
+        "title": "Coffee - Walmart.com",
+        "link": "https://www.walmart.com/cp/coffee/1086446",
+        "displayed_link": "www.walmart.com › coffee",
+        "snippet": "Shop for Coffee at Walmart.com. Buy Ground coffee, coffee pods, instant coffee, and whole bean coffee. Save money. Live better.",
+        "extensions": [
+          "4.3 888",
+          "Free 90-day returns"
+        ],
+        "rating": 4.3,
+        "reviews": 888
+      },
+      {
+        "position": 10,
+        "title": "What is coffee? - NCA - About Coffee",
+        "link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+        "displayed_link": "www.aboutcoffee.org › Origins",
+        "snippet": "What is coffee made of? Learn about the coffee tree, its lifespan, how it produces coffee beans, and the two most common coffee species, arabica and ..."
+      }
+    ],
+    "related_questions": [
+      {
+        "snippet": "Quick answer: The 80/20 rule for coffee, often mentioned in the context of a coffee guide, suggests that 80% of coffee's flavor comes from the bean and its origin, while 20% depends on the brewing process. This principle emphasizes the importance of high-quality beans for achieving superior coffee flavors.",
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=AfPBaPrCFajg1e8P_6GBsA4&q=What+is+the+80/20+rule+for+coffee?&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQzmd6BAgCEAc"
+      },
+      {
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=AfPBaPrCFajg1e8P_6GBsA4&q=What+are+the+best+coffees+to+buy?&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQzmd6BAgCEBA"
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "Coffee near me",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+near+me&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+near+me"
+      },
+      {
+        "query": "Coffee types",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+types&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+types"
+      },
+      {
+        "query": "Coffee brands",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+brands&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+brands"
+      },
+      {
+        "query": "Coffee beans",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+beans&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+beans"
+      },
+      {
+        "query": "Coffee shop",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+shop&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+shop"
+      },
+      {
+        "query": "Coffee benefits",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+benefits&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+benefits"
+      },
+      {
+        "query": "Coffee Maker",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+Maker&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+Maker"
+      },
+      {
+        "query": "Coffee menu",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Coffee+menu&sa=X&ved=2ahUKEwi6x93xls-PAxUocPUHHf9QAOYQ1QJ6BAgIEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Coffee+menu"
+      }
+    ],
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=coffee&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1f301a8dce68fdb340502",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e8a4cf69cbe4a4f4/68c1f301a8dce68fdb340502.json",
+      "created_at": "2025-09-10 21:52:01 UTC",
+      "processed_at": "2025-09-10 21:52:01 UTC",
+      "google_light_url": "https://www.google.com/search?q=iced+coffee&oq=iced+coffee&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/e8a4cf69cbe4a4f4/68c1f301a8dce68fdb340502.html",
+      "total_time_taken": 0.89
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "iced coffee",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "iced coffee",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to Make Iced Coffee Recipe - Love and Lemons",
+        "link": "https://www.loveandlemons.com/iced-coffee-recipe/",
+        "displayed_link": "www.loveandlemons.com › Recipes",
+        "snippet": "To make iced coffee, start by filling a glass with ice cubes. Then, pour the cooled coffee into the glass. Top it off with your milk of choice.",
+        "extensions": [
+          "Rating",
+          "4.9 (9)",
+          "5 min"
+        ],
+        "rating": 4.9,
+        "reviews": 9
+      },
+      {
+        "position": 2,
+        "title": "Iced Autumn Caramel Swirl - Scooter's Coffee",
+        "link": "https://www.scooterscoffee.com/iced-autumn-caramel-swirl",
+        "displayed_link": "www.scooterscoffee.com › iced-autumn-caramel-swirl",
+        "snippet": "Indulge in the flavors of autumn…Autumn Caramel Swirl that is. This exquisite latte combines our signature espresso, creamy caramel, hazelnut, and classic ...",
+        "extensions": [
+          "Free delivery over $39"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Easy Iced Coffee Recipe - Allrecipes",
+        "link": "https://www.allrecipes.com/recipe/21667/easy-iced-coffee/",
+        "displayed_link": "www.allrecipes.com › Recipes › Drinks Recipes › Coffee Drinks Recipes",
+        "snippet": "Ingredients · 3 tablespoons warm water · 2 teaspoons instant coffee granules · 1 teaspoon sugar · 1 cup ice, or as needed · 6 fluid ounces cold ...",
+        "extensions": [
+          "Rating",
+          "4.5 (579)",
+          "10 min"
+        ],
+        "date": "Feb 16, 2023",
+        "rating": 4.5,
+        "reviews": 579
+      },
+      {
+        "position": 4,
+        "title": "3-Minute Homemade Iced Coffee (Better Than Starbucks!) - YouTube",
+        "link": "https://www.youtube.com/watch?v=951ZGaSwaYU",
+        "displayed_link": "www.youtube.com › watch",
+        "snippet": "This Homemade Iced Coffee is my favorite coffee recipe to make at home that you can do in just minutes and is so inexpensive.",
+        "date": "Jul 2, 2025"
+      },
+      {
+        "position": 5,
+        "title": "i finally made iced coffee at home that i'm really really happy with",
+        "link": "https://www.reddit.com/r/EatCheapAndHealthy/comments/140g5zr/i_finally_made_iced_coffee_at_home_that_im_really/",
+        "displayed_link": "www.reddit.com › EatCheapAndHealthy › comments › i_finally_made_ice...",
+        "snippet": "Put the ice in the carafe of your coffee maker, make coffee with the 1oz of grounds and 8oz of water as usual. The hot strong coffee drips ...",
+        "date": "Jun 4, 2023"
+      },
+      {
+        "position": 6,
+        "title": "What actually is iced coffee??? : r/barista - Reddit",
+        "link": "https://www.reddit.com/r/barista/comments/1but9ep/what_actually_is_iced_coffee/",
+        "displayed_link": "www.reddit.com › barista › comments › what_actually_is_iced_coffee",
+        "snippet": "Iced coffee is coffee brewed hot, then cooled down by ice or refrigerated, usually made in big batches ready for serving. Cold brew is coffee ...",
+        "date": "Apr 3, 2024"
+      },
+      {
+        "position": 7,
+        "title": "Best Iced Coffee Recipe - How to Make Perfect Iced Coffee at Home",
+        "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a11061/perfect-iced-coffee/",
+        "displayed_link": "www.thepioneerwoman.com › Food and Cooking › Recipes",
+        "extensions": [
+          "Rating",
+          "5.0 (5)",
+          "8 hr"
+        ],
+        "snippet": "To make iced coffee, pack a glass full of ice cubes. Fill the glass 2/3 full with coffee liquid. Add a healthy splash of half-and-half. Add 2 to 3 tablespoons ...",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Iced Coffee Ice Cream Float",
+              "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a43841784/iced-coffee-ice-cream-float-recipe/"
+            },
+            {
+              "title": "Spicy Cowgirl Coffee",
+              "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a35916176/spicy-cowgirl-coffee-recipe/"
+            },
+            {
+              "title": "Cold-brew",
+              "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a32109181/how-to-make-cold-brew-coffee/"
+            }
+          ]
+        },
+        "date": "Mar 24, 2025",
+        "rating": 5,
+        "reviews": 5
+      },
+      {
+        "position": 8,
+        "title": "How to Make Iced Coffee - The Girl on Bloor",
+        "link": "https://thegirlonbloor.com/iced-coffee-recipes-caramel-vanilla-and-mocha/",
+        "displayed_link": "thegirlonbloor.com › Recipes › Drinks",
+        "extensions": [
+          "Rating",
+          "4.8 (57)",
+          "1 hr 15 min"
+        ],
+        "snippet": "How to make iced coffee · Step 1: Brew the coffee. · Step 2: Pour over ice. · Step 3: Add milk. · Step 4 : Add syrup.",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Ingredients And...",
+              "link": "https://thegirlonbloor.com/iced-coffee-recipes-caramel-vanilla-and-mocha/#:~:text=Ingredients%20and%20substitutions"
+            },
+            {
+              "title": "Frequently Asked Questions",
+              "link": "https://thegirlonbloor.com/iced-coffee-recipes-caramel-vanilla-and-mocha/#:~:text=Frequently%20asked%20questions"
+            },
+            {
+              "title": "More Coffee Recipes",
+              "link": "https://thegirlonbloor.com/iced-coffee-recipes-caramel-vanilla-and-mocha/#:~:text=More%20coffee%20recipes"
+            }
+          ]
+        },
+        "date": "Mar 27, 2025",
+        "rating": 4.8,
+        "reviews": 57
+      },
+      {
+        "position": 9,
+        "title": "Iced Coffee Near You | Fresh & Full of Flavor - Dunkin",
+        "link": "https://www.dunkindonuts.com/en/menu/espresso-and-coffee/product-iced-coffee-id1000201",
+        "displayed_link": "www.dunkindonuts.com › menu › product-iced-coffee-id1000201",
+        "snippet": "Freshly brewed and full of flavor, our Iced Coffee gets you energized and ready to go. Get Iced Coffee Near You! Dunkin Delivers Order now on mobile app"
+      },
+      {
+        "position": 10,
+        "title": "Cold Coffee - Starbucks",
+        "link": "https://www.starbucks.com/menu/drinks/cold-coffee",
+        "displayed_link": "www.starbucks.com › menu › drinks › cold-coffee",
+        "snippet": "Iced Latte ; Iced Caffè Latte ; Iced Pumpkin Spice Latte ; Iced Pecan Crunch Oatmilk Latte ; Iced Starbucks® Blonde Vanilla Latte ; Iced Cinnamon Dolce Latte."
+      }
+    ],
+    "related_questions": [
+      {
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=AfPBaKzyF-CnwPAPmJrOsQQ&q=How+do+they+make+iced+coffee?&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQzmd6BAgFEAg"
+      },
+      {
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=AfPBaKzyF-CnwPAPmJrOsQQ&q=How+do+you+make+iced+coffee?&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQzmd6BAgFEBA"
+      },
+      {
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=AfPBaKzyF-CnwPAPmJrOsQQ&q=What+do+I+put+in+iced+coffee?&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQzmd6BAgFEBg"
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "Iced coffee recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+recipe&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+recipe"
+      },
+      {
+        "query": "Iced coffee Starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+Starbucks&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+Starbucks"
+      },
+      {
+        "query": "Iced coffee near me",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+near+me&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+near+me"
+      },
+      {
+        "query": "Iced coffee McDonald's",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+McDonald%27s&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+McDonald%27s"
+      },
+      {
+        "query": "Iced coffee Nescafe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+Nescafe&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+Nescafe"
+      },
+      {
+        "query": "Iced coffee recipe Starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+recipe+Starbucks&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+recipe+Starbucks"
+      },
+      {
+        "query": "How to make iced coffee without machine",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=How+to+make+iced+coffee+without+machine&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=How+to+make+iced+coffee+without+machine"
+      },
+      {
+        "query": "Iced coffee Maker",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+coffee+Maker&sa=X&ved=2ahUKEwjs9t_xls-PAxXgExAIHRiNM0YQ1QJ6BAgHEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+coffee+Maker"
+      }
+    ],
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=iced+coffee&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1f38859eb37383511932a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/f929d6d97aa89a67/68c1f38859eb37383511932a.json",
+      "created_at": "2025-09-10 21:54:16 UTC",
+      "processed_at": "2025-09-10 21:54:16 UTC",
+      "google_light_url": "https://www.google.com/search?q=cortado&oq=cortado&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/f929d6d97aa89a67/68c1f38859eb37383511932a.html",
+      "total_time_taken": 1.11
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "cortado",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "cortado",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "The Cortado is the best espresso drink - Reddit",
+        "link": "https://www.reddit.com/r/espresso/comments/1e3gj4i/the_cortado_is_the_best_espresso_drink/",
+        "displayed_link": "www.reddit.com › espresso › comments › the_cortado_is_the_best_espress...",
+        "snippet": "It's a double ristretto with a 1:1 ratio of milk and minimal foam. You get the boldness and flavour of the espresso without the bitterness of ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Starbucks did it again; they've just released their \"cortado.\" - Reddit",
+              "link": "https://www.reddit.com/r/barista/comments/1hw38w5/starbucks_did_it_again_theyve_just_released_their/"
+            },
+            {
+              "title": "How to make a perfect cortado? : r/barista - Reddit",
+              "link": "https://www.reddit.com/r/barista/comments/1dknjh4/how_to_make_a_perfect_cortado/"
+            }
+          ]
+        },
+        "date": "Jul 14, 2024"
+      },
+      {
+        "position": 2,
+        "title": "Cortado: Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/menu/product/2124649/hot",
+        "displayed_link": "www.starbucks.com › menu › product › hot",
+        "snippet": "Our Cortado combines three ristretto shots of Starbucks® Blonde Espresso to give a smoother, sweeter, and richer espresso profile, with perfectly steamed whole ..."
+      },
+      {
+        "position": 3,
+        "title": "What is a Cortado Coffee - Nescafe",
+        "link": "https://www.nescafe.com/in/coffee-culture/knowledge/cortado",
+        "displayed_link": "www.nescafe.com › Home › Coffee Culture › Coffee Knowledge",
+        "snippet": "A Cortado Coffee is made of equal parts espresso and steamed milk. Learn the difference between Cortado Coffee and Flat white, Cortado vs Macchiato."
+      },
+      {
+        "position": 4,
+        "title": "What is a Cortado? (And How to Make a Real One) - YouTube",
+        "link": "https://www.youtube.com/watch?v=hWOgDmMtqWQ",
+        "displayed_link": "www.youtube.com › watch",
+        "snippet": "The cortado is having a moment! Starbucks recently added a version to their menu, but are they serving a true cortado?",
+        "date": "Feb 10, 2025"
+      },
+      {
+        "position": 5,
+        "title": "Cortado | RISE UP COFFEE",
+        "link": "https://www.orderriseup.com/product/cortado/874",
+        "displayed_link": "www.orderriseup.com › product › cortado",
+        "snippet": "$3.00 - $4.50 · Raw Sugar · Splenda · Simple Syrup · Stevia · Lil Sugar · Extra Sugar · Unsweetened. Toppings (Optional). Optional. Cinnamon. Nutmeg. Whipped ..."
+      },
+      {
+        "position": 6,
+        "title": "Cortado Coffee - North Star Coffee Roasters",
+        "link": "https://www.northstarroast.com/blogs/brewing/cortado-coffee?srsltid=AfmBOoqKcJkrhAlrsVBZH700CzhcPGimC7O_lQlGXW93uwJBYK88k-wU",
+        "displayed_link": "www.northstarroast.com › blogs › brewing › cortado-coffee",
+        "snippet": "The Cortado is an espresso coffee drink, cut with a small amount of steamed milk. Originating from Spain, this drink is becoming a popular choice in cafes ..."
+      },
+      {
+        "position": 7,
+        "title": "I'm A Cortado Connoisseur—Here's My Brutally Honest Review Of ...",
+        "link": "https://www.delish.com/food-news/a63332849/starbucks-cortado-review/",
+        "displayed_link": "www.delish.com › food-news › starbucks-cortado-review",
+        "snippet": "The chain describes the drink as three ristretto shots of their Blonde Espresso with steamed whole milk, served in an eight-ounce cup.",
+        "date": "Jan 4, 2025"
+      },
+      {
+        "position": 8,
+        "title": "Macchiato vs Cortado vs Flat White: What's the Difference?",
+        "link": "https://methodicalcoffee.com/blogs/coffee-culture/macchiato-vs-cortado-vs-flat-white-whats-the-difference?srsltid=AfmBOoo1ROWzvGcHaBC9BJ1tjOBN2mroi771NA8PVFfAPTF2XEl4XaNx",
+        "displayed_link": "methodicalcoffee.com › blogs › coffee-culture › macchiato-vs-cortado-vs-f...",
+        "snippet": "The preparation of a cortado involves \"cutting\" the intensity of espresso by adding a small amount of steamed milk poured directly into the ...",
+        "date": "Aug 10, 2023"
+      },
+      {
+        "position": 9,
+        "title": "Cortado Mediterranean Cafe and Coffee in Iowa City",
+        "link": "https://cortadoic.com/",
+        "displayed_link": "cortadoic.com",
+        "snippet": "Cortado is a metropolitan-inspired, fast-paced, European style espresso and coffee bar in Iowa City specializing in properly prepared drinks, fresh pastries ..."
+      }
+    ],
+    "knowledge_graph": {
+      "title": "Cortado",
+      "type": "Beverages",
+      "description": "A cortado is a Spanish beverage consisting of espresso mixed with a roughly equal amount of warm milk to reduce the acidity, although the exact ratios have considerable regional variation. The milk in a cortado is steamed, but not frothy and... Wikipedia",
+      "header_images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShwRae_KacLV_jsy2RgeLFPvoFHTVPdFnO3czu6Mk&s=0",
+          "source": "https://en.wikipedia.org/wiki/Cortado"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvprpIRmmP_XqDsfHWCLAigC2JBmARNVtcWcf-mM&s=0",
+          "source": "https://methodicalcoffee.com/blogs/coffee-culture/macchiato-vs-cortado-vs-flat-white-whats-the-difference"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9JlM_y0rRrFTqC9z3aKeakDYMyx7cVYIA6dOGuo&s=0",
+          "source": "https://cafefabrique.com/blogs/infos/cortado"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIyyjXJYqQAU1ZkCU-27a80MNDYYvBy4F-mIDZmg&s=0",
+          "source": "https://cafebarista.ca/en/blogs/coffee/how-to-make-a-cortado"
+        }
+      ],
+      "origin": "Spain",
+      "origin_links": [
+        {
+          "text": "Spain",
+          "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Spain&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMjgb1rrNeyis4PHpPMdPMme4H-7q8gdbnMNYtflcNPivGcptDJHIrInbxC7Ljtue8YKT4dYWbVMJ8l4jCOyB_5I7fGD3WjqX4bKH1CRkatmiPtkXRyFUoi59C6s9GDkB_sJA-jtUAYUcinPFk80_XNEv-q_C&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQmxN6BAgOEBA"
+        }
+      ],
+      "ingredients": "Espresso, milk",
+      "ratio": "1:1",
+      "color": "Shades of brown, white",
+      "color_links": [
+        {
+          "text": "Shades of brown, white",
+          "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Shades+of+brown,+white&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDHLys1R4gIxi8vzkk3TtYSKi630y1OT0hKTS4qtkvNz8osWsYoFZySmpBYr5KcpJBXll-fpKJRnZJakAgD8HQw2RgAAAA&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQmxN6BAgOEBQ"
+        }
+      ]
+    },
+    "related_searches": [
+      {
+        "query": "Cortado vs flat white",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+vs+flat+white&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+vs+flat+white"
+      },
+      {
+        "query": "Cortado vs latte",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+vs+latte&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+vs+latte"
+      },
+      {
+        "query": "Cortado vs macchiato",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+vs+macchiato&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+vs+macchiato"
+      },
+      {
+        "query": "Cortado coffee",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+coffee&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+coffee"
+      },
+      {
+        "query": "Cortado Starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+Starbucks&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+Starbucks"
+      },
+      {
+        "query": "Cortado ingredients",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+ingredients&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+ingredients"
+      },
+      {
+        "query": "Cortado recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+recipe&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+recipe"
+      },
+      {
+        "query": "Cortado vs piccolo",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Cortado+vs+piccolo&sa=X&ved=2ahUKEwjfybCyl8-PAxUbS2cHHS89FrgQ1QJ6BAgKEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Cortado+vs+piccolo"
+      }
+    ],
+    "answer_box": {
+      "type": "organic_result",
+      "title": "Cortado - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Cortado",
+      "displayed_link": "en.wikipedia.org › wiki › Cortado",
+      "snippet": "A cortado is a Spanish beverage consisting of espresso mixed with a roughly equal amount of warm milk to reduce the acidity, although the exact ratios have considerable regional variation. The milk in a cortado is steamed, but not frothy and \"texturized\" as in many Italian coffee drinks.",
+      "snippet_highlighted_words": [
+        "a Spanish beverage consisting of espresso mixed with a roughly equal amount of warm milk to reduce the acidity"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIN0zRwlj2sodBnYdnut3cTlAKYVYgDxHK0M4aSwIUYbqs&s"
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=cortado&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1f353895d907f6c2740f6",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/105b6d9ff6025846/68c1f353895d907f6c2740f6.json",
+      "created_at": "2025-09-10 21:53:23 UTC",
+      "processed_at": "2025-09-10 21:53:23 UTC",
+      "google_light_url": "https://www.google.com/search?q=latte&oq=latte&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/105b6d9ff6025846/68c1f353895d907f6c2740f6.html",
+      "total_time_taken": 0.95
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "latte",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "latte",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Latte - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Latte",
+        "displayed_link": "en.wikipedia.org › wiki › Latte",
+        "snippet": "a coffee drink of Italian origin made with espresso and steamed milk, traditionally served in a glass.",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Latte macchiato",
+              "link": "https://en.wikipedia.org/wiki/Latte_macchiato"
+            },
+            {
+              "title": "Latte (disambiguation)",
+              "link": "https://en.wikipedia.org/wiki/Latte_(disambiguation)"
+            },
+            {
+              "title": "Latte art",
+              "link": "https://en.wikipedia.org/wiki/Latte_art"
+            },
+            {
+              "title": "Microfoam",
+              "link": "https://en.wikipedia.org/wiki/Microfoam"
+            }
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "title": "Caffè Latte: Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/menu/product/407/hot",
+        "displayed_link": "www.starbucks.com › menu › product › hot",
+        "snippet": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up. 190 calories, 18g sugar ..."
+      },
+      {
+        "position": 3,
+        "title": "How to Make a Cafe Latte Recipe - Allrecipes",
+        "link": "https://www.allrecipes.com/recipe/96629/cafe-latte/",
+        "displayed_link": "www.allrecipes.com › Recipes › Breakfast and Brunch › Drinks",
+        "snippet": "Brew espresso and pour into four cups. Pour in milk, holding back the foam with a spoon. Spoon foam over the top. Espresso cups being topped ...",
+        "extensions": [
+          "Rating",
+          "4.7 (43)",
+          "15 min"
+        ],
+        "date": "Nov 26, 2024",
+        "rating": 4.7,
+        "reviews": 43
+      },
+      {
+        "position": 4,
+        "title": "Can someone explain what a \"real latte\" is? : r/Coffee - Reddit",
+        "link": "https://www.reddit.com/r/Coffee/comments/2fki3f/can_someone_explain_what_a_real_latte_is/",
+        "displayed_link": "www.reddit.com › Coffee › comments › can_someone_explain_what_a_re...",
+        "snippet": "A 'real latte' (caffelatte) is a homestyle breakfast drink, consisting of strong coffee poured into warm milk. It's not the kind of drink that ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Why are lattes considered \"bad\" for you, but milk alone is ...",
+              "link": "https://www.reddit.com/r/espresso/comments/17xldqi/why_are_lattes_considered_bad_for_you_but_milk/"
+            },
+            {
+              "title": "Snail Latte Art : r/espresso",
+              "link": "https://www.reddit.com/r/espresso/comments/1nc615p/snail_latte_art/"
+            }
+          ]
+        },
+        "date": "Sep 5, 2014"
+      },
+      {
+        "position": 5,
+        "title": "How to Make a Cafè Latte - My Everyday Table",
+        "link": "https://myeverydaytable.com/how-to-make-a-latte-at-home/",
+        "displayed_link": "myeverydaytable.com › Recipes › Course › Drinks",
+        "snippet": "A latte is an espresso and milk drink that has a 1:3 ratio. One part espresso to three parts steamed milk and it's topped with a thin layer of milk foam.",
+        "extensions": [
+          "Rating",
+          "5.0 (2)",
+          "5 min"
+        ],
+        "date": "Jul 25, 2025",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
+        "position": 6,
+        "title": "How to Make a Latte at Home (Without an Espresso Machine!)",
+        "link": "https://www.thekitchn.com/how-to-make-a-latte-without-an-espresso-machine-cooking-lessons-from-the-kitchn-211090",
+        "displayed_link": "www.thekitchn.com › Recipes › Beverages › Coffee",
+        "snippet": "Make a latte at home with espresso or strongly brewed coffee and warmed milk, topped off with milk froth made in the microwave.",
+        "extensions": [
+          "Rating",
+          "5.0 (45)"
+        ],
+        "rating": 5,
+        "reviews": 45
+      },
+      {
+        "position": 7,
+        "title": "Hot Latte | Freshly Brewed Espresso Drink | Dunkin'®",
+        "link": "https://www.dunkindonuts.com/en/menu/espresso-and-coffee/product-latte-id1000102",
+        "displayed_link": "www.dunkindonuts.com › espresso-and-coffee › product-latte-id1000102",
+        "snippet": "Made with steamed, frothy milk, blended with our rich, freshly ground and brewed espresso. Our Latte has a layer of foam and is the perfect balance of creamy ..."
+      },
+      {
+        "position": 8,
+        "title": "Latte recipe - BBC Good Food",
+        "link": "https://www.bbcgoodfood.com/recipes/latte",
+        "displayed_link": "www.bbcgoodfood.com › Recipes",
+        "snippet": "Learn a few barista skills on how to make a latte. Our easy creamy latte recipe takes breakfast, or brunch, to the next level",
+        "extensions": [
+          "Rating",
+          "3.0 (3)",
+          "3 min"
+        ],
+        "rating": 3,
+        "reviews": 3
+      },
+      {
+        "position": 9,
+        "title": "The Beginner's Guide To Latte Art - YouTube",
+        "link": "https://www.youtube.com/watch?v=20HxMMSqRyg",
+        "displayed_link": "www.youtube.com › watch",
+        "snippet": "To start a business with Shopify, use this link for a free trial http://shopify.com/jameshoffmann Here are five key techniques to help get ...",
+        "date": "Mar 31, 2025"
+      }
+    ],
+    "knowledge_graph": {
+      "title": "Latte",
+      "type": "Drink",
+      "description": "Latte or caffè latte, also known as caffè e latte, caffellatte or caffelatte, is a coffee drink of Italian origin made with espresso and steamed milk, traditionally served in a glass. Wikipedia",
+      "header_images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HkYpo_VUU4Sger_oXUesD27Xa5JHDEuIMhXpTGo&s=0",
+          "source": "https://en.wikipedia.org/wiki/Latte"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWRHsNKE7M5ycALEeZDaV-QueB9GAolgWsTXAdd8&s=0",
+          "source": "https://liliebakery.fr/en/latte-macchiato/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL4pyvLX65LBp7AvkWehjDGOSsLLofoAhkl_S-2w&s=0",
+          "source": "https://www.caffesociety.co.uk/how-to-make-a-latte"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1IgpIe4zjuLVsQ0IDSpxtl6ikqt9KYuuflXlB2g&s=0",
+          "source": "https://cornercoffeestore.com/how-to-make-a-latte-without-an-espresso-machine/"
+        }
+      ],
+      "type_of_dish": "Drink",
+      "type_of_dish_links": [
+        {
+          "text": "Drink",
+          "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Beverage&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uuli01dlhXGAyBdpwY0klgE4P-cvWJFrxa9SIyKMBnhlk2VBYQiZo118Im10POhkeHd5L9YkKekV9wbp5L1qyVMHo-9qenScbuXSAVGvWHloVq1JVwTlMod_znbXoGUGwBKtE7SStLcvGlNKUyohgwba3vjUPt&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQmxN6BAgOEBA"
+        }
+      ],
+      "variants": "Latte macchiato",
+      "variants_links": [
+        {
+          "text": "Latte macchiato",
+          "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+macchiato&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35B9l5enTqPo7CbdQ_nZtuNfMCfs3TMhfZ8wlDknswvW_OrZuh8pEYGJN0sxe0LmlJXO2Oy_4QgHb22gKU5HgGBxBvoTvSRvuMi_jWJdD6yC2b_vgWsq92f84-iMHDcxjCpub0PHc17YbqElXwrzHDSTduW_pgj6jLies13c0QP4omOv4WQ%3D%3D&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQmxN6BAgOEBI"
+        }
+      ],
+      "cuisine": "Italian cuisine",
+      "cuisine_links": [
+        {
+          "text": "Italian cuisine",
+          "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Italian+cuisine&stick=H4sIAAAAAAAAAOPgE-LUz9U3MMwrMjVTAjMtK42yjbSEi4ut9MtTk9ISk0uKrZJLM4sz8xax8nuWJOZkJuYpQARSAWlPcYs_AAAA&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQmxN6BAgOEBQ"
+        }
+      ]
+    },
+    "related_searches": [
+      {
+        "query": "Latte vs cappuccino",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+vs+cappuccino&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+vs+cappuccino"
+      },
+      {
+        "query": "Latte pronunciation",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+pronunciation&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+pronunciation"
+      },
+      {
+        "query": "Latte AI",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+AI&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+AI"
+      },
+      {
+        "query": "Iced latte",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+latte&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+latte"
+      },
+      {
+        "query": "Latte color",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+color&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+color"
+      },
+      {
+        "query": "Latte Coffee price",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+Coffee+price&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+Coffee+price"
+      },
+      {
+        "query": "Latte meaning",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+meaning&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+meaning"
+      },
+      {
+        "query": "Latte in Italian",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Latte+in+Italian&sa=X&ved=2ahUKEwj_2pCZl8-PAxWNWEEAHVTCNDUQ1QJ6BAgJEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Latte+in+Italian"
+      }
+    ],
+    "answer_box": {
+      "type": "organic_result",
+      "title": "What is a Latte? | Cappuccino Vs Latte Coffee | Nescafé IN - Nescafe",
+      "link": "https://www.nescafe.com/in/coffee-culture/knowledge/latte",
+      "displayed_link": "www.nescafe.com › Home › Coffee Culture › Coffee Knowledge",
+      "snippet": "A latte or cafè latte is a milk coffee that boasts a silky layer of foam as a real highlight of the drink. A true latte will be made of one or two shots of espresso, steamed milk and a final, thin layer of frothed milk on top.",
+      "snippet_highlighted_words": [
+        "a milk coffee that boasts a silky layer of foam as a real highlight of the drink"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbluNd9AxYb66cQVDofqHmDQhQPYk1fgL3bcVfQYbT-TiZ&s"
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=latte&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1f353318660faf6eeb4bb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/6b5a1aebe2c55a4f/68c1f353318660faf6eeb4bb.json",
+      "created_at": "2025-09-10 21:53:23 UTC",
+      "processed_at": "2025-09-10 21:53:23 UTC",
+      "google_light_url": "https://www.google.com/search?q=matcha&oq=matcha&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/6b5a1aebe2c55a4f/68c1f353318660faf6eeb4bb.html",
+      "total_time_taken": 2.14
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "matcha",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "matcha",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Matcha - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Matcha",
+        "displayed_link": "en.wikipedia.org › wiki › Matcha",
+        "snippet": "Matcha /ˈmætʃə, ˈmɑːtʃə/ (抹茶) is a finely ground powder of green tea specially processed from shade-grown tea leaves. Shade growing gives matcha its ..."
+      },
+      {
+        "position": 2,
+        "title": "Matcha 101 - What It Is and How to Use It Recipe - Love and Lemons",
+        "link": "https://www.loveandlemons.com/matcha-green-tea/",
+        "displayed_link": "www.loveandlemons.com › Recipes",
+        "snippet": "It's a Japanese green tea powder made from finely powdered dried tea leaves. It has a slightly bitter, vegetal taste and a vibrant green color.",
+        "extensions": [
+          "Rating",
+          "5.0 (102)",
+          "5 min"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "The 6 Best Matcha Powders",
+              "link": "https://www.loveandlemons.com/best-matcha-powders/"
+            },
+            {
+              "title": "Beverage Recipes",
+              "link": "https://www.loveandlemons.com/recipes/beverage-recipes/"
+            },
+            {
+              "title": "Homemade oat milk",
+              "link": "https://www.loveandlemons.com/oat-milk/"
+            }
+          ]
+        },
+        "rating": 5,
+        "reviews": 102
+      },
+      {
+        "position": 3,
+        "title": "Ippodo Tea - Sayaka Matcha (40g Can) - Rich & Smooth - Ippodo Tea",
+        "link": "https://ippodotea.com/products/sayaka-no-mukashi?srsltid=AfmBOoqFqBZ2g3-YFwUnulcoRkkXdsGJqNPrO3dVtKfi-4XU7Ti0FBDL",
+        "displayed_link": "ippodotea.com › Matcha",
+        "snippet": "Sayaka is a more light-hearted, smooth tea in the rich category. Its sweetness and umami are accompanied by a hint of bitterness."
+      },
+      {
+        "position": 4,
+        "title": "Organic Matcha Powder - Green Tea",
+        "link": "https://www.republicoftea.com/organic-matcha-powder/p/v00624/?srsltid=AfmBOoql3itvf60xJo0SWj2MqnkDVJsEwGvpjlO1zzo_76KZY9vLq-dP",
+        "displayed_link": "www.republicoftea.com › Tea Types › Green Tea › Matcha Green Tea",
+        "snippet": "This Imperial Republic® organic matcha powder is ground from fine Japanese green tea leaves. It is the star of the centuries-old tea ceremony.",
+        "extensions": [
+          "In stock",
+          "Rating",
+          "4.5 (37)"
+        ],
+        "rating": 4.5,
+        "reviews": 37
+      },
+      {
+        "position": 5,
+        "title": "Health Benefits of Matcha Tea",
+        "link": "https://matchasource.com/health-benefits-of-matcha-tea/",
+        "displayed_link": "matchasource.com › health-benefits-of-matcha-tea",
+        "snippet": "Matcha is a great addition to a weight loss program by tackling the problem from both sides. It boosts metabolism and burns fat."
+      },
+      {
+        "position": 6,
+        "title": "Matcha Green Tea Powder | Authentic Matcha Tea | Matcha.com",
+        "link": "https://matcha.com/",
+        "displayed_link": "matcha.com",
+        "snippet": "Matcha is the ultimate form of green tea in the whole world. It comes exclusively from Japan, where the benefits of matcha are strongest due to the special ...",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Matcha, Green Tea",
+              "link": "https://matcha.com/collections/tea"
+            },
+            {
+              "title": "Products",
+              "link": "https://matcha.com/collections/all"
+            },
+            {
+              "title": "Bulk Matcha",
+              "link": "https://bulk.matcha.com/"
+            },
+            {
+              "title": "Matcha Prime",
+              "link": "https://matcha.com/pages/matcha-prime"
+            }
+          ]
+        }
+      },
+      {
+        "position": 7,
+        "title": "Japanese Tea Supplier | Wholesale & Retail | Premium Matcha ...",
+        "link": "https://nipponcha.us/?srsltid=AfmBOooH-BrNgPpGRYya9G6v_GEh5aa5reOHdmPSC3GUrostNah9C06y",
+        "displayed_link": "nipponcha.us",
+        "snippet": "At Nippon Cha, we are dedicated to delivering the finest ceremonial-grade matcha and traditional Japanese teas.",
+        "extensions": [
+          "Free delivery over $40",
+          "30-day returns"
+        ]
+      },
+      {
+        "position": 8,
+        "title": "The therapeutic potential of matcha tea: A critical review on human ...",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9792400/",
+        "displayed_link": "pmc.ncbi.nlm.nih.gov › articles › PMC9792400",
+        "snippet": "Matcha tea has various health benefits, including an enhancing effect on cognitive function, cardio-metabolic health, and anti-tumorogenesis."
+      },
+      {
+        "position": 9,
+        "title": "Pure Matcha - Golde",
+        "link": "https://golde.co/products/new-pure-matcha?srsltid=AfmBOooKnTYRrF0y9ewo0tynuyFpI-z_urhfmwNjwcJPSt2LNZ8lrobi",
+        "displayed_link": "golde.co › products › new-pure-matcha",
+        "snippet": "Pure Matcha is a delicious, ceremonial grade green tea sourced from Uji, Japan. It's organically grown and certified radiation-free and heavy metal-free.",
+        "extensions": [
+          "In stock",
+          "Rating",
+          "4.9 (625)"
+        ],
+        "rating": 4.9,
+        "reviews": 625
+      },
+      {
+        "position": 10,
+        "title": "Matcha: A look at possible health benefits - Harvard Health",
+        "link": "https://www.health.harvard.edu/staying-healthy/matcha-a-look-at-possible-health-benefits",
+        "displayed_link": "www.health.harvard.edu › staying-healthy › matcha-a-look-at-possible-hea...",
+        "snippet": "Matcha is a powder made from green tea leaves. It can be enjoyed as a tea or added to smoothies, baked goods, and other foods.",
+        "date": "Nov 25, 2024"
+      }
+    ],
+    "knowledge_graph": {
+      "title": "Matcha",
+      "type": "Tea",
+      "description": "Matcha is a finely ground powder of green tea specially processed from shade-grown tea leaves. Shade growing gives matcha its characteristic bright green color and strong umami flavor. Matcha is typically consumed suspended in hot water. Wikipedia",
+      "header_images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKan69-ukRjAbFGb0-Q90OkjebvN93na0Cgae7qU&s=0",
+          "source": "https://en.wikipedia.org/wiki/Matcha"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTtGqbYXEdcDBH-LtxVL0GVoPv8ZnouC4da6fzQ&s=0",
+          "source": "https://foodbyjonister.com/recipe/iced-matcha-latte/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJKN2CPPXB5mRIhv_p7ccWATTG6GvAURfpIaMfA&s=0",
+          "source": "https://www.snixykitchen.com/the-ultimate-guide-to-matcha/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-ll7bDw6GzsPW269DUQCz_-SluM0DWVhyUI4GQ&s=0",
+          "source": "https://www.modernfarmhouseeats.com/starbucks-iced-matcha-latte/"
+        }
+      ],
+      "colors": "bright green color",
+      "hangul": "말차",
+      "kanji": "抹茶"
+    },
+    "related_searches": [
+      {
+        "query": "Matcha latte",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+latte&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+latte"
+      },
+      {
+        "query": "Matcha powder",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+powder&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+powder"
+      },
+      {
+        "query": "Matcha benefits",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+benefits&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+benefits"
+      },
+      {
+        "query": "Matcha plant",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+plant&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+plant"
+      },
+      {
+        "query": "Matcha near me",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+near+me&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+near+me"
+      },
+      {
+        "query": "Matcha coffee",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+coffee&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+coffee"
+      },
+      {
+        "query": "Matcha Starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+Starbucks&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+Starbucks"
+      },
+      {
+        "query": "Matcha drink",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gl=us&gbv=1&q=Matcha+drink&sa=X&ved=2ahUKEwjU1O6Zl8-PAxVGlK8BHXN2FygQ1QJ6BAgIEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Matcha+drink"
+      }
+    ],
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=matcha&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1f301759dbcb0daca7708",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e29fa521a824b9a5/68c1f301759dbcb0daca7708.json",
+      "created_at": "2025-09-10 21:52:01 UTC",
+      "processed_at": "2025-09-10 21:52:01 UTC",
+      "google_light_url": "https://www.google.com/search?q=pumpkin+spice+latte&oq=pumpkin+spice+latte&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/e29fa521a824b9a5/68c1f301759dbcb0daca7708.html",
+      "total_time_taken": 0.93
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "pumpkin spice latte",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "pumpkin spice latte",
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Pumpkin Spice Latte: Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/menu/product/418/hot",
+        "displayed_link": "www.starbucks.com › menu › product › hot",
+        "snippet": "Our signature espresso and steamed milk with the celebrated flavor combination of pumpkin, cinnamon, nutmeg and clove. Enjoy it topped with whipped cream and ..."
+      },
+      {
+        "position": 2,
+        "title": "The Best Pumpkin Spice Latte Recipe - Inspired Taste",
+        "link": "https://www.inspiredtaste.net/8419/pumpkin-spice-latte-at-home-recipe/",
+        "displayed_link": "www.inspiredtaste.net › pumpkin-spice-latte-at-home-recipe",
+        "snippet": "This homemade pumpkin spice latte recipe uses real pumpkin, coffee, and the perfect blend of fall spices. Delicious, easy, and much better ...",
+        "extensions": [
+          "Rating",
+          "4.9 (83)",
+          "10 min"
+        ],
+        "date": "8 days ago",
+        "rating": 4.9,
+        "reviews": 83
+      },
+      {
+        "position": 3,
+        "title": "Homemade Pumpkin Spice Latte | Ambitious Kitchen",
+        "link": "https://www.ambitiouskitchen.com/homemade-pumpkin-spice-latte/",
+        "displayed_link": "www.ambitiouskitchen.com › Blog",
+        "snippet": "Make your espresso and pour it into a large mug or glass mason jar. Add pumpkin puree, maple syrup, pumpkin pie spice and vanilla and stir until ...",
+        "extensions": [
+          "Rating",
+          "4.8 (38)",
+          "10 min"
+        ],
+        "date": "Oct 5, 2023",
+        "rating": 4.8,
+        "reviews": 38
+      },
+      {
+        "position": 4,
+        "title": "Homemade Pumpkin Spice Latte Recipe - Allrecipes",
+        "link": "https://www.allrecipes.com/recipe/83029/pumpkin-spice-latte/",
+        "displayed_link": "www.allrecipes.com › ... › Coffee Drinks Recipes › Latte Recipes",
+        "snippet": "This easy pumpkin spice latte recipe combines espresso, hot milk, pumpkin puree and spice to make your favorite fall coffee drink at home.",
+        "extensions": [
+          "Rating",
+          "4.6 (72)",
+          "10 min"
+        ],
+        "rating": 4.6,
+        "reviews": 72
+      },
+      {
+        "position": 5,
+        "title": "Iced Pumpkin Spice Latte: Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/menu/product/418/iced",
+        "displayed_link": "www.starbucks.com › menu › product › iced",
+        "snippet": "Our signature espresso and milk—with the celebrated flavor combination of pumpkin, cinnamon, nutmeg and clove—served over ice. Enjoy it topped with whipped ..."
+      },
+      {
+        "position": 6,
+        "title": "Copycat Starbucks Pumpkin Spice Latte Recipe (Best Ever!)",
+        "link": "https://www.thekitchn.com/how-to-make-pumpkin-spice-latte-even-better-than-starbucks-cooking-lessons-from-the-kitchn-96277",
+        "displayed_link": "www.thekitchn.com › Recipes › Beverages › Coffee",
+        "snippet": "How to Make Copycat Starbucks Pumpkin Spice Lattes · Heat the pumpkin and spices. · Stir in the sugar. · Warm the milk. · Blend the milk. · Mix ...",
+        "extensions": [
+          "Rating",
+          "5.0 (106)"
+        ],
+        "date": "Aug 11, 2025",
+        "rating": 5,
+        "reviews": 106
+      },
+      {
+        "position": 7,
+        "title": "Pumpkin Spice Latte - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Pumpkin_Spice_Latte",
+        "displayed_link": "en.wikipedia.org › wiki › Pumpkin_Spice_Latte",
+        "snippet": "The Pumpkin Spice Latte (PSL) is a coffee drink made with a mix of traditional fall spice flavors (cinnamon, nutmeg, and clove), steamed milk, espresso, and ..."
+      },
+      {
+        "position": 8,
+        "title": "How do I make an Iced Pumpkin Spice Latte like Starbucks? - Reddit",
+        "link": "https://www.reddit.com/r/starbucks/comments/1kfa586/how_do_i_make_an_iced_pumpkin_spice_latte_like/",
+        "displayed_link": "www.reddit.com › starbucks › comments › how_do_i_make_an_iced_pum...",
+        "snippet": "So usually the standard is to pull espresso shots directly into cup, add pumpkin sauce, milk to upper line (so the total liquid adds up to that ...",
+        "date": "May 5, 2025"
+      },
+      {
+        "position": 9,
+        "title": "How To Make A Pumpkin Spice Latte CORRECTLY - YouTube",
+        "link": "https://www.youtube.com/watch?v=TP7T9Yb9-oM",
+        "displayed_link": "www.youtube.com › watch",
+        "snippet": "Tip! When straining the syrup, what i do is keeping the thick mixture of spices and pumpkin and using it as an extra flavour concentrate for, ...",
+        "date": "Oct 4, 2024"
+      },
+      {
+        "position": 10,
+        "title": "Pumpkin Spice Latte - Hot Espresso Drinks | Scooter's Coffee",
+        "link": "https://www.scooterscoffee.com/pumpkin-spice-latte",
+        "displayed_link": "www.scooterscoffee.com › pumpkin-spice-latte",
+        "snippet": "Make the most of every fall moment with our Pumpkin Spice Latte. Our deeply satisfying espresso, with classic pumpkin flavor and the spices that make you smile: ..."
+      }
+    ],
+    "related_questions": [
+      {
+        "snippet": "Place Homemade Pumpkin Spice Syrup into a mug, followed by hot espresso. Stir together. Fill mug with heated frothed milk until ¾ full, then top with whipped cream. Sprinkle with pumpkin pie spice!",
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&ei=AfPBaNyoGMaC9u8PoZDIiAM&q=How+to+make+pumpkin+spiced+latte?&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQzmd6BAgDEAc"
+      }
+    ],
+    "knowledge_graph": {
+      "title": "Pumpkin Spice Latte",
+      "type": "Drink",
+      "description": "The Pumpkin Spice Latte is a coffee drink made with a mix of traditional fall spice flavors, steamed milk, espresso, and often sugar, topped with whipped cream and pumpkin pie spice. The beverage is most commonly associated with Starbucks, which... Wikipedia",
+      "header_images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkoTBlvtmE2JoJH3MClirZTuDG405gu1_wwBUOw&s=0",
+          "source": "https://www.ambitiouskitchen.com/homemade-pumpkin-spice-latte/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDy4dPouQjCPcshpY-vQwRA6Ga3bX9PdhVme5cp1g&s=0",
+          "source": "https://www.cookingwithanadi.com/recipes/iced-pumpkin-spice-latte"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DpU2kjLsS-LPGrR1Kx5TDAd2BUN9KIKRi4wqbQ&s=0",
+          "source": "https://www.munchkintime.com/best-pumpkin-spice-latte-recipe-with-coffee/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO6DZw7mWzhC7wLUisfhQgDtsyRuSrCdcalofxA&s=0",
+          "source": "https://joyfullymad.com/easy-homemade-pumpkin-spice-latte-recipe/"
+        }
+      ],
+      "carb_count": "52 carbs"
+    },
+    "related_searches": [
+      {
+        "query": "Pumpkin spice latte recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+spice+latte+recipe&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+spice+latte+recipe"
+      },
+      {
+        "query": "Pumpkin Spice Latte Starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+Spice+Latte+Starbucks&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+Spice+Latte+Starbucks"
+      },
+      {
+        "query": "Pumpkin spice latte calories",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+spice+latte+calories&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+spice+latte+calories"
+      },
+      {
+        "query": "Pumpkin spice latte near me",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+spice+latte+near+me&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+spice+latte+near+me"
+      },
+      {
+        "query": "Pumpkin Spice Latte McDonald's",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+Spice+Latte+McDonald%27s&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+Spice+Latte+McDonald%27s"
+      },
+      {
+        "query": "Pumpkin Spice Latte sachets",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+Spice+Latte+sachets&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+Spice+Latte+sachets"
+      },
+      {
+        "query": "Pumpkin spice latte ingredients",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+spice+latte+ingredients&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+spice+latte+ingredients"
+      },
+      {
+        "query": "Pumpkin Spice Latte Starbucks 2025",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&hl=en&q=Pumpkin+Spice+Latte+Starbucks+2025&sa=X&ved=2ahUKEwicreDxls-PAxVGgf0HHSEIEjEQ1QJ6BAgJEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=Pumpkin+Spice+Latte+Starbucks+2025"
+      }
+    ],
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&hl=en&q=pumpkin+spice+latte&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  },
+  {
+    "search_metadata": {
+      "id": "68c1e90ccc56d3305af4252d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/06c056260f21a2c1/68c1e90ccc56d3305af4252d.json",
+      "created_at": "2025-09-10 21:09:32 UTC",
+      "processed_at": "2025-09-10 21:09:32 UTC",
+      "google_light_url": "https://www.google.com/search?q=oatmilk+latte&oq=oatmilk+latte&gl=us&sourceid=chrome&ie=UTF-8&gbv=1",
+      "raw_html_file": "https://serpapi.com/searches/06c056260f21a2c1/68c1e90ccc56d3305af4252d.html",
+      "total_time_taken": 2.34
+    },
+    "search_parameters": {
+      "engine": "google_light",
+      "q": "oatmilk latte",
+      "google_domain": "google.com",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "oatmilk latte",
+      "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+      "spelling_fix": "oat milk latte"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Oat Milk Latte (Hot or Iced!) - Delightful Adventures",
+        "link": "https://delightfuladventures.com/oat-milk-latte/",
+        "displayed_link": "delightfuladventures.com › Recipes › Drinks › Lattes & Hot Chocolate",
+        "snippet": "Make it an iced oat milk latte by adding the hot coffee and sweetener to a tall glass and stirring. If you are using granular sugar, make sure it has dissolved before adding the milk. Fill the glass with lots of ice, add the cold oat milk and the vanilla, if using, stir, then taste and adjust the sweetener if needed.",
+        "extensions": [
+          "8 min"
+        ],
+        "date": "Nov 10, 2023"
+      },
+      {
+        "position": 2,
+        "title": "Oat Milk Latte {Coffee Shop Style} - The Big Man's World ®",
+        "link": "https://thebigmansworld.com/oat-milk-latte/",
+        "displayed_link": "thebigmansworld.com › Breakfast Recipes › Drinks & Smoothies",
+        "snippet": "My creamy oat milk latte recipe makes a light, delicately sweetened latte using only 2 ingredients. NO espresso machine needed!",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Why I love this recipe",
+              "link": "https://thebigmansworld.com/oat-milk-latte/#why-i-love-this-recipe"
+            },
+            {
+              "title": "How to make an oat milk latte",
+              "link": "https://thebigmansworld.com/oat-milk-latte/#h-how-to-make-an-oat-milk-latte"
+            },
+            {
+              "title": "Arman's recipe tips",
+              "link": "https://thebigmansworld.com/oat-milk-latte/#armans-recipe-tips"
+            }
+          ]
+        },
+        "date": "Sep 13, 2024"
+      },
+      {
+        "position": 3,
+        "title": "Oat milk latte?? How is it done? Is it good? : r/espresso - Reddit",
+        "link": "https://www.reddit.com/r/espresso/comments/b258bn/oat_milk_latte_how_is_it_done_is_it_good/",
+        "displayed_link": "www.reddit.com › espresso › comments › oat_milk_latte_how_is_it_done_...",
+        "snippet": "The flavor is good, it's naturally sweet just like milk, with a hint of the “I'm-not-actually-milk” flavor. I'm incredibly lactose intolerant, ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "My oat milk latte taste like it's missing something. How to ... - Reddit",
+              "link": "https://www.reddit.com/r/starbucks/comments/vilhbz/my_oat_milk_latte_taste_like_its_missing/"
+            },
+            {
+              "title": "Oat Milk Latte Help Please : r/Coffee - Reddit",
+              "link": "https://www.reddit.com/r/Coffee/comments/1duskwg/oat_milk_latte_help_please/"
+            }
+          ]
+        },
+        "date": "Mar 17, 2019"
+      },
+      {
+        "position": 4,
+        "title": "Oat Latte: Starbucks Coffee Company",
+        "link": "https://www.starbucks.ca/menu/product/2123279/hot",
+        "displayed_link": "www.starbucks.ca › menu › product › hot",
+        "snippet": "Our dark, rich signature espresso made with a steamed oat beverage for a creamy and perfectly balanced tasting sip of earthiness. 190 Calories, 7g sugar, 8g fat"
+      },
+      {
+        "position": 5,
+        "title": "Oat Milk Latte (Simple + EASY Oat Milk Coffee Recipe!)",
+        "link": "https://www.butteredsideupblog.com/oat-milk-latte/",
+        "displayed_link": "www.butteredsideupblog.com › Beverage",
+        "snippet": "This homemade oat milk latte is sweetened with honey. It's super easy and simple to make with just 5 ingredients, no special equipment required, and it tastes ...",
+        "extensions": [
+          "Rating",
+          "5.0 (2)",
+          "7 min"
+        ],
+        "date": "Feb 18, 2021",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
+        "position": 6,
+        "title": "Oat Milk Nitro Cold Brew Latte - Dairy Free - RISE Brewing Co.",
+        "link": "https://risebrewingco.com/products/oat-milk-nitro-cold-brew-latte?srsltid=AfmBOoqiCFyog1RnzkEzTC41MBPp5RwhLnvtzejHZFr9PgDeFW5Ummet",
+        "displayed_link": "risebrewingco.com › products › oat-milk-nitro-cold-brew-latte",
+        "snippet": "With the delightful layers of organic oat milk and award-winning, nitrogen-infused cold brew, you're guaranteed to kickstart a fantastic day. Water, organic ...",
+        "extensions": [
+          "In stock",
+          "Rating",
+          "4.8 (533)"
+        ],
+        "rating": 4.8,
+        "reviews": 533
+      },
+      {
+        "position": 7,
+        "title": "NEW Oatmilk Latte from Brooklyn Roasting Company",
+        "link": "https://www.brooklynroasting.com/products/oatmilk-latte?srsltid=AfmBOopaDgi4DlHiZEJiGbXNPnCrzSNN-WE_cycOiWaBpfVUinETr5oY",
+        "displayed_link": "www.brooklynroasting.com › products › oatmilk-latte",
+        "snippet": "We created an oatmilk latte that appeals to everyone: it's vegan, has less than half the sugar of leading brands, and is shelf-stable without refrigeration.",
+        "extensions": [
+          "In stock",
+          "Free delivery over $50"
+        ]
+      },
+      {
+        "position": 8,
+        "title": "Iced Oat Milk Latte - Cookhouse Diary",
+        "link": "https://cookhousediary.com/iced-oat-milk-latte/",
+        "displayed_link": "cookhousediary.com › Recipes › Drinks and Beverages",
+        "snippet": "Shake the carton of oat milk and shake vigorously for 3-5 seconds before pouring it into a glass with ice. Pour espresso into the glass with ...",
+        "extensions": [
+          "Rating",
+          "5.0 (2)",
+          "5 min"
+        ],
+        "date": "May 14, 2023",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
+        "position": 9,
+        "title": "How to Make a \"Better than Starbucks\" Easy Shaken Oat Milk Latte",
+        "link": "https://www.familysavvy.com/how-to-make-a-better-than-starbucks-easy-shaken-oat-milk-latte/",
+        "displayed_link": "www.familysavvy.com › how-to-make-a-better-than-starbucks-easy-shaken...",
+        "snippet": "Ingredients · 1 jar with a lid · ice · 2 shots of espresso (or your favorite cold brew or strong coffee) · brown sugar syrup to taste · oat milk (I love Califia ...",
+        "extensions": [
+          "5 min"
+        ]
+      },
+      {
+        "position": 10,
+        "title": "Iced Pecan Crunch Oatmilk Latte: Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/menu/product/27688/iced",
+        "displayed_link": "www.starbucks.com › menu › product › iced",
+        "snippet": "Made with Starbucks® Blonde Espresso Roast and oatmilk. Nutty flavors of pecan, rich brown-buttery notes and holiday baking spices come together for a ..."
+      }
+    ],
+    "related_questions": [
+      {
+        "snippet": "Ingredients: 2 Cups of Planet Oat Extra Creamy Oatmilk. 1 1/3 cups of hot freshly brewed espresso coffee.",
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=DunBaI7jBYzO2roPkpSo0Ao&q=What+is+oatmilk+latte+made+of?&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQzmd6BAgCEAc"
+      },
+      {
+        "snippet": "Considering calorie content, oat milk lattes may have slightly more calories compared to regular lattes made with low-fat milk. However, oat milk contains healthy fats such as monounsaturated fat and fiber that can contribute to a sense of fullness, possibly helping in weight management.",
+        "more_results_link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&ei=DunBaI7jBYzO2roPkpSo0Ao&q=Are+oat+milk+lattes+healthier?&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQzmd6BAgCEA4"
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "Oatmilk latte starbucks",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+starbucks&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+starbucks"
+      },
+      {
+        "query": "Oatmilk latte recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+recipe&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+recipe"
+      },
+      {
+        "query": "Oatmilk latte calories",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+calories&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+calories"
+      },
+      {
+        "query": "Oatmilk latte starbucks recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+starbucks+recipe&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+starbucks+recipe"
+      },
+      {
+        "query": "Oatmilk latte caffeine",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+caffeine&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+caffeine"
+      },
+      {
+        "query": "Oatmilk latte near me",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Oatmilk+latte+near+me&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Oatmilk+latte+near+me"
+      },
+      {
+        "query": "Iced oat milk latte recipe",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+oat+milk+latte+recipe&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEBY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+oat+milk+latte+recipe"
+      },
+      {
+        "query": "Iced oatmilk latte",
+        "link": "https://www.google.com/search?sca_esv=7363e84110bffb1e&gbv=1&gl=us&q=Iced+oatmilk+latte&sa=X&ved=2ahUKEwiOoo2zjc-PAxUMp1YBHRIKCqoQ1QJ6BAgKEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=Iced+oatmilk+latte"
+      }
+    ],
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=us&google_domain=google.com&q=oatmilk+latte&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+    }
+  }
+]
