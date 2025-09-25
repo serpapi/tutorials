@@ -17,7 +17,7 @@ const keywords = [
 
 
 //   the domain to check the rankings of
-const domain = "starbucks.ca";
+const domain = "starbucks.com";
 
 
 const getRanking = (data) => {
@@ -33,7 +33,7 @@ const getRanking = (data) => {
 const responses = keywords.map(async (keyword) =>
     getJson({
         api_key: apiKey,
-        engine: "google_light",
+        engine: "google_light_fast",
         google_domain: "google.com",
         q: keyword,//required 
         gl: "us"
