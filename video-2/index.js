@@ -1,16 +1,20 @@
 import {getJson} from "serpapi";
 import dotenv from "dotenv";
-import fs from "fs";
+
 dotenv.config();
 const apiKey = process.env.API_KEY;
 
-const results = await getJson({
+getJson({
     api_key: apiKey,
     q: "matcha",
     gl: "ca"
 }, (json) => {
-    console.log(json)
+    const data = json.organic_results;
+    data.forEach((result, index) => {
+        console.log(`${index + 1}. ${result.title} - ${result.link}`);
+        console.log("Snippet:", result.snippet);
+        console.log("-----");
+    });
+    
 });
 
-//Write to file
-fs.writeFileSync("results2.json", JSON.stringify(results, null, 2), "utf-8");
