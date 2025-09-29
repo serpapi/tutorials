@@ -7,7 +7,8 @@ const apiKey = process.env.API_KEY;
 getJson({
     api_key: apiKey,
     q: "matcha",
-    gl: "ca"
+    gl: "ca",
+    location: "Vancouver, British Columbia, Canada"
 }, (json) => {
     const data = json.organic_results;
     data.forEach((result, index) => {
@@ -15,6 +16,6 @@ getJson({
         console.log("Snippet:", result.snippet);
         console.log("-----");
     });
-    
+    console.log(json.organic_results);
 });
 
