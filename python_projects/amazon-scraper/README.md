@@ -2,6 +2,8 @@
 
 A Python-based web scraper that extracts product information from Amazon search results. This project demonstrates how to scrape product data including names, ratings, review counts, and prices from Amazon's search pages.
 
+Full details tutorial is available on our blogpost [How to Scrape Amazon Product Data (2025 Tutorial)](https://serpapi.com/blog/scrape-amazon-product-data-tutorial/)
+
 ## Features
 
 - **Product Information Extraction**: Scrapes product names, star ratings, number of reviews, and prices
