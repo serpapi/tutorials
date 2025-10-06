@@ -1,0 +1,1916 @@
+{
+  "search_metadata": {
+    "id": "68dc161b06ca7f9c787ef607",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8f0db6528823b7cd/68dc161b06ca7f9c787ef607.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8f0db6528823b7cd/68dc161b06ca7f9c787ef607.json_with_pixel_position",
+    "created_at": "2025-09-30 17:40:43 UTC",
+    "processed_at": "2025-09-30 17:40:43 UTC",
+    "google_url": "https://www.google.com/search?q=matcha&oq=matcha&uule=w+CAIQICIhVmFuY291dmVyLEJyaXRpc2ggQ29sdW1iaWEsQ2FuYWRh&gl=ca&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8f0db6528823b7cd/68dc161b06ca7f9c787ef607.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "matcha",
+    "location_requested": "Vancouver, British Columbia, Canada",
+    "location_used": "Vancouver,British Columbia,Canada",
+    "google_domain": "google.com",
+    "gl": "ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "matcha",
+    "total_results": 130000000,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "Vancouver, BC"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&tbm=lcl&q=matcha&rflfq=1&num=10&uule=w+CAIQICIhVmFuY291dmVyLEJyaXRpc2ggQ29sdW1iaWEsQ2FuYWRh&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQtgN6BAg_EAM",
+    "image": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/20b170c319571485b0ecf6146f01c363.png",
+    "gps_coordinates": {
+      "latitude": 49.27362889,
+      "longitude": -123.1055832
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.9,
+        "reviews": 102,
+        "reviews_original": "(102)",
+        "price": "$",
+        "description": "\"The matcha latte was a generous amount and tasted great.\"",
+        "lsig": "AB86z5WQne5oCJkPxdOoSFaJivPT",
+        "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c1dd1daeae4d88e2c1c479deaaa7436180ae95b8594ff66418798fb0f1d94868b8bff59f234f79e1.jpeg",
+        "place_id": "17671291556776495749",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&ludocid=17671291556776495749&q=matcha",
+        "gps_coordinates": {
+          "latitude": 49.276096,
+          "longitude": -123.1218
+        },
+        "title": "O-Cha Tea Bar",
+        "type": "Tea house",
+        "address": "1116 Homer St"
+      },
+      {
+        "position": 2,
+        "rating": 4.8,
+        "reviews": 83,
+        "reviews_original": "(83)",
+        "price": "$10–20",
+        "description": "\"Th atmosphere is very nice and the black slush matcha was delicious!!\"",
+        "lsig": "AB86z5VPadgL4xMeqCZCea0s62Tu",
+        "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c1dd1daeae4d88e2c1c479deaaa74361e4a1720152bb9ea0f5bb89ca6b65890f7a24b65af9c67ddc.jpeg",
+        "place_id": "8842345980000940382",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&ludocid=8842345980000940382&q=matcha",
+        "gps_coordinates": {
+          "latitude": 49.276737,
+          "longitude": -123.11976
+        },
+        "title": "123Dough Organic Cafe",
+        "type": "Cafe",
+        "address": "1010 Hamilton St"
+      },
+      {
+        "position": 3,
+        "rating": 4.3,
+        "reviews": 1100,
+        "reviews_original": "(1.1K)",
+        "price": "$10–20",
+        "description": "\"Service is good, many different matcha options, and environment is good.\"",
+        "lsig": "AB86z5X00Ez1UpHugfx-2x8z-A1b",
+        "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c1dd1daeae4d88e2c1c479deaaa74361db283bcfbf86f1f4ab366b3b67d400f8843545de09a43704.jpeg",
+        "place_id": "12052124555907757040",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&ludocid=12052124555907757040&q=matcha",
+        "gps_coordinates": {
+          "latitude": 49.267586,
+          "longitude": -123.10855
+        },
+        "title": "Nana's Green Tea",
+        "type": "Cafe",
+        "address": "159 W 4th Ave"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&tbm=lcl&q=matcha&rflfq=1&num=10&uule=w+CAIQICIhVmFuY291dmVyLEJyaXRpc2ggQ29sdW1iaWEsQ2FuYWRh&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQjGp6BAg8EAE"
+  },
+  "knowledge_graph": {
+    "title": "Matcha",
+    "type": "Tea",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/06c60c",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/06c60c&hl=en-CA&q=Matcha",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&hl=en-CA&kgmid=%2Fm%2F06c60c&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c9e63c58553d9178050ad002c85b7ce590af915b5093b5cb94923fc6c88f35f8d88b43bfa26994f6.webp",
+        "source": "https://www.modernfarmhouseeats.com/starbucks-iced-matcha-latte/"
+      },
+      {
+        "image": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c9e63c58553d9178050ad002c85b7ce590af915b5093b5cb967a38b9cb64ba7de67b267395d1ba14.webp",
+        "source": "https://www.loveandlemons.com/matcha-green-tea/"
+      },
+      {
+        "image": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c9e63c58553d9178050ad002c85b7ce590af915b5093b5cb97b88ea124a885ab964e1f4a7b65a54d.webp",
+        "source": "https://foodbyjonister.com/recipe/iced-matcha-latte/"
+      },
+      {
+        "image": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/c9e63c58553d9178050ad002c85b7ce590af915b5093b5cbad2c8f4d0bb22af7da9b4b347e3e78dd.webp",
+        "source": "https://www.snixykitchen.com/the-ultimate-guide-to-matcha/"
+      }
+    ],
+    "description": "Matcha is a finely ground powder of green tea specially processed from shade-grown tea leaves. Shade growing gives matcha its characteristic bright green color and strong umami flavor. Matcha is typically consumed suspended in hot water.",
+    "source": {
+      "name": " Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Matcha"
+    },
+    "hangul": "말차",
+    "kanji": "抹茶"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Making matcha cream #matcha",
+      "link": "https://www.youtube.com/shorts/YzCqIhWS9_Y",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoj01zAigWinNv0skQ1Vm2j5_wuze8VDvJ2KZ9keHQQFUv&s",
+      "channel": "Ethan Rode",
+      "duration": "0:26",
+      "platform": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "How To Make PERFECT Matcha",
+      "link": "https://www.youtube.com/watch?v=00wCi_WH7SY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqJT9frjpFBNtxScxnPsEXxeRts7zdUZyK33o7Arm3nyL&s",
+      "channel": "Home Cafe by Charlie",
+      "duration": "7:26",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "How To Make Matcha",
+      "link": "https://www.youtube.com/watch?v=p-d5S9JHYQQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ozbi13axHfR8xj_xiCUKAdeIeIYkf105_Z_3vYWsia7o&s",
+      "channel": "HowToBasic",
+      "duration": "3:10",
+      "platform": "YouTube"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a28896ee7bd3253959c8221fd2ac468386bde.webp",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a2889f680136ca2ae209c5e1b61993e8e180ffe94a93f87e52e50.png",
+      "source": "Amazon CA",
+      "title": "Jade Leaf Matcha Organic Cafe Style Sweetened Matcha Latte Green Tea Powder",
+      "rating": 4.5,
+      "reviews": 2400,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTAwMTQ0MjMzMDExNDg2MjQ5IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEzODk2NzQ3MjQwMzYxOTU1MTciLCJpbWFnZURvY2lkIjoiMTgwMzc3NDk5NjQzNDcxMDU3OTciLCJyZHMiOiJQQ18xMzY3NDYwOTA2MTkzNjIxODcxMnxQUk9EX1BDXzEzNjc0NjA5MDYxOTM2MjE4NzEyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzNjc0NjA5MDYxOTM2MjE4NzEyIiwibWlkIjoiNTc2NDYyMzU3NjE4NjQyNDUyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTAwMTQ0MjMzMDExNDg2MjQ5IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEzODk2NzQ3MjQwMzYxOTU1MTciLCJpbWFnZURvY2lkIjoiMTgwMzc3NDk5NjQzNDcxMDU3OTciLCJyZHMiOiJQQ18xMzY3NDYwOTA2MTkzNjIxODcxMnxQUk9EX1BDXzEzNjc0NjA5MDYxOTM2MjE4NzEyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzNjc0NjA5MDYxOTM2MjE4NzEyIiwibWlkIjoiNTc2NDYyMzU3NjE4NjQyNDUyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "900144233011486249",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=900144233011486249"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a2889c15f791a09bc14ec99e59f76c46d90fa.webp",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a2889cc157a798341ec1e4bc1c3ab20af26a386f55b1ead8d69f5.png",
+      "source": "London Drugs",
+      "title": "David Tea Coffee and Tea",
+      "rating": 3.9,
+      "reviews": 128,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY1MDI3OTQzMDg4OTU3ODY5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3NDU3ODI0MzE2MzA0NTQxNDAiLCJpbWFnZURvY2lkIjoiOTc1MTc0MzkyODQ1MTAyMTcxNCIsInJkcyI6IlBDXzY1MTEyODc1OTM4NTYyNDM0OTN8UFJPRF9QQ182NTExMjg3NTkzODU2MjQzNDkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjY1MTEyODc1OTM4NTYyNDM0OTMiLCJtaWQiOiI1NzY0NjI4NTQ0MjUxMzQxMTMiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY1MDI3OTQzMDg4OTU3ODY5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3NDU3ODI0MzE2MzA0NTQxNDAiLCJpbWFnZURvY2lkIjoiOTc1MTc0MzkyODQ1MTAyMTcxNCIsInJkcyI6IlBDXzY1MTEyODc1OTM4NTYyNDM0OTN8UFJPRF9QQ182NTExMjg3NTkzODU2MjQzNDkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjY1MTEyODc1OTM4NTYyNDM0OTMiLCJtaWQiOiI1NzY0NjI4NTQ0MjUxMzQxMTMiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "6650279430889578690",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=6650279430889578690"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a28894f324369bb84a9cc392158d134f6fe9f.webp",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a28892001003a5ca03f8a0bec8db7c8a32ad1ef55a5a6794f29a3.png",
+      "source": "Amazon",
+      "title": "Tetley Super Green Matcha",
+      "rating": 4.3,
+      "reviews": 20,
+      "location": "Also nearby",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyOTIyMDg4NjYwMDQwMjM1ODAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNjUyNjEwNDg3MzQyNDU2NzMyIiwiaW1hZ2VEb2NpZCI6IjEzNjgyOTQ3MjE0ODYyNTQzNTE1IiwicmRzIjoiUENfMzAxMjI0MzM0MzUwMjg3Mzc0NHxQUk9EX1BDXzMwMTIyNDMzNDM1MDI4NzM3NDQiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzAxMjI0MzM0MzUwMjg3Mzc0NCIsIm1pZCI6IjU3NjQ2MjcyNDg3NDk5NTM2MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyOTIyMDg4NjYwMDQwMjM1ODAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNjUyNjEwNDg3MzQyNDU2NzMyIiwiaW1hZ2VEb2NpZCI6IjEzNjgyOTQ3MjE0ODYyNTQzNTE1IiwicmRzIjoiUENfMzAxMjI0MzM0MzUwMjg3Mzc0NHxQUk9EX1BDXzMwMTIyNDMzNDM1MDI4NzM3NDQiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzAxMjI0MzM0MzUwMjg3Mzc0NCIsIm1pZCI6IjU3NjQ2MjcyNDg3NDk5NTM2MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "14292208866004023580",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=14292208866004023580"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a2889cf464b7ed80107548b1e17292c7aba1a.webp",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a28892429de0a7d2a3f54fbae50a00e7dc6eff146094e152c9721.png",
+      "source": "Camellia Sinensis",
+      "title": "Camellia Sinensis Matcha Sora",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxOTc3NDYxNzMyOTAwODIyMjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjAxMDMwMDM5OTIzODY3NTYyNyIsImltYWdlRG9jaWQiOiI2NjMzNTM0ODcyMTI1NzIyNzM3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE2NzQ0MjQ3MDE1MjI3NTg2MDYwIiwibWlkIjoiNTc2NDYyNTE4NTk0MzE4MDA3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxOTc3NDYxNzMyOTAwODIyMjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjAxMDMwMDM5OTIzODY3NTYyNyIsImltYWdlRG9jaWQiOiI2NjMzNTM0ODcyMTI1NzIyNzM3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE2NzQ0MjQ3MDE1MjI3NTg2MDYwIiwibWlkIjoiNTc2NDYyNTE4NTk0MzE4MDA3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "15197746173290082227",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=15197746173290082227"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a288948de95f6902e42aba57fe475616d71fa.webp",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/fba632bc58bd4838a12677583d5a288980894a7064f045c52e4a12f03e57ca6cc3dbdc0d6a6f5d54.png",
+      "source": "London Drugs",
+      "title": "Aiya Organic Ceremonial Matcha",
+      "rating": 5,
+      "reviews": 1,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzkzOTczNzg4MDg3NDkzMTM1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxOTg3MTE3NjM3MTQzMjYzOSIsImltYWdlRG9jaWQiOiI4NDk0MTE3OTk4MzgxNzIxNDc3IiwicmRzIjoiUENfMzc3ODkxNDMwMDA3ODM5MjcyNXxQUk9EX1BDXzM3Nzg5MTQzMDAwNzgzOTI3MjUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzc3ODkxNDMwMDA3ODM5MjcyNSIsIm1pZCI6IjU3NjQ2Mjg2Njc4NDMyMjU2NiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzkzOTczNzg4MDg3NDkzMTM1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxOTg3MTE3NjM3MTQzMjYzOSIsImltYWdlRG9jaWQiOiI4NDk0MTE3OTk4MzgxNzIxNDc3IiwicmRzIjoiUENfMzc3ODkxNDMwMDA3ODM5MjcyNXxQUk9EX1BDXzM3Nzg5MTQzMDAwNzgzOTI3MjUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzc3ODkxNDMwMDA3ODM5MjcyNSIsIm1pZCI6IjU3NjQ2Mjg2Njc4NDMyMjU2NiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "3939737880874931355",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=3939737880874931355"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDoK5VAOO5OlRsXTsORNkFdXIC5W43qa43sU4AdPVGhiBq5Cc1hry5EnV3mgAqOf0Sr5KWenQJL86IG0TK7satPLpCyXi3ZXN6xehuL8lKDv6KfTLuQ7_p5w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "Yame Matcha Everyday 40g",
+      "original_price": "$48",
+      "extracted_original_price": 48,
+      "location": "Nearby, 6 km",
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDIxMzgyNzgxOTY4OTE1ODYwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQyODYwMzQxMTA1MTIzMjk0IiwiaW1hZ2VEb2NpZCI6IjE1OTQyNjc5NzgyNTE4NDMzNzI1IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMDIyMjUwNDcxOTkyMjE2MzQ1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDIxMzgyNzgxOTY4OTE1ODYwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQyODYwMzQxMTA1MTIzMjk0IiwiaW1hZ2VEb2NpZCI6IjE1OTQyNjc5NzgyNTE4NDMzNzI1IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMDIyMjUwNDcxOTkyMjE2MzQ1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "4213827819689158606",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=4213827819689158606"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxwP3ULRT9W7FzGfpiXUz4sha8cmGxFPJbDHbN1pisssl6_ImNnMQXhmaHw-nNEll79_4KmsjVzKGr8mGBpUyv-9n5X9-RchdoN5y3C00P9tG1QutpjPkW",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+      "source": "Amazon CA",
+      "title": "Elan Organic Matcha Green Tea Powder",
+      "rating": 4.4,
+      "reviews": 22,
+      "location": "Also nearby",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjMwNzc5MDU1MTY5MjQyMzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjI0MjQzMDg5OTk1MzI3NTA3MiIsImltYWdlRG9jaWQiOiIxMDA2NDI1MTg4NzcxNjQ2MTIzMCIsInJkcyI6IlBDXzI1OTE5ODczNDk1NDY0NjY2ODd8UFJPRF9QQ18yNTkxOTg3MzQ5NTQ2NDY2Njg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjI1OTE5ODczNDk1NDY0NjY2ODciLCJtaWQiOiI1NzY0NjI3Nzc3ODAzOTYzNzQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjMwNzc5MDU1MTY5MjQyMzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjI0MjQzMDg5OTk1MzI3NTA3MiIsImltYWdlRG9jaWQiOiIxMDA2NDI1MTg4NzcxNjQ2MTIzMCIsInJkcyI6IlBDXzI1OTE5ODczNDk1NDY0NjY2ODd8UFJPRF9QQ18yNTkxOTg3MzQ5NTQ2NDY2Njg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjI1OTE5ODczNDk1NDY0NjY2ODciLCJtaWQiOiI1NzY0NjI3Nzc3ODAzOTYzNzQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "15463077905516924239",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=15463077905516924239"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS86pz3EO6-Wy9c8zX-56kJXB48dA5A9XVAF_whqrF8p5u76KU07joQD9sDFvbAUS2apKLoXy1kjLimkAq-XnCtHTaEZotdwkbwFO2M5graOww0iI-FBHGB3ps",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRROrXaNeKjhdFL2bX6uaRpqCgdm4MpvLB6P0j7xv7K_MyrjbO4grTrbEBkI4IiX8Q9t30Tsvdo1p1HFcJ3bXUxNIZmr5pZOw",
+      "source": "Nami Matcha",
+      "title": "Nami Yame Matcha",
+      "rating": 4.2,
+      "reviews": 162,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTA1MjQwMzkzNDgxOTIzMDAxNjgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDUyNDAzOTM0ODE5MjMwMDE2OCIsImltYWdlRG9jaWQiOiI4MDI4NDAyNTQyMjI4MDM5Nzg0IiwicmRzIjoiTE9fMTA1MjQwMzkzNDgxOTIzMDAxNjh8UFJPRF9MT18xMDUyNDAzOTM0ODE5MjMwMDE2OCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTA1MjQwMzkzNDgxOTIzMDAxNjgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDUyNDAzOTM0ODE5MjMwMDE2OCIsImltYWdlRG9jaWQiOiI4MDI4NDAyNTQyMjI4MDM5Nzg0IiwicmRzIjoiTE9fMTA1MjQwMzkzNDgxOTIzMDAxNjh8UFJPRF9MT18xMDUyNDAzOTM0ODE5MjMwMDE2OCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "10524039348192300168",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=10524039348192300168"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKBuZ8p7Z4zRPt-tIj12PjPHk_3_RkoWzgeC52cPuZMN-jaYZkd-WDxY1AuTHK9GLpJtyCdwVPr6ExzIq8RQAeJFVrFQNgqMiwleWCYj0zKQWnykC9zTkB",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRmj-apZpl8c3ZU8sdUguOHIVofTlnzTJEIuPT-v3_6qjpv0AjDghFQoKsNC7c3LDDcxaEF1yJfhM64rAd3rmCaYJOzR4hZ33BeCPRHmDlGx4snDNg",
+      "source": "Healthy Planet",
+      "title": "Kato Matcha Ceremonial Spring Harvest Tea",
+      "rating": 4.8,
+      "reviews": 141,
+      "original_price": "Usually $30",
+      "extracted_original_price": 30,
+      "location": "Also nearby",
+      "delivery": "Free delivery on $60+",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3NTMzMjcxMTY3OTE4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NjcxNzI4NDA0NTQ4Njg1Mzc4IiwiaW1hZ2VEb2NpZCI6Ijg4MTQ5ODI5OTA3NzE3MzEyOCIsInJkcyI6IlBDXzEzMTMzMDk1Mjk5NzU4MTMwM3xQUk9EX1BDXzEzMTMzMDk1Mjk5NzU4MTMwMyIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMzEzMzA5NTI5OTc1ODEzMDMiLCJtaWQiOiI1NzY0NjI3OTAwNTYzMjgzNTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3NTMzMjcxMTY3OTE4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NjcxNzI4NDA0NTQ4Njg1Mzc4IiwiaW1hZ2VEb2NpZCI6Ijg4MTQ5ODI5OTA3NzE3MzEyOCIsInJkcyI6IlBDXzEzMTMzMDk1Mjk5NzU4MTMwM3xQUk9EX1BDXzEzMTMzMDk1Mjk5NzU4MTMwMyIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMzEzMzA5NTI5OTc1ODEzMDMiLCJtaWQiOiI1NzY0NjI3OTAwNTYzMjgzNTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "17753327116791896",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17753327116791896"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9syHAgFJJbwJFKDvrJxRwCAkCUYo1ozatS4gTjx73qxc2uLsvqnIufkDXbs7vlk3igzN-lLRtCGEaVcpt2Ia0ag71EPTmC3z4Flz8Ahpr96yJ7cbxUOqmZoA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+      "source": "Amazon CA",
+      "title": "Ippodo Tea (Kyoto Since 1717) Ummon Rich Matcha",
+      "rating": 4.9,
+      "reviews": 531,
+      "original_price": "$175",
+      "extracted_original_price": 175,
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTUyMzUxNjEwNDAxNjA0ODQyNTAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTIzNTE2MTA0MDE2MDQ4NDI1MCIsImltYWdlRG9jaWQiOiIxNTIyODcxNDgyNjEyMTk4OTc3MiIsInJkcyI6IlBDXzMwODEwNDAyNzY5NTU1MzY3OTN8UFJPRF9QQ18zMDgxMDQwMjc2OTU1NTM2NzkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTUyMzUxNjEwNDAxNjA0ODQyNTAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTIzNTE2MTA0MDE2MDQ4NDI1MCIsImltYWdlRG9jaWQiOiIxNTIyODcxNDgyNjEyMTk4OTc3MiIsInJkcyI6IlBDXzMwODEwNDAyNzY5NTU1MzY3OTN8UFJPRF9QQ18zMDgxMDQwMjc2OTU1NTM2NzkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "15235161040160484250",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=15235161040160484250"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKZ8e5tTO6MRMJPMtdBlELvks-25MjpJg_Uo2hVWj02EuicXGa5pabj7pDRSGLQ4DLl5BJt7785VlnKiAwgJVPmz1AQm6G-oRzX8DwB_2m6YbP-d4rO_K2sA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "U1 Ceremonial Uji Matcha Everyday Grade 100g",
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1MjQxNDAxNDMwNDQ2MjkxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzc2MDMzMzExNTE4MTM3ODMyIiwiaW1hZ2VEb2NpZCI6IjE5ODQxMDEwNDI3ODA1Mjg3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0Mzk5NTEzMTExODYxMzI4MzUiLCJtaWQiOiI1NzY0NjI4MjMxNzk1NjAwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1MjQxNDAxNDMwNDQ2MjkxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzc2MDMzMzExNTE4MTM3ODMyIiwiaW1hZ2VEb2NpZCI6IjE5ODQxMDEwNDI3ODA1Mjg3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0Mzk5NTEzMTExODYxMzI4MzUiLCJtaWQiOiI1NzY0NjI4MjMxNzk1NjAwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "9452414014304462912",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=9452414014304462912"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFZCuSUW-KOOCx74A8vCXwTjxEy41XeB4QiuyxSgmN0KnpsISNw1MM2TIxry6S6tCuNZmzQxE-ZnEEUyxlla5zm0ToJywJCmPpS3SrpNbzu-UHTrgccV0tgg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "Two Hills ORG. MATCHA TEA",
+      "rating": 5,
+      "reviews": 9,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyOTIwMjUyODAzMjc3NDY5NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDgwNTgzNzUxOTQ1ODE2NTEwMSIsImltYWdlRG9jaWQiOiIxMzYzNDQyOTEyNDIzNzk3MTA1MyIsInJkcyI6IlBDXzQ0MzQzNjAwMjY4MzIxNzIwODJ8UFJPRF9QQ180NDM0MzYwMDI2ODMyMTcyMDgyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0MzQzNjAwMjY4MzIxNzIwODIiLCJtaWQiOiI1NzY0NjI4MTk4NjY4MjU3NzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyOTIwMjUyODAzMjc3NDY5NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDgwNTgzNzUxOTQ1ODE2NTEwMSIsImltYWdlRG9jaWQiOiIxMzYzNDQyOTEyNDIzNzk3MTA1MyIsInJkcyI6IlBDXzQ0MzQzNjAwMjY4MzIxNzIwODJ8UFJPRF9QQ180NDM0MzYwMDI2ODMyMTcyMDgyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0MzQzNjAwMjY4MzIxNzIwODIiLCJtaWQiOiI1NzY0NjI4MTk4NjY4MjU3NzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "18292025280327746972",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=18292025280327746972"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAmBjcvSxJRWUWCINPhrnZuMqWN9lgFc5YR-NtaTtwJyFNToseLx-CixuPt4gct3t4TSyQuVqx7GFtzMzSIqQIrQQFpD9bfBbmHalTHmM62LcA8ZvQp6c",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHu0UmqgiOUHVmdV2keX5XDS6ztX5KDhaGBb3GeQYuL4BvxmmkMgbplTzMUngzwNLa5FNYWJa2nadhDcrL3oGdboo",
+      "source": "Amazon",
+      "title": "Amoda Japanese Matcha",
+      "rating": 5,
+      "reviews": 4,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzNTYyNzcxNjcxNjE4NTUyNjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzY2MjAwNzAwMzc2OTUxNDMzIiwiaW1hZ2VEb2NpZCI6Ijc1MzA1NTE0NjM2OTU3MTQ2ODYiLCJyZHMiOiJQQ18xNzI3NTI4OTI1NzIwNzk5OTM0MHxQUk9EX1BDXzE3Mjc1Mjg5MjU3MjA3OTk5MzQwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE3Mjc1Mjg5MjU3MjA3OTk5MzQwIiwibWlkIjoiNTc2NDYyNDMzNjM5MzYxOTcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzNTYyNzcxNjcxNjE4NTUyNjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzY2MjAwNzAwMzc2OTUxNDMzIiwiaW1hZ2VEb2NpZCI6Ijc1MzA1NTE0NjM2OTU3MTQ2ODYiLCJyZHMiOiJQQ18xNzI3NTI4OTI1NzIwNzk5OTM0MHxQUk9EX1BDXzE3Mjc1Mjg5MjU3MjA3OTk5MzQwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE3Mjc1Mjg5MjU3MjA3OTk5MzQwIiwibWlkIjoiNTc2NDYyNDMzNjM5MzYxOTcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "14356277167161855266",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=14356277167161855266"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmD2SfQi-C7Xx-clN97_NQ1iJempolMmgOgwGeFIKW7_Trev1Rlu4lKY1GjcqGF1V2dexQfchGpBvujPFx9U09IA8j7_ZFpEwBPkTtqBhoaaF3k5IIsWEO",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRmj-apZpl8c3ZU8sdUguOHIVofTlnzTJEIuPT-v3_6qjpv0AjDghFQoKsNC7c3LDDcxaEF1yJfhM64rAd3rmCaYJOzR4hZ33BeCPRHmDlGx4snDNg",
+      "source": "Healthy Planet",
+      "title": "Organic Traditions Premium Matcha Tea",
+      "rating": 4.5,
+      "reviews": 188,
+      "location": "Also nearby",
+      "delivery": "Free delivery on $60+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM3OTU2Mjk0MzA4Njc4NTk2NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjc1MTA3MTI3MTQ0MDkyMzA5IiwiaW1hZ2VEb2NpZCI6IjE1MjY4NTU2MTIwOTQyMTI0OTk3IiwicmRzIjoiUENfMTI2MTc1MzkxMjM4OTczMjA3ODd8UFJPRF9QQ18xMjYxNzUzOTEyMzg5NzMyMDc4NyIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMjYxNzUzOTEyMzg5NzMyMDc4NyIsIm1pZCI6IjU3NjQ2Mjc3NTA1ODQ0MDEyMiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM3OTU2Mjk0MzA4Njc4NTk2NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjc1MTA3MTI3MTQ0MDkyMzA5IiwiaW1hZ2VEb2NpZCI6IjE1MjY4NTU2MTIwOTQyMTI0OTk3IiwicmRzIjoiUENfMTI2MTc1MzkxMjM4OTczMjA3ODd8UFJPRF9QQ18xMjYxNzUzOTEyMzg5NzMyMDc4NyIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMjYxNzUzOTEyMzg5NzMyMDc4NyIsIm1pZCI6IjU3NjQ2Mjc3NTA1ODQ0MDEyMiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "9379562943086785965",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=9379562943086785965"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnXPzfiPpXxz8lil_2jb1ds8oiwxZlM-Tisc_3ViaXPUnlLhUXNYKfV7eJal9-_fQxIMiWFfIjqmoUx-vU8cEhmCHXYT312kcud6_mazmZ1vVLtkLsQUVv",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+      "source": "Amazon CA",
+      "title": "Jade Leaf Matcha Organic Green Tea Powder",
+      "rating": 4.8,
+      "reviews": 643,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTUwNDIxNTMzNTUyMTIzODI2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMzU3NDU3OTM5MzExNjczNTgiLCJpbWFnZURvY2lkIjoiNDcwOTE2NDkzOTU4NzkyMjY2IiwicmRzIjoiUENfMTI5NzQ2NTMzNjIwNTI1MDY1MTR8UFJPRF9QQ18xMjk3NDY1MzM2MjA1MjUwNjUxNCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMjk3NDY1MzM2MjA1MjUwNjUxNCIsIm1pZCI6IjU3NjQ2Mjg0MjI3NDUzMDcyNCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTUwNDIxNTMzNTUyMTIzODI2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMzU3NDU3OTM5MzExNjczNTgiLCJpbWFnZURvY2lkIjoiNDcwOTE2NDkzOTU4NzkyMjY2IiwicmRzIjoiUENfMTI5NzQ2NTMzNjIwNTI1MDY1MTR8UFJPRF9QQ18xMjk3NDY1MzM2MjA1MjUwNjUxNCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMjk3NDY1MzM2MjA1MjUwNjUxNCIsIm1pZCI6IjU3NjQ2Mjg0MjI3NDUzMDcyNCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "9504215335521238262",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=9504215335521238262"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGDrSHILP9OPexAoO5zUheO11I5o_cJptQztYYHE7EOg5OVYIA3jRK6Jj1rrhLwJacq7MEyGVlfMgrHLg7GlrkpdJ8FiVClqWuXZKKQWqKA921bxlUC3sC",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTe0W3WyYCdnb6lnAEQp3ObvswFMS_8M0MzM28o0Awx9ProFGeCKYvkN8QBQ9oRa65Q8Ys8aEPRTrJvN2XOXasLvfSNV__56UNoGadk4ac",
+      "source": "Camellia Sinensis",
+      "title": "Camellia Sinensis Matcha Sora 100g",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjMzNDI2OTI1NDI0MjIyMzIzIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxNDkzNTU1NDY0NjkzNTEyNjgiLCJpbWFnZURvY2lkIjoiMTQ2MzcwMjQ3NDI5OTIxOTkyNTYiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTExMzU5NTQ1ODkyMzI5Mzk1NjgiLCJtaWQiOiI1NzY0NjI4MDM5NTMyNzE2MDciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjMzNDI2OTI1NDI0MjIyMzIzIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxNDkzNTU1NDY0NjkzNTEyNjgiLCJpbWFnZURvY2lkIjoiMTQ2MzcwMjQ3NDI5OTIxOTkyNTYiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTExMzU5NTQ1ODkyMzI5Mzk1NjgiLCJtaWQiOiI1NzY0NjI4MDM5NTMyNzE2MDciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "233426925424222323",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=233426925424222323"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6H5s56vlVFc7X2ITt_gBi2c3-hm1ttpJOJfTWvZs8SNG7MYB17d2Kr0xwpENMpKITDRB8-3DbxIyvTAwlLQn6GxKHl6KYH7z8DYy1zFaWC9gpsms08kU4Ng",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "DAVIDsTEA Fruity Matcha Single Serves Variety Pack",
+      "rating": 4.4,
+      "reviews": 42,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzAwMzQ3NjQ2MTk3MjQyNjEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzk5MDQwNjkwMTc5OTkxMDA2IiwiaW1hZ2VEb2NpZCI6IjEwNTA0MzQ0NTAyMzc5MzIzMTY3IiwicmRzIjoiUENfMTE4ODUxMjIyMDg5NTE1OTE4MTB8UFJPRF9QQ18xMTg4NTEyMjIwODk1MTU5MTgxMCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTg4NTEyMjIwODk1MTU5MTgxMCIsIm1pZCI6IjU3NjQ2Mjc2OTE2NjIwMDE1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzAwMzQ3NjQ2MTk3MjQyNjEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzk5MDQwNjkwMTc5OTkxMDA2IiwiaW1hZ2VEb2NpZCI6IjEwNTA0MzQ0NTAyMzc5MzIzMTY3IiwicmRzIjoiUENfMTE4ODUxMjIyMDg5NTE1OTE4MTB8UFJPRF9QQ18xMTg4NTEyMjIwODk1MTU5MTgxMCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTg4NTEyMjIwODk1MTU5MTgxMCIsIm1pZCI6IjU3NjQ2Mjc2OTE2NjIwMDE1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "12030034764619724261",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=12030034764619724261"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRz85EBKLbuw0AFKg3B0POE5RfBfxAfGCpiR5hAT79aHmoN6GE27tp9mK2ikMBFBWUerUpRLMeQhrKia3xx8j49BKqi66Ff9AlAu3rahQFpJxwT52gwncYz9w",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTf9H64lNF9EPHudQW5y-6MIY5L9cpUErysQ2eV07lqmyla96pjX7HH6ff5Ml3sHfKG-QraA8BxMOUt5a3dN3earULd7U-8",
+      "source": "DAVIDsTEA",
+      "title": "Organic Peach Matcha",
+      "rating": 4.4,
+      "reviews": 90,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4NDY4NTI2MzEwOTY3Nzg1ODkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5MzIyMjU0MzkyMDg4MzMyNjk0IiwiaW1hZ2VEb2NpZCI6IjU2ODQ1OTQwNTcyNTMzNjAyNyIsInJkcyI6IlBDXzEwNDM2NTQ0NTAyODI0MDI2MTV8UFJPRF9QQ18xMDQzNjU0NDUwMjgyNDAyNjE1IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEwNDM2NTQ0NTAyODI0MDI2MTUiLCJtaWQiOiI1NzY0NjI4NTM4ODQ4NTcxMDgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4NDY4NTI2MzEwOTY3Nzg1ODkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5MzIyMjU0MzkyMDg4MzMyNjk0IiwiaW1hZ2VEb2NpZCI6IjU2ODQ1OTQwNTcyNTMzNjAyNyIsInJkcyI6IlBDXzEwNDM2NTQ0NTAyODI0MDI2MTV8UFJPRF9QQ18xMDQzNjU0NDUwMjgyNDAyNjE1IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEwNDM2NTQ0NTAyODI0MDI2MTUiLCJtaWQiOiI1NzY0NjI4NTM4ODQ4NTcxMDgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "12846852631096778589",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=12846852631096778589"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTf6WIbfdyuvbEEZ__J7rfz_7-z0MIP5XsLW53RJrz3EfJlpcR0k1PoePClnH3fIlisYI5ZjOnDkFm-gR_gCHesfcud3HdjmEQoAQ-Fs6NQRG6wGpVSLiI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR38ii2oTO4YbZmgE8qZSIwYOkgUtgiS7Cl8YCM74SY3NZ0Gx8Mv__NTH3TLAxd_cK5Dz480dwBE0-JdLYW098Z",
+      "source": "Well.ca",
+      "title": "Ecoidea Organic Japanese Matcha Green Tea Powder",
+      "rating": 5,
+      "reviews": 2,
+      "location": "Also nearby",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5OTc5NDk4ODk1MTg4Nzk2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NjMxNjU3NjY0MDUzNzYzMTAwIiwiaW1hZ2VEb2NpZCI6IjEwNjgxNzg1NDgyMjAzMTg2MjUwIiwicmRzIjoiUENfOTM3OTkwODgzNTI3NzY2ODA4NXxQUk9EX1BDXzkzNzk5MDg4MzUyNzc2NjgwODUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiOTM3OTkwODgzNTI3NzY2ODA4NSIsIm1pZCI6IjU3NjQ2MjY2NjgyNzk2NTkxOSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5OTc5NDk4ODk1MTg4Nzk2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NjMxNjU3NjY0MDUzNzYzMTAwIiwiaW1hZ2VEb2NpZCI6IjEwNjgxNzg1NDgyMjAzMTg2MjUwIiwicmRzIjoiUENfOTM3OTkwODgzNTI3NzY2ODA4NXxQUk9EX1BDXzkzNzk5MDg4MzUyNzc2NjgwODUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiOTM3OTkwODgzNTI3NzY2ODA4NSIsIm1pZCI6IjU3NjQ2MjY2NjgyNzk2NTkxOSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "5999794988951887968",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=5999794988951887968"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZR4n7jlf-xR4v31r3DEtTKDB6KK0rNQN9t6nkbRJ7TeZl5ywZukiujZ72sGwPbrWbcBP13bNW2uWKKeWAaC5PPadC597HT1_p6k9Fc0jSnrogB80a2SJx4g",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQEIS6ZnTqCCFiKTGYWrpeO1lKo0a3PMetG3Ekx45EidFI_mgZe9ls11GJ6sPHezDR7Nl17XMIcqEV_Yl8EOpZyvAhOL5Vc",
+      "source": "Satohkamu",
+      "title": "Matcha Kaguraden",
+      "rating": 5,
+      "reviews": 52,
+      "original_price": "Usually $57",
+      "extracted_original_price": 57,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc0MjcyMDQwNTE1NzQ1MDQ1NTkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzYxOTcxNDI1NDI4ODgzNDQyMCIsImltYWdlRG9jaWQiOiIyOTIzNzgyNTUzODU0ODM5NTk3IiwicmRzIjoiUENfNDYyMTY2NjYzNDczMDMyMzk4fFBST0RfUENfNDYyMTY2NjYzNDczMDMyMzk4IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ2MjE2NjY2MzQ3MzAzMjM5OCIsIm1pZCI6IjU3NjQ2Mjc4MTMzNzAzMDE2NCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc0MjcyMDQwNTE1NzQ1MDQ1NTkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzYxOTcxNDI1NDI4ODgzNDQyMCIsImltYWdlRG9jaWQiOiIyOTIzNzgyNTUzODU0ODM5NTk3IiwicmRzIjoiUENfNDYyMTY2NjYzNDczMDMyMzk4fFBST0RfUENfNDYyMTY2NjYzNDczMDMyMzk4IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ2MjE2NjY2MzQ3MzAzMjM5OCIsIm1pZCI6IjU3NjQ2Mjc4MTMzNzAzMDE2NCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "17427204051574504559",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17427204051574504559"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFeBRackVl5y_af9Xms_TtLosiGnaCjmFRYXyXtHCotiHxBYiyJudGbnQSBHM0sIrp3gd0X_GitV5uAZk10aUiqU0zcQ9CgH2s_Emo-w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR38ii2oTO4YbZmgE8qZSIwYOkgUtgiS7Cl8YCM74SY3NZ0Gx8Mv__NTH3TLAxd_cK5Dz480dwBE0-JdLYW098Z",
+      "source": "Well.ca",
+      "title": "Blume Matcha Starter Kit",
+      "rating": 5,
+      "reviews": 1,
+      "delivery": "Free delivery by Sun",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NzI4Njk3NTY5ODg3NDA0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk0MjYwNDc3MzI1NzY1MzIyIiwiaW1hZ2VEb2NpZCI6IjEwODE0NTcxNzU4NjM1NjE2ODc1IiwicmRzIjoiUENfNTM3NzE4MjY4OTY5MzQ2NDcxNXxQUk9EX1BDXzUzNzcxODI2ODk2OTM0NjQ3MTUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNTM3NzE4MjY4OTY5MzQ2NDcxNSIsIm1pZCI6IjU3NjQ2MjgwOTQzOTYwNTkxMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NzI4Njk3NTY5ODg3NDA0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk0MjYwNDc3MzI1NzY1MzIyIiwiaW1hZ2VEb2NpZCI6IjEwODE0NTcxNzU4NjM1NjE2ODc1IiwicmRzIjoiUENfNTM3NzE4MjY4OTY5MzQ2NDcxNXxQUk9EX1BDXzUzNzcxODI2ODk2OTM0NjQ3MTUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNTM3NzE4MjY4OTY5MzQ2NDcxNSIsIm1pZCI6IjU3NjQ2MjgwOTQzOTYwNTkxMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "1647286975698874046",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=1647286975698874046"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrFEFs4nKFTpQhogyhQ18CpJphvl9IB1ONxyg0rp9doGEi51LvKHZkcAL8oMRYZe90nDS2lw_cgDpEJAseBIbJ16tL-UjD5GR5zMaL_CQhDdRIdu-zXBcmIw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "U1 Ceremonial Matcha Everyday Grade 1kg",
+      "original_price": "$833",
+      "extracted_original_price": 833,
+      "location": "Nearby, 6 km",
+      "delivery": "Free delivery",
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5MDU0Mjg5NjA1ODk0NjQ5MjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4OTM0MDYwODg1NDA1MjEwMDE2IiwiaW1hZ2VEb2NpZCI6IjMzNDk0MjY5ODI1NjEzMDQ0MzIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNzEyODk2MDkxNTc4MDU4MDU5OSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5MDU0Mjg5NjA1ODk0NjQ5MjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4OTM0MDYwODg1NDA1MjEwMDE2IiwiaW1hZ2VEb2NpZCI6IjMzNDk0MjY5ODI1NjEzMDQ0MzIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNzEyODk2MDkxNTc4MDU4MDU5OSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "17905428960589464923",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17905428960589464923"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGZM1k8szTFJtCvsE_IvtV0YpiDMLCL6EFK_ITTx0qFVQ6MHfaxJ1S26Vc7e3m3ND30TJK4y5fpE8ZZrFQ1gt71NkELJzaqrTrhfz89lAkZk9FicMsIkzfDQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTf9H64lNF9EPHudQW5y-6MIY5L9cpUErysQ2eV07lqmyla96pjX7HH6ff5Ml3sHfKG-QraA8BxMOUt5a3dN3earULd7U-8",
+      "source": "DAVIDsTEA",
+      "title": "Organic Vanilla Matcha",
+      "rating": 4,
+      "reviews": 73,
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDMzMjExMDg5NzExMTc5NDg1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwODQwNjkwMzE1NDg5ODY5MjIiLCJpbWFnZURvY2lkIjoiODE1NjY4MzI0NTk3ODU3MzQzMyIsInJkcyI6IlBDXzg4NDYyMzQ5MTA2MDEwMzEyMjB8UFJPRF9QQ184ODQ2MjM0OTEwNjAxMDMxMjIwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6Ijg4NDYyMzQ5MTA2MDEwMzEyMjAiLCJtaWQiOiI1NzY0NjI4NDc3ODA5NDcwMDgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDMzMjExMDg5NzExMTc5NDg1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwODQwNjkwMzE1NDg5ODY5MjIiLCJpbWFnZURvY2lkIjoiODE1NjY4MzI0NTk3ODU3MzQzMyIsInJkcyI6IlBDXzg4NDYyMzQ5MTA2MDEwMzEyMjB8UFJPRF9QQ184ODQ2MjM0OTEwNjAxMDMxMjIwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6Ijg4NDYyMzQ5MTA2MDEwMzEyMjAiLCJtaWQiOiI1NzY0NjI4NDc3ODA5NDcwMDgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "4332110897111794853",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=4332110897111794853"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWplpE9NhWC-GsatzPIvO6JSUW16OBd5JOZ4q0sa2ol1nBDNr2WQW4rgavG1fONdqAn1Fn_n29emTs9ERivn7HiKXyHNxHKi8kNePh3LhuS7r0h_3nTlD9NrI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTAsRXtDraEwD1mbvnPChrFU1ywhdB19mNm7oSM6ZbPl0rQnHYYPFzhFWbUuE09v_owLJsJZSDLF9HwYWGj2xdtWfrPTwyNy42raA",
+      "source": "Serendipity Australia",
+      "title": "Kinrin Ceremonial Japanese Matcha Powder",
+      "rating": 4.8,
+      "reviews": 18,
+      "original_price": "Was $70",
+      "extracted_original_price": 70,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTAyOTQyMjgwMjA5MzI2NTA4MTgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDI5NDIyODAyMDkzMjY1MDgxOCIsImltYWdlRG9jaWQiOiIxNzI0MDgyODQ4NzkzMDExNTQ2MCIsInJkcyI6IlBDXzE3NDA5NzIwOTQxMzAyMTEzMDcxfFBST0RfUENfMTc0MDk3MjA5NDEzMDIxMTMwNzEiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiMTAyOTQyMjgwMjA5MzI2NTA4MTgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDI5NDIyODAyMDkzMjY1MDgxOCIsImltYWdlRG9jaWQiOiIxNzI0MDgyODQ4NzkzMDExNTQ2MCIsInJkcyI6IlBDXzE3NDA5NzIwOTQxMzAyMTEzMDcxfFBST0RfUENfMTc0MDk3MjA5NDEzMDIxMTMwNzEiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "10294228020932650818",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=10294228020932650818"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzBWvyTQVFHVu_e4MVLh3i3qbunoEr3V2TmIIjhu6QC1uo87wCq1zHEpO8BgxpsRpsGZW98MbF7hUd4TZoJPIBTA1MuZnC5vJmaAy18XosfVSZYlsuv3Lt",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "David Tea Coffee and Tea",
+      "rating": 3.9,
+      "reviews": 128,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY1MDI3OTQzMDg4OTU3ODY5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3NDU3ODI0MzE2MzA0NTQxNDAiLCJpbWFnZURvY2lkIjoiOTc1MTc0MzkyODQ1MTAyMTcxNCIsInJkcyI6IlBDXzY1MTEyODc1OTM4NTYyNDM0OTN8UFJPRF9QQ182NTExMjg3NTkzODU2MjQzNDkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjY1MTEyODc1OTM4NTYyNDM0OTMiLCJtaWQiOiI1NzY0NjI4NTQ0MjUxMzQxMTMiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY1MDI3OTQzMDg4OTU3ODY5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3NDU3ODI0MzE2MzA0NTQxNDAiLCJpbWFnZURvY2lkIjoiOTc1MTc0MzkyODQ1MTAyMTcxNCIsInJkcyI6IlBDXzY1MTEyODc1OTM4NTYyNDM0OTN8UFJPRF9QQ182NTExMjg3NTkzODU2MjQzNDkzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjY1MTEyODc1OTM4NTYyNDM0OTMiLCJtaWQiOiI1NzY0NjI4NTQ0MjUxMzQxMTMiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "6650279430889578690",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=6650279430889578690"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDoK5VAOO5OlRsXTsORNkFdXIC5W43qa43sU4AdPVGhiBq5Cc1hry5EnV3mgAqOf0Sr5KWenQJL86IG0TK7satPLpCyXi3ZXN6xehuL8lKDv6KfTLuQ7_p5w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "Yame Matcha Everyday 40g",
+      "price": "$38.00",
+      "extracted_price": 38,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDIxMzgyNzgxOTY4OTE1ODYwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQyODYwMzQxMTA1MTIzMjk0IiwiaW1hZ2VEb2NpZCI6IjE1OTQyNjc5NzgyNTE4NDMzNzI1IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMDIyMjUwNDcxOTkyMjE2MzQ1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDIxMzgyNzgxOTY4OTE1ODYwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQyODYwMzQxMTA1MTIzMjk0IiwiaW1hZ2VEb2NpZCI6IjE1OTQyNjc5NzgyNTE4NDMzNzI1IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMDIyMjUwNDcxOTkyMjE2MzQ1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "4213827819689158606",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=4213827819689158606"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1MF5wKOhHG8hFtA8dWIs27F48rvxkDmtIpJdzYqcCJJk6070TwRi1SDkJoAZ0w2xhU05VEFBg627OBppoI1rPnqPjJ44VJGVvBkThTm-OappiRUSeRgHt0g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSI5BMVn6schfmezDiJfTXLSbr6IOZ8npmlLk-iNsIn4v7TSZMECpmjk4eJ3We7Oh9OHSD0OcT-afYAK7J_F2qhMwVeXJ0j5w",
+      "source": "Walmart.ca",
+      "title": "Tetley Super Green Matcha",
+      "rating": 4.3,
+      "reviews": 20,
+      "price": "$3.97",
+      "extracted_price": 3.97,
+      "location": "Nearby, 9 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyOTIyMDg4NjYwMDQwMjM1ODAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5OTg5NjAxODQ1OTgzMDQ2MTcxIiwiaW1hZ2VEb2NpZCI6Ijg4NjQ4NTE0NzMyNDk2MzM3MDkiLCJyZHMiOiJQQ18zMDEyMjQzMzQzNTAyODczNzQ0fFBST0RfUENfMzAxMjI0MzM0MzUwMjg3Mzc0NCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIzMDEyMjQzMzQzNTAyODczNzQ0IiwibWlkIjoiNTc2NDYyNzI0ODc0OTk1MzYwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyOTIyMDg4NjYwMDQwMjM1ODAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5OTg5NjAxODQ1OTgzMDQ2MTcxIiwiaW1hZ2VEb2NpZCI6Ijg4NjQ4NTE0NzMyNDk2MzM3MDkiLCJyZHMiOiJQQ18zMDEyMjQzMzQzNTAyODczNzQ0fFBST0RfUENfMzAxMjI0MzM0MzUwMjg3Mzc0NCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIzMDEyMjQzMzQzNTAyODczNzQ0IiwibWlkIjoiNTc2NDYyNzI0ODc0OTk1MzYwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "14292208866004023580",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=14292208866004023580"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvmeA1tMA-L_oqs26tOFMiu8z96Fo4xj0vm-MLicNFQEkj33SGvWcJoU9_rw4MQ5ck4462gCjk9v5kizzjTMZ0TIQnCU_nlzrzii20YupkQIoisNs81q9RxA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Local Inventory Integration",
+      "title": "Organic Traditions Premium Matcha Tea",
+      "rating": 4.5,
+      "reviews": 188,
+      "price": "$27.99",
+      "extracted_price": 27.99,
+      "location": "Nearby, 11 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM3OTU2Mjk0MzA4Njc4NTk2NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwMTEzMzY3MzU0MDAzMDUwNTMiLCJpbWFnZURvY2lkIjoiMTgwNTQyODE4MzA1MTg4OTYyMjUiLCJyZHMiOiJQQ18xMjYxNzUzOTEyMzg5NzMyMDc4N3xQUk9EX1BDXzEyNjE3NTM5MTIzODk3MzIwNzg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEyNjE3NTM5MTIzODk3MzIwNzg3IiwibWlkIjoiNTc2NDYyNzc1MDU4NDQwMTIyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM3OTU2Mjk0MzA4Njc4NTk2NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwMTEzMzY3MzU0MDAzMDUwNTMiLCJpbWFnZURvY2lkIjoiMTgwNTQyODE4MzA1MTg4OTYyMjUiLCJyZHMiOiJQQ18xMjYxNzUzOTEyMzg5NzMyMDc4N3xQUk9EX1BDXzEyNjE3NTM5MTIzODk3MzIwNzg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEyNjE3NTM5MTIzODk3MzIwNzg3IiwibWlkIjoiNTc2NDYyNzc1MDU4NDQwMTIyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "9379562943086785965",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=9379562943086785965"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQOB_3vSXuxGDc9dNGbu9O4vSYqvS8ID994j4oxv8gdIu1WnGsz0YMzD5PgmWHl3tzfSax_f_-78hWfHAYmr-XV1u4iQG6ftrhdDH9hiH7rVZ2DrVcU5zEO",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "Aiya Organic Ceremonial Matcha",
+      "rating": 5,
+      "reviews": 1,
+      "price": "$35.99",
+      "extracted_price": 35.99,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzkzOTczNzg4MDg3NDkzMTM1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxOTg3MTE3NjM3MTQzMjYzOSIsImltYWdlRG9jaWQiOiI4NDk0MTE3OTk4MzgxNzIxNDc3IiwicmRzIjoiUENfMzc3ODkxNDMwMDA3ODM5MjcyNXxQUk9EX1BDXzM3Nzg5MTQzMDAwNzgzOTI3MjUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzc3ODkxNDMwMDA3ODM5MjcyNSIsIm1pZCI6IjU3NjQ2Mjg2Njc4NDMyMjU2NiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzkzOTczNzg4MDg3NDkzMTM1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxOTg3MTE3NjM3MTQzMjYzOSIsImltYWdlRG9jaWQiOiI4NDk0MTE3OTk4MzgxNzIxNDc3IiwicmRzIjoiUENfMzc3ODkxNDMwMDA3ODM5MjcyNXxQUk9EX1BDXzM3Nzg5MTQzMDAwNzgzOTI3MjUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMzc3ODkxNDMwMDA3ODM5MjcyNSIsIm1pZCI6IjU3NjQ2Mjg2Njc4NDMyMjU2NiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "3939737880874931355",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=3939737880874931355"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKZ8e5tTO6MRMJPMtdBlELvks-25MjpJg_Uo2hVWj02EuicXGa5pabj7pDRSGLQ4DLl5BJt7785VlnKiAwgJVPmz1AQm6G-oRzX8DwB_2m6YbP-d4rO_K2sA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "U1 Ceremonial Uji Matcha Everyday Grade 100g",
+      "price": "$85.00",
+      "extracted_price": 85,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1MjQxNDAxNDMwNDQ2MjkxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzc2MDMzMzExNTE4MTM3ODMyIiwiaW1hZ2VEb2NpZCI6IjE5ODQxMDEwNDI3ODA1Mjg3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0Mzk5NTEzMTExODYxMzI4MzUiLCJtaWQiOiI1NzY0NjI4MjMxNzk1NjAwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1MjQxNDAxNDMwNDQ2MjkxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzc2MDMzMzExNTE4MTM3ODMyIiwiaW1hZ2VEb2NpZCI6IjE5ODQxMDEwNDI3ODA1Mjg3IiwicmRzIjoiIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0Mzk5NTEzMTExODYxMzI4MzUiLCJtaWQiOiI1NzY0NjI4MjMxNzk1NjAwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "9452414014304462912",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=9452414014304462912"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-BzeP9qu3JKfpkiTagwcuaaZi2HSSHJMm2QdS2EhkvCxPoyVQeRnd4x7HUA51aUQA_eGM16gMs8BkbHsmddHpgst9uOuR2mfMKEgwxjlH7iZgLR8ADRGw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_awrfC2BPmw5R_0bIz3qN0GCkfulTAQqdOHT0ntiMi-3eF-uOgawifhWME1qz2enuvHrsY9FVlKv_A3pBno-kBf5lHt93VA",
+      "source": "Blue Teapot At The Quay",
+      "title": "Matcha Uji, Kyoto, Japan 100 g 3.5 oz",
+      "rating": 5,
+      "reviews": 1,
+      "price": "$12.00",
+      "extracted_price": 12,
+      "location": "Nearby, 9 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMjE5NDYyMDI5MzUzMzYxMDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4Mjg1OTY3ODU0NzE4NDE2MDEzIiwiaW1hZ2VEb2NpZCI6IjMyNTI5NzUxMjA5OTQ5MjgzMzEiLCJyZHMiOiJQQ18xMzUzNTcxMTkwNTgwNDA5NDM3MXxQUk9EX1BDXzEzNTM1NzExOTA1ODA0MDk0MzcxIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzNTM1NzExOTA1ODA0MDk0MzcxIiwibWlkIjoiNTc2NDYyNDkxMzYxMTEyMDMwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMjE5NDYyMDI5MzUzMzYxMDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4Mjg1OTY3ODU0NzE4NDE2MDEzIiwiaW1hZ2VEb2NpZCI6IjMyNTI5NzUxMjA5OTQ5MjgzMzEiLCJyZHMiOiJQQ18xMzUzNTcxMTkwNTgwNDA5NDM3MXxQUk9EX1BDXzEzNTM1NzExOTA1ODA0MDk0MzcxIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzNTM1NzExOTA1ODA0MDk0MzcxIiwibWlkIjoiNTc2NDYyNDkxMzYxMTEyMDMwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "12221946202935336101",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=12221946202935336101"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFZCuSUW-KOOCx74A8vCXwTjxEy41XeB4QiuyxSgmN0KnpsISNw1MM2TIxry6S6tCuNZmzQxE-ZnEEUyxlla5zm0ToJywJCmPpS3SrpNbzu-UHTrgccV0tgg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "Two Hills ORG. MATCHA TEA",
+      "rating": 5,
+      "reviews": 9,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyOTIwMjUyODAzMjc3NDY5NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDgwNTgzNzUxOTQ1ODE2NTEwMSIsImltYWdlRG9jaWQiOiIxMzYzNDQyOTEyNDIzNzk3MTA1MyIsInJkcyI6IlBDXzQ0MzQzNjAwMjY4MzIxNzIwODJ8UFJPRF9QQ180NDM0MzYwMDI2ODMyMTcyMDgyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0MzQzNjAwMjY4MzIxNzIwODIiLCJtaWQiOiI1NzY0NjI4MTk4NjY4MjU3NzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyOTIwMjUyODAzMjc3NDY5NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDgwNTgzNzUxOTQ1ODE2NTEwMSIsImltYWdlRG9jaWQiOiIxMzYzNDQyOTEyNDIzNzk3MTA1MyIsInJkcyI6IlBDXzQ0MzQzNjAwMjY4MzIxNzIwODJ8UFJPRF9QQ180NDM0MzYwMDI2ODMyMTcyMDgyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjQ0MzQzNjAwMjY4MzIxNzIwODIiLCJtaWQiOiI1NzY0NjI4MTk4NjY4MjU3NzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "18292025280327746972",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=18292025280327746972"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrFEFs4nKFTpQhogyhQ18CpJphvl9IB1ONxyg0rp9doGEi51LvKHZkcAL8oMRYZe90nDS2lw_cgDpEJAseBIbJ16tL-UjD5GR5zMaL_CQhDdRIdu-zXBcmIw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKVBzZmr8X1qqDgcHDDJKP0EgjJJPLd4UHvde_hTqi40ej55ueCLnruOJfc8p6T8U_a6icmMTVg5sgT0bkVqR86897YSH3iw",
+      "source": "Whisk Premium Matcha",
+      "title": "U1 Ceremonial Matcha Everyday Grade 1kg",
+      "price": "$680.00",
+      "extracted_price": 680,
+      "location": "Nearby, 6 km",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5MDU0Mjg5NjA1ODk0NjQ5MjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4OTM0MDYwODg1NDA1MjEwMDE2IiwiaW1hZ2VEb2NpZCI6IjMzNDk0MjY5ODI1NjEzMDQ0MzIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNzEyODk2MDkxNTc4MDU4MDU5OSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5MDU0Mjg5NjA1ODk0NjQ5MjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4OTM0MDYwODg1NDA1MjEwMDE2IiwiaW1hZ2VEb2NpZCI6IjMzNDk0MjY5ODI1NjEzMDQ0MzIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiNzEyODk2MDkxNTc4MDU4MDU5OSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "17905428960589464923",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17905428960589464923"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6H5s56vlVFc7X2ITt_gBi2c3-hm1ttpJOJfTWvZs8SNG7MYB17d2Kr0xwpENMpKITDRB8-3DbxIyvTAwlLQn6GxKHl6KYH7z8DYy1zFaWC9gpsms08kU4Ng",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "DAVIDsTEA Fruity Matcha Single Serves Variety Pack",
+      "rating": 4.4,
+      "reviews": 42,
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzAwMzQ3NjQ2MTk3MjQyNjEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzk5MDQwNjkwMTc5OTkxMDA2IiwiaW1hZ2VEb2NpZCI6IjEwNTA0MzQ0NTAyMzc5MzIzMTY3IiwicmRzIjoiUENfMTE4ODUxMjIyMDg5NTE1OTE4MTB8UFJPRF9QQ18xMTg4NTEyMjIwODk1MTU5MTgxMCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTg4NTEyMjIwODk1MTU5MTgxMCIsIm1pZCI6IjU3NjQ2Mjc2OTE2NjIwMDE1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzAwMzQ3NjQ2MTk3MjQyNjEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzk5MDQwNjkwMTc5OTkxMDA2IiwiaW1hZ2VEb2NpZCI6IjEwNTA0MzQ0NTAyMzc5MzIzMTY3IiwicmRzIjoiUENfMTE4ODUxMjIyMDg5NTE1OTE4MTB8UFJPRF9QQ18xMTg4NTEyMjIwODk1MTU5MTgxMCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTg4NTEyMjIwODk1MTU5MTgxMCIsIm1pZCI6IjU3NjQ2Mjc2OTE2NjIwMDE1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "12030034764619724261",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=12030034764619724261"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCRI7QEbvPzO3ZUVagLuyoDWxOF14eXs2V__v78e4PvQv-9jR2nY_BnHuhu2xFTE54Xm7gZ3Sk6j_tQ15WZL0KX47HcG2WjPWIA29LPIOtT0HuNjJWDjiR",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Local Inventory Integration",
+      "title": "Organic Traditions Matcha Latte with Probiotics",
+      "rating": 4.4,
+      "reviews": 950,
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "location": "Nearby, 17 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjMzNzUyOTg4NzkzNDAzOTY1NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDE2MDE0NDU1NTU0NjEwOTAyIiwiaW1hZ2VEb2NpZCI6IjE0MzY5ODkxNzczMDAzODY3MzUxIiwicmRzIjoiUENfMTQ3Nzg1NDc2NjA5NzI1NTM3NzV8UFJPRF9QQ18xNDc3ODU0NzY2MDk3MjU1Mzc3NSIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxNDc3ODU0NzY2MDk3MjU1Mzc3NSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjMzNzUyOTg4NzkzNDAzOTY1NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDE2MDE0NDU1NTU0NjEwOTAyIiwiaW1hZ2VEb2NpZCI6IjE0MzY5ODkxNzczMDAzODY3MzUxIiwicmRzIjoiUENfMTQ3Nzg1NDc2NjA5NzI1NTM3NzV8UFJPRF9QQ18xNDc3ODU0NzY2MDk3MjU1Mzc3NSIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxNDc3ODU0NzY2MDk3MjU1Mzc3NSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "6337529887934039656",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=6337529887934039656"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSGtOM56UcqyfLeVLj5kSB43Tnzw4PrzJM50v4NrgKa5PgwFM_si2nx3OdAmYsEMLtYIJ9Y9adW3rGAvJFan4ywox3mS0-PdbC6cJ3Jcw8UUQDIHS4GBge",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "DAVIDsTEA Organic Blueberry Matcha Tea Powder",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "location": "Nearby, 5 km",
+      "delivery": "Free delivery on $75+",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc2MDYyNTM3Mjg3OTE5MDU3NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNzUzNDA4NTIwNzQ1MDAyMTQiLCJpbWFnZURvY2lkIjoiMTA2ODg3NTQ1OTMwNzU3MDUwNDIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTY4MjkxNjM4OTQzODk3NzQ1MzIiLCJtaWQiOiI1NzY0NjI4MjMzODQ3OTQxMTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc2MDYyNTM3Mjg3OTE5MDU3NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNzUzNDA4NTIwNzQ1MDAyMTQiLCJpbWFnZURvY2lkIjoiMTA2ODg3NTQ1OTMwNzU3MDUwNDIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTY4MjkxNjM4OTQzODk3NzQ1MzIiLCJtaWQiOiI1NzY0NjI4MjMzODQ3OTQxMTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "4760625372879190577",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=4760625372879190577"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCnuYnqFYVtoTw1FmvXODyIgslEIjDzENAfptmVveIOe9ivRXd0fWy9h5BMxIex7U0twDJgHAOmdsdZ2a5v1AF9EABbSffbV1FpviDUzlrY7MvwbpOEs0dRw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+      "source": "London Drugs",
+      "title": "Traditional Medicinals Organic Green Tea Matcha",
+      "rating": 4.4,
+      "reviews": 271,
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "original_price": "$6.99",
+      "extracted_original_price": 6.99,
+      "location": "Nearby, 6 km",
+      "delivery": "Free delivery on $75+",
+      "extensions": [
+        "28% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MDAxMzcxMDU1MTU1MDYzMjQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzOTE4OTAzNzc1NjQ0MzUxNDUzIiwiaW1hZ2VEb2NpZCI6IjM4MTM3MzAzNDQ0MzY2NTQyMzEiLCJyZHMiOiJQQ18zODM5MDY1MjY2Mzc1MDAyMTE4fFBST0RfUENfMzgzOTA2NTI2NjM3NTAwMjExOCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIzODM5MDY1MjY2Mzc1MDAyMTE4IiwibWlkIjoiNTc2NDYyODYxODQ0MzA5ODkwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MDAxMzcxMDU1MTU1MDYzMjQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzOTE4OTAzNzc1NjQ0MzUxNDUzIiwiaW1hZ2VEb2NpZCI6IjM4MTM3MzAzNDQ0MzY2NTQyMzEiLCJyZHMiOiJQQ18zODM5MDY1MjY2Mzc1MDAyMTE4fFBST0RfUENfMzgzOTA2NTI2NjM3NTAwMjExOCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIzODM5MDY1MjY2Mzc1MDAyMTE4IiwibWlkIjoiNTc2NDYyODYxODQ0MzA5ODkwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "11800137105515506324",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=11800137105515506324"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQySlZf7dR27nNQa0qprhmPtNnS_yTF2yoFCRKLusl3blAjULnqE_qUvXNiQYFHuHvvAj1d1udXJCJ7wDGSAbNuY1fzH-gulVMPAlcnUy330SOqfpvUaJaX",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQVmNSNFFbCUTqWCi865IdcxLY0QbrBka_qLuZdMLip6QjCTUb_E-5tBLiwgs7vbmEeM7CmBNDnFX98-PRf9rkBQw4blaDJA2Yfzw",
+      "source": "The Organic Grocer",
+      "title": "DoMatcha Organic Summer Harvest Matcha",
+      "rating": 4.7,
+      "reviews": 9,
+      "price": "$25.39",
+      "extracted_price": 25.39,
+      "location": "Nearby, 25 km",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM1MzU3NDI0MDkzMTU2ODYxNDkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTMzOTk1MDI3Njg4ODI5NDIyIiwiaW1hZ2VEb2NpZCI6IjU5NjkyNjMxMzk0MTcyNjk4NCIsInJkcyI6IlBDXzgwMjg0NzQwNjY3MzMwMDE2Njh8UFJPRF9QQ184MDI4NDc0MDY2NzMzMDAxNjY4IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMzEzOTIzNTQzNzc2ODc0NzMyIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM1MzU3NDI0MDkzMTU2ODYxNDkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTMzOTk1MDI3Njg4ODI5NDIyIiwiaW1hZ2VEb2NpZCI6IjU5NjkyNjMxMzk0MTcyNjk4NCIsInJkcyI6IlBDXzgwMjg0NzQwNjY3MzMwMDE2Njh8UFJPRF9QQ184MDI4NDc0MDY2NzMzMDAxNjY4IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjEzMzEzOTIzNTQzNzc2ODc0NzMyIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "13535742409315686149",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=13535742409315686149"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0rPd8qVSKejtrINxP4LbymhZc1CQIIigKiU_GAh_i15hDXIpgb6yUsrc-ygM9EaMgIIXxGk5HDFkJdFrNH6thU9zldiJm3M0CCEYNb8Lp7EgIVFv4HviTJA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "The Green Basket",
+      "title": "Stash Green Tea & Matcha Pomegranate Raspberry",
+      "rating": 4.6,
+      "reviews": 1300,
+      "price": "$5.99",
+      "extracted_price": 5.99,
+      "location": "Nearby, 8 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzNzQ0OTU3MDM4OTE0NjUxNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjgzOTcyNjY4OTg0ODA4NDgzIiwiaW1hZ2VEb2NpZCI6Ijg2NzQwMDc3NjczNTcwMTM1MjgiLCJyZHMiOiJQQ18xNzcwNjI3OTU5OTY1MDc0Mjc5MHxQUk9EX1BDXzE3NzA2Mjc5NTk5NjUwNzQyNzkwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE3NzA2Mjc5NTk5NjUwNzQyNzkwIiwibWlkIjoiNTc2NDYyNzMzMzgzNDk3MDcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzNzQ0OTU3MDM4OTE0NjUxNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjgzOTcyNjY4OTg0ODA4NDgzIiwiaW1hZ2VEb2NpZCI6Ijg2NzQwMDc3NjczNTcwMTM1MjgiLCJyZHMiOiJQQ18xNzcwNjI3OTU5OTY1MDc0Mjc5MHxQUk9EX1BDXzE3NzA2Mjc5NTk5NjUwNzQyNzkwIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE3NzA2Mjc5NTk5NjUwNzQyNzkwIiwibWlkIjoiNTc2NDYyNzMzMzgzNDk3MDcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "8637449570389146517",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=8637449570389146517"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKBuZ8p7Z4zRPt-tIj12PjPHk_3_RkoWzgeC52cPuZMN-jaYZkd-WDxY1AuTHK9GLpJtyCdwVPr6ExzIq8RQAeJFVrFQNgqMiwleWCYj0zKQWnykC9zTkB",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Kitsilano Natural Foods",
+      "title": "Kato Matcha Ceremonial Spring Harvest Tea",
+      "rating": 4.8,
+      "reviews": 141,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3NTMzMjcxMTY3OTE4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjA2NzI0OTg3Mjk2MjE5NjI0OSIsImltYWdlRG9jaWQiOiI4ODE0OTgyOTkwNzcxNzMxMjgiLCJyZHMiOiJQQ18xMzEzMzA5NTI5OTc1ODEzMDN8UFJPRF9QQ18xMzEzMzA5NTI5OTc1ODEzMDMiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTMxMzMwOTUyOTk3NTgxMzAzIiwibWlkIjoiNTc2NDYyNzkwMDU2MzI4MzU3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3NTMzMjcxMTY3OTE4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjA2NzI0OTg3Mjk2MjE5NjI0OSIsImltYWdlRG9jaWQiOiI4ODE0OTgyOTkwNzcxNzMxMjgiLCJyZHMiOiJQQ18xMzEzMzA5NTI5OTc1ODEzMDN8UFJPRF9QQ18xMzEzMzA5NTI5OTc1ODEzMDMiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMTMxMzMwOTUyOTk3NTgxMzAzIiwibWlkIjoiNTc2NDYyNzkwMDU2MzI4MzU3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "17753327116791896",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17753327116791896"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRueeguWNzw8daM21TQVrtKrv_PAOcy7O0imk6kEQW3iYIPogbu_tJmCf9XhtKjqhnBmxmUI5DHN4TmHIwQpPrI5BPtVLNm90RxIx57ZQfaMkkCz9GRp1PGVg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Kitsilano Natural Foods",
+      "title": "Elan Organic Matcha Green Tea Powder",
+      "rating": 4.4,
+      "reviews": 22,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjMwNzc5MDU1MTY5MjQyMzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzg3MjkyMDI2NjUzNTQxNDc4IiwiaW1hZ2VEb2NpZCI6IjY1MzMwMTA3NzU2MTQ4NzAwMCIsInJkcyI6IlBDXzI1OTE5ODczNDk1NDY0NjY2ODd8UFJPRF9QQ18yNTkxOTg3MzQ5NTQ2NDY2Njg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjI1OTE5ODczNDk1NDY0NjY2ODciLCJtaWQiOiI1NzY0NjI3Nzc3ODAzOTYzNzQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjMwNzc5MDU1MTY5MjQyMzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2Mzg3MjkyMDI2NjUzNTQxNDc4IiwiaW1hZ2VEb2NpZCI6IjY1MzMwMTA3NzU2MTQ4NzAwMCIsInJkcyI6IlBDXzI1OTE5ODczNDk1NDY0NjY2ODd8UFJPRF9QQ18yNTkxOTg3MzQ5NTQ2NDY2Njg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjI1OTE5ODczNDk1NDY0NjY2ODciLCJtaWQiOiI1NzY0NjI3Nzc3ODAzOTYzNzQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "15463077905516924239",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=15463077905516924239"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAZNHM9jJkNBa4tGsr3S0aH6NfhmvZ60ekOGFZlJMwUCw4csbEaxbC-iZxnM3e64ELO3zsw76gd4VBIQvVHB4yTGLD8_RCvaBB6JRL1DRZ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Kitsilano Natural Foods",
+      "title": "Kato Matcha Summer Harvest Genuine Tea",
+      "rating": 4.6,
+      "reviews": 156,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwNjY2MjUwOTQzNTc4ODE4MzgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTAyNTYzODU1MDY3NTI3NjMzMyIsImltYWdlRG9jaWQiOiIxNTA2NDM4ODM2NzYxOTU2NzI4OCIsInJkcyI6IlBDXzU5NDYzNDY3Mjk0NDc2MTYyODd8UFJPRF9QQ181OTQ2MzQ2NzI5NDQ3NjE2Mjg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjU5NDYzNDY3Mjk0NDc2MTYyODciLCJtaWQiOiI1NzY0NjI3NjkyMzExODI0ODUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwNjY2MjUwOTQzNTc4ODE4MzgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTAyNTYzODU1MDY3NTI3NjMzMyIsImltYWdlRG9jaWQiOiIxNTA2NDM4ODM2NzYxOTU2NzI4OCIsInJkcyI6IlBDXzU5NDYzNDY3Mjk0NDc2MTYyODd8UFJPRF9QQ181OTQ2MzQ2NzI5NDQ3NjE2Mjg3IiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjU5NDYzNDY3Mjk0NDc2MTYyODciLCJtaWQiOiI1NzY0NjI3NjkyMzExODI0ODUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVm1GdVkyOTFkbVZ5TEVKeWFYUnBjMmdnUTI5c2RXMWlhV0VzUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+      "product_id": "17066625094357881838",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=17066625094357881838"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQk4IjNw_WTE2Lqf5PsTyNaRwVi1lncOeycQTn6SzRYA9vRuowYNa59YYeI6EPQmAnaS-JktXzWBh7v45jOBMNfyLM13weDD2inImJPXi2rUmnDFkOOfkzpSQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Kitsilano Natural Foods",
+      "title": "Kato Organic Ceremonial Matcha Tea",
+      "rating": 4.8,
+      "reviews": 82,
+      "location": "Nearby, 6 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ0Njk2MTgwMjA4MDMyNDQwODQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzE5ODAzNDE3NzgxMjAzNDAwIiwiaW1hZ2VEb2NpZCI6IjE0MDc2NjUxOTU0MzIwMTM5MDgzIiwicmRzIjoiUENfMTE2Mzc3ODc1ODExNjA0ODQ3NjR8UFJPRF9QQ18xMTYzNzc4NzU4MTE2MDQ4NDc2NCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTYzNzc4NzU4MTE2MDQ4NDc2NCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ0Njk2MTgwMjA4MDMyNDQwODQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzE5ODAzNDE3NzgxMjAzNDAwIiwiaW1hZ2VEb2NpZCI6IjE0MDc2NjUxOTU0MzIwMTM5MDgzIiwicmRzIjoiUENfMTE2Mzc3ODc1ODExNjA0ODQ3NjR8UFJPRF9QQ18xMTYzNzc4NzU4MTE2MDQ4NDc2NCIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiIxMTYzNzc4NzU4MTE2MDQ4NDc2NCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "14469618020803244084",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=14469618020803244084"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIfR8sciIN2UizwDDQiDZd5CretzO4IVm7Q1sEiucjwYXhyMDc5zcnYSwCrP9hguyYZnjHbdrGZmYroYqqXkZ3R8IY53ZQRpWykD2G9gb_U9N0HxDnLoBoTw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Banyen Books & Sound",
+      "title": "Harmonic Arts Matcha Mind Herbal Latte",
+      "rating": 4.5,
+      "reviews": 39,
+      "location": "Nearby, 7 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzM5MjMzNTYxMDI0MzYxODA5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NzU2ODM2NDQ2OTAxNzI5MDUzIiwiaW1hZ2VEb2NpZCI6IjgzOTgyMDE5ODgwOTM0MzcwNDQiLCJyZHMiOiJQQ18xODA4NjQyNzI0ODE1ODc3MDk2M3xQUk9EX1BDXzE4MDg2NDI3MjQ4MTU4NzcwOTYzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE4MDg2NDI3MjQ4MTU4NzcwOTYzIiwibWlkIjoiNTc2NDYyNTExODU4MDIxNjQ2IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzM5MjMzNTYxMDI0MzYxODA5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NzU2ODM2NDQ2OTAxNzI5MDUzIiwiaW1hZ2VEb2NpZCI6IjgzOTgyMDE5ODgwOTM0MzcwNDQiLCJyZHMiOiJQQ18xODA4NjQyNzI0ODE1ODc3MDk2M3xQUk9EX1BDXzE4MDg2NDI3MjQ4MTU4NzcwOTYzIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE4MDg2NDI3MjQ4MTU4NzcwOTYzIiwibWlkIjoiNTc2NDYyNTExODU4MDIxNjQ2IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "3392335610243618092",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=3392335610243618092"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTYTtpuqm77KSEo4TsQYEttPobZIJryOx9uOeB5fbZU2msFnLA1pZTerJpCtJ7nKGEPGr4enOJ0_xTtKQumto7MmbBDiKS-G-k4vvhc5f-l",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Local Inventory Integration",
+      "title": "BLUME Matcha Coconut Blend",
+      "rating": 4.5,
+      "reviews": 630,
+      "price": "$26.99",
+      "extracted_price": 26.99,
+      "location": "Nearby, 16 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ1NDYzMTIyODk3MDY4NjAxMCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjU0NTgzMzM3NDA1ODQxMzg4IiwiaW1hZ2VEb2NpZCI6IjczODIwMTM2NTAyMzcwMzk4NzQiLCJyZHMiOiJQQ18xNDc0Njk2MDgxNjQwMjIyODM3MnxQUk9EX1BDXzE0NzQ2OTYwODE2NDAyMjI4MzcyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE0NzQ2OTYwODE2NDAyMjI4MzcyIiwibWlkIjoiNTc2NDYyNzIxMTkzMTg4NzcyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ1NDYzMTIyODk3MDY4NjAxMCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjU0NTgzMzM3NDA1ODQxMzg4IiwiaW1hZ2VEb2NpZCI6IjczODIwMTM2NTAyMzcwMzk4NzQiLCJyZHMiOiJQQ18xNDc0Njk2MDgxNjQwMjIyODM3MnxQUk9EX1BDXzE0NzQ2OTYwODE2NDAyMjI4MzcyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6IjE0NzQ2OTYwODE2NDAyMjI4MzcyIiwibWlkIjoiNTc2NDYyNzIxMTkzMTg4NzcyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "3454631228970686010",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=3454631228970686010"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNYqe-ZHkHc6bJRj5CspJbvKei0h0d_WwXS4E3ojA35sV-xQRkZM3nvEZAgujJRdZIXTswPRGam3HkdFVoh3sy0PDjRRHADGWFKIyxVX6oxVd9ZGiefcS7UQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQVmNSNFFbCUTqWCi865IdcxLY0QbrBka_qLuZdMLip6QjCTUb_E-5tBLiwgs7vbmEeM7CmBNDnFX98-PRf9rkBQw4blaDJA2Yfzw",
+      "source": "The Organic Grocer",
+      "title": "DoMatcha Summer Harvest Matcha Tea",
+      "rating": 5,
+      "reviews": 21,
+      "price": "$40.29",
+      "extracted_price": 40.29,
+      "location": "Nearby, 25 km",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDE5MDY5NzMxNzUxODA2NzE2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDMzMDgyODcwNjk0ODE4NTcxIiwiaW1hZ2VEb2NpZCI6IjExMTM4MTI2MTA1ODU4NTkxMDQyIiwicmRzIjoiUENfODc2MzM0NTQwNzU1MjUwNDYyfFBST0RfUENfODc2MzM0NTQwNzU1MjUwNDYyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6Ijg3NjMzNDU0MDc1NTI1MDQ2MiIsIm1pZCI6IjU3NjQ2MjgwNzEyMTkwNTgwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDE5MDY5NzMxNzUxODA2NzE2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDMzMDgyODcwNjk0ODE4NTcxIiwiaW1hZ2VEb2NpZCI6IjExMTM4MTI2MTA1ODU4NTkxMDQyIiwicmRzIjoiUENfODc2MzM0NTQwNzU1MjUwNDYyfFBST0RfUENfODc2MzM0NTQwNzU1MjUwNDYyIiwicXVlcnkiOiJtYXRjaGEiLCJncGNpZCI6Ijg3NjMzNDU0MDc1NTI1MDQ2MiIsIm1pZCI6IjU3NjQ2MjgwNzEyMTkwNTgwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "4190697317518067162",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=4190697317518067162"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-brydf6MfkAD8Ry9f2WN2lei18gEKWjlQu4CzTEDqI4N7zj5uvFBLau6o4aoQQzq8XUc3aaPXCEL56JvvrR7zwdhYTiOH1qQwEa_p9O4RmKGOwSLFvheqjQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Organic Warehouse",
+      "title": "Ecoidea Organic Japanese Matcha Green Tea Powder",
+      "rating": 5,
+      "reviews": 2,
+      "location": "Nearby, 25 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5OTc5NDk4ODk1MTg4Nzk2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTA3NzUzMjY1NDE2MDg5NzkxIiwiaW1hZ2VEb2NpZCI6IjU5MDIwNjQ4MTEyNTk1NDA0MjgiLCJyZHMiOiJQQ185Mzc5OTA4ODM1Mjc3NjY4MDg1fFBST0RfUENfOTM3OTkwODgzNTI3NzY2ODA4NSIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiI5Mzc5OTA4ODM1Mjc3NjY4MDg1IiwibWlkIjoiNTc2NDYyNjY2ODI3OTY1OTE5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5OTc5NDk4ODk1MTg4Nzk2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTA3NzUzMjY1NDE2MDg5NzkxIiwiaW1hZ2VEb2NpZCI6IjU5MDIwNjQ4MTEyNTk1NDA0MjgiLCJyZHMiOiJQQ185Mzc5OTA4ODM1Mjc3NjY4MDg1fFBST0RfUENfOTM3OTkwODgzNTI3NzY2ODA4NSIsInF1ZXJ5IjoibWF0Y2hhIiwiZ3BjaWQiOiI5Mzc5OTA4ODM1Mjc3NjY4MDg1IiwibWlkIjoiNTc2NDYyNjY2ODI3OTY1OTE5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFZtRnVZMjkxZG1WeUxFSnlhWFJwYzJnZ1EyOXNkVzFpYVdFc1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+      "product_id": "5999794988951887968",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=5999794988951887968"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxFENhbcP7zAe_BfaCbIGrXBxqiAuYRusA4JREC1De1TTmOXXQLm2A41hsH5JrlZSbDcdJnH4-Mf0pqdj-8zmhZgIIP6okDdRN8e3IKEnS2BRDlOD6BLSy-w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQVmNSNFFbCUTqWCi865IdcxLY0QbrBka_qLuZdMLip6QjCTUb_E-5tBLiwgs7vbmEeM7CmBNDnFX98-PRf9rkBQw4blaDJA2Yfzw",
+      "source": "The Organic Grocer",
+      "title": "DoMatcha Culinary Matcha",
+      "rating": 5,
+      "reviews": 2,
+      "price": "$67.75",
+      "extracted_price": 67.75,
+      "location": "Nearby, 25 km",
+      "immersive_product_page_token": "eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyNzQxODA5MTUwMzY4Njc3NTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NzQ4OTYwNTI2ODg5MjQ4NTI5IiwiaW1hZ2VEb2NpZCI6IjExNzUyNjM5OTQyMDY5MDA1Mjc1IiwicmRzIjoiUENfMjY5NDE4NDUyNDk4NzYwNDU0NXxQUk9EX1BDXzI2OTQxODQ1MjQ5ODc2MDQ1NDUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMjY5NDE4NDUyNDk4NzYwNDU0NSIsIm1pZCI6IjU3NjQ2MjMzMzAyNTM2MTIzNiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhCYmNhSXZJRGRpdjVOb1A4THk2c0FJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQyNzQxODA5MTUwMzY4Njc3NTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NzQ4OTYwNTI2ODg5MjQ4NTI5IiwiaW1hZ2VEb2NpZCI6IjExNzUyNjM5OTQyMDY5MDA1Mjc1IiwicmRzIjoiUENfMjY5NDE4NDUyNDk4NzYwNDU0NXxQUk9EX1BDXzI2OTQxODQ1MjQ5ODc2MDQ1NDUiLCJxdWVyeSI6Im1hdGNoYSIsImdwY2lkIjoiMjY5NDE4NDUyNDk4NzYwNDU0NSIsIm1pZCI6IjU3NjQ2MjMzMzAyNTM2MTIzNiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhWbUZ1WTI5MWRtVnlMRUp5YVhScGMyZ2dRMjlzZFcxaWFXRXNRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+      "product_id": "14274180915036867753",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&product_id=14274180915036867753"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is it good to drink matcha every day?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Yes, it's generally good and safe to drink matcha every day in moderation, as it's rich in antioxidants and may improve gut, brain, and heart health. However, you should be mindful of its high caffeine content, as it's more concentrated than other teas, and avoid consuming it with added sugars or processed ingredients. It's wise to stick to 1-2 cups or less per day, monitor your caffeine intake, and consult a healthcare provider if you are pregnant, breastfeeding, sensitive to caffeine, or taking certain medications.",
+          "snippet_highlighted_words": [
+            "Yes, it's generally good and safe to drink matcha every day in moderation"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Potential Benefits"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Antioxidant Power:",
+              "snippet": "Matcha is packed with polyphenols and catechins, antioxidants that help fight inflammation and may protect against chronic diseases and premature aging.",
+              "reference_indexes": [
+                0,
+                2,
+                3,
+                5,
+                6,
+                10,
+                11
+              ]
+            },
+            {
+              "title": "Brain Health:",
+              "snippet": "Regular consumption can lead to improved cognitive function, enhanced focus, and a more sustained energy boost compared to coffee.",
+              "reference_indexes": [
+                6,
+                7,
+                8
+              ]
+            },
+            {
+              "title": "Gut Health:",
+              "snippet": "Studies suggest matcha can contribute to healthy changes in the gut microbiome.",
+              "reference_indexes": [
+                6
+              ]
+            },
+            {
+              "title": "Heart Health:",
+              "snippet": "It may help improve cholesterol, blood pressure, and overall heart and blood vessel health.",
+              "reference_indexes": [
+                4,
+                8
+              ]
+            },
+            {
+              "title": "Other benefits:",
+              "snippet": "Research also points to potential benefits for skin elasticity, improved mood, and metabolism.",
+              "reference_indexes": [
+                9,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Considerations and Risks"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Caffeine Content:",
+              "snippet": "Be aware that matcha contains more caffeine than other teas, so monitor your intake to avoid side effects like jitters or anxiety.",
+              "reference_indexes": [
+                6,
+                7
+              ]
+            },
+            {
+              "title": "Added Sugars:",
+              "snippet": "Opt for plain matcha or simple preparations to avoid the calorie and sugar bombs found in many flavored lattes.",
+              "reference_indexes": [
+                2,
+                6
+              ]
+            },
+            {
+              "title": "Medication Interactions:",
+              "snippet": "High doses of green tea (and by extension, matcha) may interact with certain medications, such as beta-blockers for high blood pressure.",
+              "reference_indexes": [
+                8
+              ]
+            },
+            {
+              "title": "Pregnancy and Breastfeeding:",
+              "snippet": "If you are pregnant or breastfeeding, it's essential to consult a healthcare provider before consuming matcha due to its caffeine content.",
+              "reference_indexes": [
+                7,
+                8
+              ]
+            },
+            {
+              "title": "Pesticides:",
+              "snippet": "Some matcha products may contain traces of pesticides, so choose reputable brands to minimize this risk.",
+              "reference_indexes": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "How to Incorporate it Daily"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Moderation is Key:",
+              "snippet": "Aim for 1-2 cups (or 1-2 teaspoons of matcha powder) per day to stay within recommended caffeine limits and avoid potential harm from high doses.",
+              "reference_indexes": [
+                0,
+                8
+              ]
+            },
+            {
+              "title": "Listen to Your Body:",
+              "snippet": "Pay attention to how matcha affects you and adjust your intake accordingly, especially if you are sensitive to caffeine.",
+              "reference_indexes": [
+                7
+              ]
+            },
+            {
+              "title": "Consult a Professional:",
+              "snippet": "Talk to your doctor or a registered dietitian to ensure daily matcha is a good fit for your personal health goals, especially if you have underlying health conditions or are on medication.",
+              "reference_indexes": [
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "7 Proven Health Benefits of Matcha Tea - Healthline",
+          "link": "https://www.healthline.com/nutrition/7-benefits-of-matcha-tea#:~:text=While%20you%20can%20drink%20matcha,to%202%20teaspoons%20of%20matcha.",
+          "snippet": "While you can drink matcha daily, it is high in caffeine and may contain traces of pesticides and other chemicals. The beneficial ...",
+          "source": "Healthline",
+          "index": 0
+        },
+        {
+          "title": "What Are the Health Benefits of Matcha? - WebMD",
+          "link": "https://www.webmd.com/diet/health-benefits-matcha#:~:text=Is%20it%20OK%20to%20drink,to%20caffeine%20should%20start%20slow.",
+          "snippet": "Is it OK to drink matcha every day? Yes, it's OK to drink matcha every day. It may benefit your gut, brain, and heart health. But ...",
+          "source": "WebMD",
+          "index": 1
+        },
+        {
+          "title": "Is matcha healthier than coffee? A dietitian explains the difference",
+          "link": "https://www.today.com/health/diet-fitness/matcha-tea-health-benefits-rcna141122#:~:text=Is%20it%20OK%20to%20drink,that%20is%20high%20in%20protein.",
+          "snippet": "Jul 31, 2024 — Is it OK to drink matcha every day? In short, yes, matcha is a healthy part of the everyday diet. However, to balance ...",
+          "source": "TODAY.com",
+          "index": 2
+        },
+        {
+          "title": "The therapeutic potential of matcha tea: A critical review on human and animal studies",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9792400/#:~:text=The%20health%20benefits%20associated%20with%20Japanese%20green,et%20al.%2C%202005;%20Komes%20et%20al.%2C%202010).",
+          "snippet": "The health benefits associated with Japanese green tea have been linked to its content of natural antioxidants ( Kurleto et al., 2...",
+          "source": "National Institutes of Health (NIH) | (.gov)",
+          "index": 3
+        },
+        {
+          "title": "9 Surprising Health Benefits of Matcha",
+          "link": "https://www.verywellhealth.com/matcha-benefits-11708757#:~:text=4.,Heart%20and%20Blood%20Vessel%20Health&text=Catechins%20may%20also%20reduce%20blood,can%20help%20reduce%20the%20risk.",
+          "snippet": "Apr 9, 2025 — 4. Improves Heart and Blood Vessel Health. ... Catechins may also reduce blood total cholesterol, low-density lipoprote...",
+          "source": "Verywell Health",
+          "index": 4
+        },
+        {
+          "title": "8 reasons to drink matcha every day",
+          "link": "https://www.amanvida.eu/en/blog/8-reasons-to-drink-matcha-every-day",
+          "snippet": "Nov 16, 2016 — Matcha is a source of polyphenols. Polyphenols are rich in the healthy substances found in plants, vegetables and frui...",
+          "source": "Amanvida",
+          "index": 5
+        },
+        {
+          "title": "Daily matcha may benefit brain, heart, gut health",
+          "link": "https://hsph.harvard.edu/news/matcha-brain-heart-gut-health/#:~:text=April%2030%2C%202024%20%E2%80%94%20Drinking%20a,added%20sugars%20or%20processed%20ingredients.",
+          "snippet": "Apr 30, 2024 — April 30, 2024 — Drinking a daily cup or two of matcha—a form of powdered green tea—may provide a number of health ben...",
+          "source": "Harvard T.H. Chan School of Public Health",
+          "index": 6
+        },
+        {
+          "title": "Is It Safe to Drink Matcha Every Day? - Om Mushroom Superfood",
+          "link": "https://ommushrooms.com/blogs/blog/is-it-safe-to-drink-matcha-every-day#:~:text=Short%20answer:%20Yes%2C%20matcha%20is,adding%20matcha%20to%20your%20diet.",
+          "snippet": "May 25, 2021 — Short answer: Yes, matcha is safe for everyday use. The most-important aspect to be aware of when it comes to how much...",
+          "source": "Om Mushroom Superfood",
+          "index": 7
+        },
+        {
+          "title": "8 Powerful Health Benefits of Matcha Tea",
+          "link": "https://www.health.com/nutrition/what-is-matcha#:~:text=20-,Risks,Molecules.",
+          "snippet": "Mar 22, 2025 — Risks. As a beverage, green tea is safe at up to eight cups (8 ounces each) per day. 21 Matcha is stronger, higher in ...",
+          "source": "Health",
+          "index": 8
+        },
+        {
+          "title": "The Important Health Benefits Of Matcha Tea - Piedmont Healthcare",
+          "link": "https://www.piedmont.org/living-real-change/the-health-benefits-of-matcha-tea#:~:text=Contains%20vitamin%20C%2C%20chromium%2C%20magnesium,May%20improve%20your%20mood",
+          "snippet": "Contains vitamin C, chromium, magnesium, selenium and zinc. May help reduce blood sugar and cholesterol. May boost the metabolism ...",
+          "source": "Piedmont Healthcare",
+          "index": 9
+        },
+        {
+          "title": "Matcha: Health benefits of di green tea and hype around am explained",
+          "link": "https://www.bbc.com/pidgin/articles/ce3vpvgk3gxo#:~:text=Matcha%20dey%20rich%20in%20antioxidants%20%E2%80%93%20substances,and%20lower%20di%20risk%20of%20chronic%20diseases.",
+          "snippet": "May 3, 2025 — Matcha dey rich in antioxidants – substances wey dey help protect your body from cell damage and lower di risk of chron...",
+          "source": "BBC",
+          "index": 10
+        },
+        {
+          "title": "4 Surprising Beauty Benefits of Matcha - Vogue",
+          "link": "https://www.vogue.com/article/matcha-beauty-benefits#:~:text=Fewer%20wrinkles%20and%20less%20sun%20damage&text=According%20to%20one%20study%2C%20the,may%20even%20improve%20skin%20elasticity.",
+          "snippet": "Feb 19, 2025 — Fewer wrinkles and less sun damage According to one study, the polyphenols in green tea may help prevent UVB light-ind...",
+          "source": "Vogue",
+          "index": 11
+        },
+        {
+          "title": "Bio-Matcha or not? How to find the best matcha tea",
+          "link": "https://health-bar.com/en-it/blogs/perche-il-matcha/matcha-and-its-contaminants#:~:text=Organic%2Dcertified%20matcha%20products%20are%20subject%20to%20strict,of%20the%20green%20tea%20powder%20without%20worries.",
+          "snippet": "Sep 2, 2025 — Organic-certified matcha products are subject to strict controls and significantly reduce the risk of pesticide residue...",
+          "source": "HEALTH BAR GmbH",
+          "index": 12
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJJcyBpdCBnb29kIHRvIGRyaW5rIG1hdGNoYSBldmVyeSBkYXk/IiwibGsiOiJHaU5wY3lCcGRDQm5iMjlrSUhSdklHUnlhVzVySUcxaGRHTm9ZU0JsZG1WeWVXUmhlUSIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJJcyBpdCBnb29kIHRvIGRyaW5rIG1hdGNoYSBldmVyeSBkYXk%2FIiwibGsiOiJHaU5wY3lCcGRDQm5iMjlrSUhSdklHUnlhVzVySUcxaGRHTm9ZU0JsZG1WeWVXUmhlUSIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ%3D%3D"
+    },
+    {
+      "question": "Why is Gen Z obsessed with matcha?",
+      "type": "featured_snippet",
+      "snippet": "Matcha's appeal starts with its benefits: packed with antioxidants, L-theanine for calm energy, and nutrients like vitamin E, it's a “superfood” alternative to coffee, offering sustained focus without jitters. The global matcha market is projected to hit $4.24 billion by 2025, fueled by Gen Z's wellness obsession.",
+      "title": "The Matcha Latte Craze: Why It's Become Gen Z's Favorite Drink",
+      "date": "Sep 16, 2025",
+      "link": "https://vacbrewcoffee.com/blogs/tea-lovers/the-matcha-latte-craze-why-it-s-become-gen-z-s-favorite-drink#:~:text=Matcha's%20appeal%20starts%20with%20its,by%20Gen%20Z's%20wellness%20obsession.",
+      "displayed_link": "https://vacbrewcoffee.com › blogs › tea-lovers › the-mat...",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/dfabed23875ad7315afce74bbf569fa7db2880691954e50ca9278abe4104ba34.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJXaHkgaXMgR2VuIFogb2JzZXNzZWQgd2l0aCBtYXRjaGE/IiwibGsiOiJHaUYzYUhrZ2FYTWdaMlZ1SUhvZ2IySnpaWE56WldRZ2QybDBhQ0J0WVhSamFHRSIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJXaHkgaXMgR2VuIFogb2JzZXNzZWQgd2l0aCBtYXRjaGE%2FIiwibGsiOiJHaUYzYUhrZ2FYTWdaMlZ1SUhvZ2IySnpaWE56WldRZ2QybDBhQ0J0WVhSamFHRSIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ%3D%3D"
+    },
+    {
+      "question": "Is matcha stronger than caffeine?",
+      "type": "featured_snippet",
+      "snippet": "Matcha does contain caffeine, although it's less than most cups of coffee. On average, a cup of matcha contains about 70mg of caffeine, in comparison to 100-140mg in a cup of coffee.",
+      "title": "Matcha Vs Coffee - 7 Reasons To Switch To Matcha",
+      "link": "https://www.theteamakers.co.uk/blogs/news/matcha-vs-coffee#:~:text=Matcha%20does%20contain%20caffeine%2C%20although,in%20a%20cup%20of%20coffee.",
+      "displayed_link": "https://www.theteamakers.co.uk › blogs › news › matcha...",
+      "source_logo": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/dfabed23875ad7315afce74bbf569fa7bf4cc91263e93926b7cbf7b92e597c3c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJJcyBtYXRjaGEgc3Ryb25nZXIgdGhhbiBjYWZmZWluZT8iLCJsayI6IkdpQnBjeUJ0WVhSamFHRWdjM1J5YjI1blpYSWdkR2hoYmlCallXWm1aV2x1WlEiLCJicyI6ImM0M1BQUXJDTUJnR1lCeGNNam1HVEY5YnFuc3ZrRkVxTG9KUUVKZllwRTBRRTB5aUpZNTZMS19oZ1l6WW9ZT28tOFA3ZzFZb0x4MG9ENjB4SEx3QmJwWGV3NEg1V2pJUVoyRURjQllvdm8yTG5HVHFoNDBVTFZGYXlRQ1J6b1dHRFppZEU4NEpEcDN5c3RjVTM3ZEZScEx1RGRzSUx4OGhXcUFrRHV3N25MZEd0OEtDbDB4RHpacEdLQzBvdmg2TGxMeUN2anEwUnROS01qLUFUSE1ZZkdxTWhXQk9GRF9LWWtieTdoODhHVDBCIiwiaWQiOiJmY19IQmJjYUl2SURkaXY1Tm9QOEx5NnNBSV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJJcyBtYXRjaGEgc3Ryb25nZXIgdGhhbiBjYWZmZWluZT8iLCJsayI6IkdpQnBjeUJ0WVhSamFHRWdjM1J5YjI1blpYSWdkR2hoYmlCallXWm1aV2x1WlEiLCJicyI6ImM0M1BQUXJDTUJnR1lCeGNNam1HVEY5YnFuc3ZrRkVxTG9KUUVKZllwRTBRRTB5aUpZNTZMS19oZ1l6WW9ZT28tOFA3ZzFZb0x4MG9ENjB4SEx3QmJwWGV3NEg1V2pJUVoyRURjQllvdm8yTG5HVHFoNDBVTFZGYXlRQ1J6b1dHRFppZEU4NEpEcDN5c3RjVTM3ZEZScEx1RGRzSUx4OGhXcUFrRHV3N25MZEd0OEtDbDB4RHpacEdLQzBvdmg2TGxMeUN2anEwUnROS01qLUFUSE1ZZkdxTWhXQk9GRF9LWWtieTdoODhHVDBCIiwiaWQiOiJmY19IQmJjYUl2SURkaXY1Tm9QOEx5NnNBSV8yIn0%3D"
+    },
+    {
+      "question": "What is matcha and is it good for you?",
+      "type": "featured_snippet",
+      "snippet": "Matcha tea has various health benefits, including an enhancing effect on cognitive function, cardio-metabolic health, and anti-tumorogenesis. To date, randomized clinical trials (RCT) showed that matcha decreases stress, slightly enhances attention and memory, and has no effect on mood.",
+      "title": "The therapeutic potential of matcha tea: A critical review on ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9792400/#:~:text=Matcha%20tea%20has%20various%20health,has%20no%20effect%20on%20mood.",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC9792400",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIG1hdGNoYSBhbmQgaXMgaXQgZ29vZCBmb3IgeW91PyIsImxrIjoiYzVOU0xjOUlMRkhJTEZiSVRTeEp6a2hVU014TEFmRXlTeFRTOF9OVEZOTHlpeFFxODBzQiIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR05sWkViV0pVYkRsb1VYVlFlbEpLTm5kRVVETk5UMHh1U1hkTmNHOTRUSFZhUTJkSVdGSnBSemx0U2xCTmFsTnJlV3B3TWxkc01EUlZVMnhZYkVNNVR6QmpXbTk0TFRoWmVUaEhZVTA1ZUZGUmRHRnpObll4Wkc5Mlp4SVhTRUppWTJGSmRrbEVaR2wyTlU1dlVEaE1lVFp6UVVrYUlrRkdUVUZIUjNKc2NERXhSVnBJVlhwaUxVUlRjbEl4Y0VsVFIxZHRiMkV4ZW1jIiwiZmN2IjoiMyIsImVpIjoiSEJiY2FJdklEZGl2NU5vUDhMeTZzQUkiLCJxYyI6IkNnWnRZWFJqYUdFUUFEZ0JmYmg2R3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIG1hdGNoYSBhbmQgaXMgaXQgZ29vZCBmb3IgeW91PyIsImxrIjoiYzVOU0xjOUlMRkhJTEZiSVRTeEp6a2hVU014TEFmRXlTeFRTOF9OVEZOTHlpeFFxODBzQiIsImJzIjoiYzQzUFBRckNNQmdHWUJ4Y01qbUdURjlicW5zdmtGRXFMb0pRRUpmWXBFMFFFMHlpSlk1NkxLX2hnWXpZb1lPby04UDdnMVlvTHgwb0Q2MHhITHdCYnBYZXc0SDVXaklRWjJFRGNCWW92bzJMbkdUcWg0MFVMVkZheVFDUnpvV0dEWmlkRTg0SkRwM3lzdGNVMzdkRlJwTHVEZHNJTHg4aFdxQWtEdXc3bkxkR3Q4S0NsMHhEelpwR0tDMG92aDZMbEx5Q3ZqcTBSdE5LTWotQVRITVlmR3FNaFdCT0ZEX0tZa2J5N2g4OEdUMEIiLCJpZCI6ImZjX0hCYmNhSXZJRGRpdjVOb1A4THk2c0FJXzIifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Matcha",
+      "link": "https://en.wikipedia.org/wiki/Matcha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Matcha&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECEkQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Matcha",
+      "thumbnail": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6c07516372977f9363e1b37689b8e8231e.jpeg",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6c615aa854cd192f4f02c7f693ab8f3491.png",
+      "snippet": "Matcha /ˈmætʃə, ˈmɑːtʃə/ (抹茶) is a finely ground powder of green tea specially processed from shade-grown tea leaves. Shade growing gives matcha its ...",
+      "snippet_highlighted_words": [
+        "Matcha"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Matcha latte",
+            "link": "https://en.wikipedia.org/wiki/Matcha_latte"
+          },
+          {
+            "title": "Umami",
+            "link": "https://en.wikipedia.org/wiki/Umami"
+          },
+          {
+            "title": "Green tea",
+            "link": "https://en.wikipedia.org/wiki/Green_tea"
+          },
+          {
+            "title": "Japanese tea ceremony",
+            "link": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Matcha Powders & Accessories",
+      "link": "https://davidstea.com/collections/matcha?srsltid=AfmBOoq_GPe5QrS2OxS2jWreTtl2YcbqqGTC6UYrm6a5wNfHaYm-5Qe0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://davidstea.com/collections/matcha%3Fsrsltid%3DAfmBOoq_GPe5QrS2OxS2jWreTtl2YcbqqGTC6UYrm6a5wNfHaYm-5Qe0&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECFMQAQ",
+      "displayed_link": "https://davidstea.com › collections › matcha",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WAi08wobZtO7R9Kq-9iKk4_m0gBIWAsJAxgmZo1UhXkXh9PBFlKc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6ce4b5c6a711b0fcef09bdaa5344fac7f2.png",
+      "snippet": "Discover our top shelf ceremonial grade matcha—from organic sweetened matcha to straight & traditional matcha. Packed with flavour and function ...",
+      "snippet_highlighted_words": [
+        "top shelf ceremonial grade matcha"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 9,
+            "price_to": 65,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.0 store rating (19K)",
+            "$9 to $65",
+            "$8.99 delivery",
+            "Free 30-day returns"
+          ]
+        }
+      },
+      "source": "DAVIDsTEA"
+    },
+    {
+      "position": 3,
+      "title": "Shop Ceremonial Grade Matcha",
+      "link": "https://paragontearoom.com/collections/matcha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://paragontearoom.com/collections/matcha&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECHUQAQ",
+      "displayed_link": "https://paragontearoom.com › collections › matcha",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBmtNcwQVyZ6WZOBsxWm64Tlu7PfeZGzm_zfjqiBDHzZrFmimzXVg&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6c5ed6682e9f782d0b587e703be401e556.png",
+      "snippet": "Our Ceremonial Grade Matcha is made of the finest quality from shade-grown young tea leaves. Earthy, creamy, and smooth finish.",
+      "snippet_highlighted_words": [
+        "made of the finest quality from shade-grown young tea leaves"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Ceremonial Matcha",
+            "link": "https://paragontearoom.com/products/ceremonial-matcha"
+          },
+          {
+            "title": "Baking Matcha",
+            "link": "https://paragontearoom.com/products/baking-matcha"
+          },
+          {
+            "title": "Hojicha",
+            "link": "https://paragontearoom.com/collections/hojicha"
+          },
+          {
+            "title": "Home Cafe Tools | Teaware",
+            "link": "https://paragontearoom.com/collections/teaware-accessories"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free delivery over $75"
+          ]
+        }
+      },
+      "source": "Paragon Tea Room"
+    },
+    {
+      "position": 4,
+      "title": "Matcha: Health Benefits of This Kind of Green Tea",
+      "link": "https://www.webmd.com/food-recipes/ss/slideshow-all-about-matcha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/food-recipes/ss/slideshow-all-about-matcha&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECEgQAQ",
+      "displayed_link": "https://www.webmd.com › Food & Recipes › Slideshows",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCGRLVsA1G9S4FW_HiBhGGgK8K_J364dbh5L3s7-W9HxNSJagxCV1&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6ca515e621ec84e11d1d42aa5fb73d8b87.png",
+      "date": "Jun 6, 2024",
+      "snippet": "This powdered form of green tea can dissolve into milk or water or add flavor to things like yogurt or smoothies.",
+      "snippet_highlighted_words": [
+        "can dissolve into milk or water"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 5,
+      "title": "Health Benefits of Matcha Tea",
+      "link": "https://matchasource.com/health-benefits-of-matcha-tea/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://matchasource.com/health-benefits-of-matcha-tea/&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECEYQAQ",
+      "displayed_link": "https://matchasource.com › health-benefits-of-matcha-tea",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtV5Xhdig6cy5QlpVC8eMUpiL34K-xlMPdCOLh1nhqVY9mnCnH7921&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6ce7584606572c1fe7271e7ab26a5fec62.png",
+      "snippet": "Matcha is a great addition to a weight loss program by tackling the problem from both sides. It boosts metabolism and burns fat.",
+      "snippet_highlighted_words": [
+        "Matcha is a great addition to a weight loss program"
+      ],
+      "source": "Matcha Source"
+    },
+    {
+      "position": 6,
+      "title": "The therapeutic potential of matcha tea: A critical review on ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9792400/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC9792400/&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECEIQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC9792400",
+      "author": "by S Sokary",
+      "snippet": "Matcha tea has various health benefits, including an enhancing effect on cognitive function, cardio-metabolic health, and anti-tumorogenesis.",
+      "snippet_highlighted_words": [
+        "Matcha tea has various health benefits"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Matcha 101 - What It Is and How to Use It Recipe",
+      "link": "https://www.loveandlemons.com/matcha-green-tea/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/matcha-green-tea/&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECHIQAQ",
+      "displayed_link": "https://www.loveandlemons.com › Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE85L42pe5n1MXf2I3bYekYxmHNtzras04snK7qWi6J_xJunCJynrL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6ce6e4836e145aa1fe904afc78cda7f7db.png",
+      "snippet": "It's a Japanese green tea powder made from finely powdered dried tea leaves. It has a slightly bitter, vegetal taste and a vibrant green color.",
+      "snippet_highlighted_words": [
+        "Japanese green tea powder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 102,
+            "mins": 5
+          },
+          "extensions": [
+            "5.0(102)",
+            "5 mins"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 8,
+      "title": "Matcha Green Tea Powder",
+      "link": "https://matcha.com/en-ca",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://matcha.com/en-ca&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECHEQAQ",
+      "displayed_link": "https://matcha.com › en-ca",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqkD7O8T5cAmMV8s6IkQdbr-Cbv0MZFd0eygu1aGm9y3T0LWY7N-H&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6cb3aacc978df0ac9d5a09c44f29dc2a3d.png",
+      "snippet": "Matcha is the ultimate form of green tea in the whole world. It comes exclusively from Japan, where the benefits of matcha are strongest due to the special ...",
+      "snippet_highlighted_words": [
+        "Matcha is the ultimate form of green tea in the whole world"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Bulk Matcha",
+            "link": "https://bulk.matcha.com/"
+          },
+          {
+            "title": "Matcha Prime",
+            "link": "https://matcha.com/pages/matcha-prime"
+          },
+          {
+            "title": "Matcha Resources",
+            "link": "https://matcha.com/pages/matcha-resources"
+          },
+          {
+            "title": "Matcha Recipes",
+            "link": "https://matcha.com/blogs/news/tagged/recipe"
+          }
+        ]
+      },
+      "source": "Matcha.com"
+    },
+    {
+      "position": 9,
+      "title": "Premium A1 Matcha from Japan - Firebelly Tea",
+      "link": "https://www.firebellytea.ca/collections/matcha?srsltid=AfmBOoqDYm40YBgauLEVh6xVw2vHKmuSbrW21wFhaL_D6FE3ymuRWZzi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firebellytea.ca/collections/matcha%3Fsrsltid%3DAfmBOoqDYm40YBgauLEVh6xVw2vHKmuSbrW21wFhaL_D6FE3ymuRWZzi&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQFnoECFYQAQ",
+      "displayed_link": "https://www.firebellytea.ca › collections › matcha",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQ4pZ0mL6m-w0nQWAEXJNaj-w7atG5vWahZez5CNHcrjISndoUsCL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68dc161b06ca7f9c787ef607/images/02560ffa384e37b5044415c4b9a7dc6c67d119ef3e7245019b2d496e071b0178.png",
+      "snippet": "100% ceremonial-grade matcha, made with only the first harvest tea leaves each year. Carefully shade-grown and stone-milled for high levels of antioxidants and ...",
+      "snippet_highlighted_words": [
+        "100% ceremonial-grade matcha"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 21,
+            "price_to": 122,
+            "currency": "$",
+            "rating": 4.9,
+            "reviews": 36
+          },
+          "extensions": [
+            "4.9 store rating (36)",
+            "$21 to $122",
+            "Free delivery over $75",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "firebellytea.ca"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Matcha latte",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+latte&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+latte"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha powder",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+powder&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+powder"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha benefits",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+benefits&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha coffee",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+coffee&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha plant",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+plant&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+plant"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha near me",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+near+me&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha Starbucks",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+Starbucks&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+Starbucks"
+    },
+    {
+      "block_position": 1,
+      "query": "Matcha caffeine",
+      "link": "https://www.google.com/search?sca_esv=fe0ebb4ec3b321c8&gl=ca&q=Matcha+caffeine&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=Matcha+caffeine"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Powdered",
+      "link": "https://www.google.com/search?q=powdered+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESCFBvd2RlcmVkOgoIiP04EIr9ODAAWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAF6BAghEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=powdered+matcha"
+    },
+    {
+      "query": "Tea",
+      "link": "https://www.google.com/search?q=tea+matcha&gl=ca&shoprs=GAkqBm1hdGNoYTIHCAkSA1RlYWAB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAJ6BAghEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=tea+matcha"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=matcha+nearby&gl=ca&shoprs=GAMqBm1hdGNoYTIMCAMSBk5lYXJieRgCWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAN6BAghEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+nearby"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?q=green+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBUdyZWVuOgoIsoI5ELeCOTACWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAR6BAghEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=green+matcha"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAV6BAghEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=buy+matcha"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAZ6BAghEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=recipe+matcha"
+    },
+    {
+      "query": "costco.ca",
+      "link": "https://www.google.com/search?q=costco.ca+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTINCAISCWNvc3Rjby5jYVib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAd6BAghEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=costco.ca+matcha"
+    },
+    {
+      "query": "Japan",
+      "link": "https://www.google.com/search?q=japan+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBUphcGFuOgwI7NaxAhD11rECMAJYm9EfYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAh6BAghEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=japan+matcha"
+    },
+    {
+      "query": "Iced Tea",
+      "link": "https://www.google.com/search?q=iced+tea+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIaCAESCEljZWQgVGVhOgwIoduIARCi24gBMANYm9EfYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAl6BAghEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=iced+tea+matcha"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAp6BAghEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=brand+matcha"
+    },
+    {
+      "query": "Walmart.ca",
+      "link": "https://www.google.com/search?q=walmart.ca+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTIOCAISCldhbG1hcnQuY2FYm9EfYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAt6BAghEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=walmart.ca+matcha"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKAx6BAghEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=reviews+matcha"
+    },
+    {
+      "query": "DAVIDsTEA",
+      "link": "https://www.google.com/search?q=davidstea+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTINCAISCURBVklEc1RFQVib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKA16BAghEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=davidstea+matcha"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKA56BAghEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=price+matcha"
+    },
+    {
+      "query": "Bag",
+      "link": "https://www.google.com/search?q=bag+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTITCAESA0JhZzoKCIj9OBC5rzswAFib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKA96BAghEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=bag+matcha"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBB6BAghEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=online+matcha"
+    },
+    {
+      "query": "Sweet",
+      "link": "https://www.google.com/search?q=sweet+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBVN3ZWV0OgoI2bg7ENu4OzAAWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBF6BAghEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=sweet+matcha"
+    },
+    {
+      "query": "Slimming",
+      "link": "https://www.google.com/search?q=slimming+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESCFNsaW1taW5nOgoIvJBnEL6QZzAAWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBJ6BAghEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=slimming+matcha"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?q=store+matcha&gl=ca&shoprs=GBIqBm1hdGNoYTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBN6BAghEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=store+matcha"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=matcha+sale&gl=ca&shoprs=EgRKAggBGAYqBm1hdGNoYTITCAYSB09uIHNhbGUYAiIESgIIAVib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBR6BAghEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+sale"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=matcha+for+sale&gl=ca&shoprs=GBIqBm1hdGNoYTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBV6BAghEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+for+sale"
+    },
+    {
+      "query": "Tetley",
+      "link": "https://www.google.com/search?q=tetley+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBlRldGxleToKCIPzPBDXvE8wAVib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBZ6BAghEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=tetley+matcha"
+    },
+    {
+      "query": "Tea Sets",
+      "link": "https://www.google.com/search?q=tea+sets+matcha&gl=ca&shoprs=GAkqBm1hdGNoYTIMCAkSCFRlYSBTZXRzYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBd6BAghEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=tea+sets+matcha"
+    },
+    {
+      "query": "Caffeine-free",
+      "link": "https://www.google.com/search?q=caffeine-free+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIfCAESDUNhZmZlaW5lLWZyZWU6DAig8YoBEKHxigEwA1ib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBh6BAghEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=caffeine-free+matcha"
+    },
+    {
+      "query": "Loose Leaf",
+      "link": "https://www.google.com/search?q=loose+leaf+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIaCAESCkxvb3NlIExlYWY6CgiI_TgQmrA7MABYm9EfYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBl6BAghEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=loose+leaf+matcha"
+    },
+    {
+      "query": "China",
+      "link": "https://www.google.com/search?q=china+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBUNoaW5hOgwI7NaxAhDt1rECMAJYm9EfYAE&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBp6BAghEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=china+matcha"
+    },
+    {
+      "query": "Camellia Sinensis",
+      "link": "https://www.google.com/search?q=camellia+sinensis+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTIVCAISEUNhbWVsbGlhIFNpbmVuc2lzWJvRH2AB&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBt6BAghEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=camellia+sinensis+matcha"
+    },
+    {
+      "query": "Uber Eats",
+      "link": "https://www.google.com/search?q=uber+eats+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTINCAISCVViZXIgRWF0c1ib0R9gAQ&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQip4GKBx6BAghEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=uber+eats+matcha"
+    }
+  ],
+  "refine_search_filters": [
+    {
+      "type": "Product Rating",
+      "options": [
+        {
+          "title": "",
+          "link": "https://www.google.com/search?q=matcha&gl=ca&shoprs=EgViAwiQAxgeKgZtYXRjaGEyFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha"
+        }
+      ]
+    },
+    {
+      "type": "Form",
+      "options": [
+        {
+          "title": "Powdered",
+          "link": "https://www.google.com/search?q=powdered+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESCFBvd2RlcmVkOgoIiP04EIr9ODAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEAw",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=powdered+matcha"
+        },
+        {
+          "title": "Bag",
+          "link": "https://www.google.com/search?q=bag+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTITCAESA0JhZzoKCIj9OBC5rzswAFib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEA0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=bag+matcha"
+        },
+        {
+          "title": "Loose Leaf",
+          "link": "https://www.google.com/search?q=loose+leaf+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIaCAESCkxvb3NlIExlYWY6CgiI_TgQmrA7MABYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEA4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=loose+leaf+matcha"
+        },
+        {
+          "title": "Ready To Serve",
+          "link": "https://www.google.com/search?q=ready+to+serve+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIeCAESDlJlYWR5IFRvIFNlcnZlOgoIiP04EIn9ODAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEA8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=ready+to+serve+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "options": [
+        {
+          "title": "Green",
+          "link": "https://www.google.com/search?q=green+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBUdyZWVuOgoIsoI5ELeCOTACWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEBU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=green+matcha"
+        },
+        {
+          "title": "Black",
+          "link": "https://www.google.com/search?q=black+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBUJsYWNrOgoIsoI5ELiCOTACWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEBY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=black+matcha"
+        },
+        {
+          "title": "White",
+          "link": "https://www.google.com/search?q=white+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBVdoaXRlOgoIsoI5ELaCOTACWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEBc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=white+matcha"
+        },
+        {
+          "title": "Herbal",
+          "link": "https://www.google.com/search?q=herbal+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBkhlcmJhbDoKCLKCORC1gjkwAlib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEBg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=herbal+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Origin",
+      "options": [
+        {
+          "title": "Japan",
+          "link": "https://www.google.com/search?q=japan+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBUphcGFuOgwI7NaxAhD11rECMAJYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEBw",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=japan+matcha"
+        },
+        {
+          "title": "China",
+          "link": "https://www.google.com/search?q=china+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBUNoaW5hOgwI7NaxAhDt1rECMAJYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEB0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=china+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "options": [
+        {
+          "title": "Iced Tea",
+          "link": "https://www.google.com/search?q=iced+tea+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIaCAESCEljZWQgVGVhOgwIoduIARCi24gBMANYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghECE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=iced+tea+matcha"
+        },
+        {
+          "title": "Caffeine-free",
+          "link": "https://www.google.com/search?q=caffeine-free+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIfCAESDUNhZmZlaW5lLWZyZWU6DAig8YoBEKHxigEwA1ib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghECI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=caffeine-free+matcha"
+        },
+        {
+          "title": "Vegan",
+          "link": "https://www.google.com/search?q=vegan+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBVZlZ2FuOgwIwr2HARDDvYcBMANYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghECM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=vegan+matcha"
+        },
+        {
+          "title": "Gluten-free",
+          "link": "https://www.google.com/search?q=gluten-free+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIdCAESC0dsdXRlbi1mcmVlOgwIsoqIARCziogBMANYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghECQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=gluten-free+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Sweetness",
+      "options": [
+        {
+          "title": "Sweet",
+          "link": "https://www.google.com/search?q=sweet+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBVN3ZWV0OgoI2bg7ENu4OzAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghECo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=sweet+matcha"
+        },
+        {
+          "title": "Unsweetened",
+          "link": "https://www.google.com/search?q=unsweetened+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIbCAESC1Vuc3dlZXRlbmVkOgoI2bg7ENq4OzAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghECs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=unsweetened+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "options": [
+        {
+          "title": "costco.ca",
+          "link": "https://www.google.com/search?q=costco.ca+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTINCAISCWNvc3Rjby5jYVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEC8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=costco.ca+matcha"
+        },
+        {
+          "title": "Walmart.ca",
+          "link": "https://www.google.com/search?q=walmart.ca+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTIOCAISCldhbG1hcnQuY2FYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEDA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=walmart.ca+matcha"
+        },
+        {
+          "title": "DAVIDsTEA",
+          "link": "https://www.google.com/search?q=davidstea+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTINCAISCURBVklEc1RFQVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEDE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=davidstea+matcha"
+        },
+        {
+          "title": "Camellia Sinensis",
+          "link": "https://www.google.com/search?q=camellia+sinensis+matcha&gl=ca&shoprs=GAIqBm1hdGNoYTIVCAISEUNhbWVsbGlhIFNpbmVuc2lzWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEDI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=camellia+sinensis+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Health Benefit",
+      "options": [
+        {
+          "title": "Slimming",
+          "link": "https://www.google.com/search?q=slimming+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESCFNsaW1taW5nOgoIvJBnEL6QZzAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEDg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=slimming+matcha"
+        },
+        {
+          "title": "Energy",
+          "link": "https://www.google.com/search?q=energy+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBkVuZXJneToKCLyQZxDAkGcwAFib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEDk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=energy+matcha"
+        },
+        {
+          "title": "Detox",
+          "link": "https://www.google.com/search?q=detox+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESBURldG94OgoIvJBnEL2QZzAAWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEDo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=detox+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "options": [
+        {
+          "title": "Red",
+          "link": "https://www.google.com/search?q=red+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIVCAESA1JlZDoMCNiM9QEQ54r1ATALWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghED4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=red+matcha"
+        },
+        {
+          "title": "Silver",
+          "link": "https://www.google.com/search?q=silver+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghED8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=silver+matcha"
+        },
+        {
+          "title": "Beige",
+          "link": "https://www.google.com/search?q=beige+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIXCAESBUJlaWdlOgwI2Iz1ARCii_UBMAtYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEEA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=beige+matcha"
+        },
+        {
+          "title": "Grey",
+          "link": "https://www.google.com/search?q=grey+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBEdyZXk6DAjYjPUBEOqK9QEwC1ib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEEE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=grey+matcha"
+        },
+        {
+          "title": "Orange",
+          "link": "https://www.google.com/search?q=orange+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESBk9yYW5nZToMCNiM9QEQ7or1ATALWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAR6BAghEEI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=orange+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "options": [
+        {
+          "title": "Under $20",
+          "link": "https://www.google.com/search?q=matcha+under+$20&gl=ca&shoprs=Eg0SCxEAAAAA0BJzQRgBGAUqBm1hdGNoYTIiCAUSCVVuZGVyICQyMBgCIg0SCxEAAAAA0BJzQRgBKgIYAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEEY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+under+%2420"
+        },
+        {
+          "title": "$20 - $40",
+          "link": "https://www.google.com/search?q=matcha+between+$20+and+$40&gl=ca&shoprs=EhYSFAkAAAAA0BJzQREAAAAA0BKDQRgBGAUqBm1hdGNoYTIrCAUSCSQyMCAtICQ0MBgCIhYSFAkAAAAA0BJzQREAAAAA0BKDQRgBKgIYAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEEc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+between+%2420+and+%2440"
+        },
+        {
+          "title": "$40 - $70",
+          "link": "https://www.google.com/search?q=matcha+between+$40+and+$70&gl=ca&shoprs=EhYSFAkAAAAA0BKDQREAAAAAdrCQQRgBGAUqBm1hdGNoYTIrCAUSCSQ0MCAtICQ3MBgCIhYSFAkAAAAA0BKDQREAAAAAdrCQQRgBKgIYAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEEg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+between+%2440+and+%2470"
+        },
+        {
+          "title": "Over $70",
+          "link": "https://www.google.com/search?q=matcha+over+$70&gl=ca&shoprs=Eg0SCwkAAAAAdrCQQRgBGAUqBm1hdGNoYTIhCAUSCE92ZXIgJDcwGAIiDRILCQAAAAB2sJBBGAEqAhgBWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEEk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+over+%2470"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "options": [
+        {
+          "title": "Tetley",
+          "link": "https://www.google.com/search?q=tetley+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBlRldGxleToKCIPzPBDXvE8wAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEFA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=tetley+matcha"
+        },
+        {
+          "title": "ITO EN",
+          "link": "https://www.google.com/search?q=ito+en+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIWCAESBklUTyBFTjoKCIPzPBDR508wAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEFE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=ito+en+matcha"
+        },
+        {
+          "title": "DoMatcha",
+          "link": "https://www.google.com/search?q=domatcha+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIYCAESCERvTWF0Y2hhOgoIg_M8EKTxTjABWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEFI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=domatcha+matcha"
+        },
+        {
+          "title": "Stash Tea",
+          "link": "https://www.google.com/search?q=stash+tea+matcha&gl=ca&shoprs=GAEqBm1hdGNoYTIZCAESCVN0YXNoIFRlYToKCIPzPBD2m0AwAVib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEFM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=stash+tea+matcha"
+        }
+      ]
+    },
+    {
+      "type": "Size",
+      "options": [
+        {
+          "title": "Under 1.06 ounces",
+          "link": "https://www.google.com/search?q=under+1.06+ounces+matcha&gl=ca&shoprs=EhIqEAjqjfwBEgkRAAAAAAAAPkAYASoGbWF0Y2hhMjgIARIRVW5kZXIgMS4wNiBvdW5jZXMiEioQCOqN_AESCREAAAAAAAA-QCoCGAE6CQjqjfwBEAAwBlib0R9gAg&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAB6BAghEFk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=under+1.06+ounces+matcha"
+        },
+        {
+          "title": "1.06 – 1.76 ounces",
+          "link": "https://www.google.com/search?q=1.06+ounces+to+1.76+ounces+matcha&gl=ca&shoprs=EhsqGQjqjfwBEhIJAAAAAAAAPkARAAAAAAAASUAYASoGbWF0Y2hhMmAIARIUMS4wNiDigJMgMS43NiBvdW5jZXMiGyoZCOqN_AESEgkAAAAAAAA-QBEAAAAAAABJQCoeChoxLjA2IG91bmNlcyB0byAxLjc2IG91bmNlcxgBOgkI6o38ARAAMAZYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAF6BAghEFo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=1.06+ounces+to+1.76+ounces+matcha"
+        },
+        {
+          "title": "1.76 – 3.53 ounces",
+          "link": "https://www.google.com/search?q=1.76+ounces+to+3.53+ounces+matcha&gl=ca&shoprs=EhsqGQjqjfwBEhIJAAAAAAAASUARAAAAAAAAWUAYASoGbWF0Y2hhMmAIARIUMS43NiDigJMgMy41MyBvdW5jZXMiGyoZCOqN_AESEgkAAAAAAABJQBEAAAAAAABZQCoeChoxLjc2IG91bmNlcyB0byAzLjUzIG91bmNlcxgBOgkI6o38ARAAMAZYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAJ6BAghEFs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=1.76+ounces+to+3.53+ounces+matcha"
+        },
+        {
+          "title": "3.53 – 8.82 ounces",
+          "link": "https://www.google.com/search?q=3.53+ounces+to+8.82+ounces+matcha&gl=ca&shoprs=EhsqGQjqjfwBEhIJAAAAAAAAWUARAAAAAABAb0AYASoGbWF0Y2hhMmAIARIUMy41MyDigJMgOC44MiBvdW5jZXMiGyoZCOqN_AESEgkAAAAAAABZQBEAAAAAAEBvQCoeChozLjUzIG91bmNlcyB0byA4LjgyIG91bmNlcxgBOgkI6o38ARAAMAZYm9EfYAI&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAN6BAghEFw",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=3.53+ounces+to+8.82+ounces+matcha"
+        },
+        {
+          "title": "Over 8.82 ounces",
+          "link": "https://www.google.com/search?q=over+8.82+ounces+matcha&gl=ca&shoprs=EhIqEAjqjfwBEgkJAAAAAABAb0AYASoGbWF0Y2hhMjcIARIQT3ZlciA4LjgyIG91bmNlcyISKhAI6o38ARIJCQAAAAAAQG9AKgIYAToJCOqN_AEQADAGWJvRH2AC&sa=X&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ268JKAR6BAghEF0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=over+8.82+ounces+matcha"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=10&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=10&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=20&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=30&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=40&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=50&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=60&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=70&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=80&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=matcha&sca_esv=fe0ebb4ec3b321c8&gl=ca&ei=HBbcaIvIDdiv5NoP8Ly6sAI&start=90&sa=N&sstk=Af77f_fMMYaZcsq24UXskf7wEdULYfe9PJUVixdKveVnvMBFIUh6u10EiUbg7KOl_xUZfEivUiyfbrsWxW7GinBAc4VKyxb-5guZ0g&ved=2ahUKEwiLxoCDhIGQAxXYF1kFHXCeDiYQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.com&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha&start=90"
+    }
+  }
+}
