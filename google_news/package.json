@@ -1,0 +1,22 @@
+{
+  "name": "google_news",
+  "version": "1.0.0",
+  "description": "tutorial code for video 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "news",
+    "api",
+    "serpapi"
+  ],
+  "author": "Catherine Li",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "serpapi": "^2.2.1"
+  },
+  "type": "module"
+}
