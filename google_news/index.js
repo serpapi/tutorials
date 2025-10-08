@@ -38,7 +38,6 @@ const newsByCategory = categories2.map(async (category) => {
 })
 
 const news = await Promise.all(newsByCategory);
-const jsonString = JSON.stringify(news, null, 2);
 
 news.forEach((item) => {
     console.log("CATEGORY: " + item.title)

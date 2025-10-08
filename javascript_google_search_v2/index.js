@@ -10,7 +10,8 @@ getJson({
     engine: "google",
     gl: "ca",
     location: "Vancouver, British Columbia, Canada",
-    start: 30
+    start: 10,
+    no_cache: true
 }, (json) => {
     const data = json.organic_results;
     data.forEach((result, index) => {
