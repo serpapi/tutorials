@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "json-colorizer": "^3.0.1",
-    "pretty-format": "^30.2.0",
     "serpapi": "^2.2.1"
   }
 }
