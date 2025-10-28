@@ -1,0 +1,1500 @@
+{
+  "search_metadata": {
+    "id": "69010f7df3a0a79d3829d03c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/42f32ce100e8003b/69010f7df3a0a79d3829d03c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/42f32ce100e8003b/69010f7df3a0a79d3829d03c.json_with_pixel_position",
+    "created_at": "2025-10-28 18:46:21 UTC",
+    "processed_at": "2025-10-28 18:46:21 UTC",
+    "google_url": "https://www.google.com/search?q=how+do+you+brew+coffee&oq=how+do+you+brew+coffee&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/42f32ce100e8003b/69010f7df3a0a79d3829d03c.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how do you brew coffee",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how do you brew coffee",
+    "total_results": 138000000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How to Make Coffee (Easy Guide)",
+      "link": "https://www.youtube.com/watch?v=igOW_6br668",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/db62a108c8d41f1d904081f0e74b9791e996b1e42aa6b094bc3713dcfdd571c1.jpeg",
+      "channel": "Dad, how do I?",
+      "duration": "4:39",
+      "platform": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "How To Make Coffee in 60 seconds #coffee",
+      "link": "https://www.youtube.com/shorts/jgm4d8zAX-U",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/db62a108c8d41f1db965b64376bcdf1f682ec4e9a6eb4033d1b873f12e56e75b.jpeg",
+      "channel": "Just A Dad Videos",
+      "duration": "1:00",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "A Beginner's Guide to Making Great Coffee",
+      "link": "https://www.youtube.com/watch?v=ZCXG0BCFLNA",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/db62a108c8d41f1d9571fee2e2eb928986871d71b4d0e33cb4a87279778b812b.jpeg",
+      "channel": "Charlie Anderson",
+      "duration": "9:37",
+      "platform": "YouTube"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "How To Make Coffee in 60 seconds #coffee",
+      "source": "YouTube",
+      "profile_name": "Just A Dad Videos",
+      "extensions": [
+        "Just A Dad Videos"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a229365a369ec73e86fb6485969248efe68403b2e82f6af8d623d5.png",
+      "duration": "1:00",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQL9LiEOY-nk5OfbHLAcsKv6Hop66DOx9R3gQ",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a2293623a8ca928f4b69b20612d8c95f02c9ce7704484dde46e0e4.jpeg",
+      "link": "https://www.youtube.com/shorts/jgm4d8zAX-U"
+    },
+    {
+      "position": 2,
+      "title": "How do you brew your coffee at home? Different brew ... by Simple Kup on Facebook. Play on Facebook. 2:23",
+      "source": "Facebook",
+      "profile_name": "Simple Kup",
+      "extensions": [
+        "Simple Kup"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a229368eea28708a9818544c31c3052f64005074d6ebbc86dab10d.png",
+      "duration": "2:23",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5o1soL-rsnM-EE7SqRxdYmc6r7LC8vNesrA",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a22936971e71a28a17a634f1b1bac4c2180863558f4a2a08ba9e69.jpeg",
+      "link": "https://www.facebook.com/61556595450932/videos/how-do-you-brew-your-coffee-at-home-different-brew-methods-explained123-n-main-s/738763958783855/"
+    },
+    {
+      "position": 3,
+      "title": "How to Brew Coffee with Intention: A Step-by-Step Pour Over ... by chikki_brews on Instagram. Play on Instagram. 0:51",
+      "source": "Instagram",
+      "profile_name": "chikki_brews",
+      "extensions": [
+        "chikki_brews"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a22936789785ec02f1d9c16e5307914c9c742cedb7bf1e1c0d5500.png",
+      "duration": "0:51",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQg5TyQCHXm09ZdMDduzIMH9kohqMi_GTknyw",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a2293642f7dd7302552dffa4c7903cfd8a082772d09216f2b2623c.jpeg",
+      "link": "https://www.instagram.com/reel/DPLP2emkY9B/"
+    },
+    {
+      "position": 4,
+      "title": "How coffee is brewed and the things to consider to brew the ...",
+      "source": "YouTube",
+      "profile_name": "methodicalcoffee",
+      "extensions": [
+        "methodicalcoffee"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a229368e767c313cf687826b56eb23ae7cadf2da6e8ffb3385a52d.png",
+      "duration": "1:08",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT-s8nC91zEUzxFT7uYTE6vqVSNghFuQyO2SQ",
+      "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a2293621f898703f81d2efcd52653b448acf8aa2b0b20e7b16c853.jpeg",
+      "link": "https://www.youtube.com/shorts/R2xp6qOX9GI"
+    },
+    {
+      "position": 5,
+      "title": "Have you tried this method of brewing “coffee” before?",
+      "source": "YouTube",
+      "profile_name": "Morgan Eckroth",
+      "extensions": [
+        "Morgan Eckroth"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a2293677b5b50c2ca6cca0702db42ffab267603f2c10cc82336b27.png",
+      "duration": "1:07",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT2b2aUIWkbO35K04cNUUK6gp-Zte5BN_iNvA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9qGuGs2Xda6VCKbdj5Pm_9-UDuAyLTtLKArBGnyxD7tvSw&s",
+      "link": "https://www.youtube.com/shorts/SnEhj6fg3mI"
+    },
+    {
+      "position": 6,
+      "title": "The Secret to Making Excellent Coffee at Home: Freshly ... by morgandrinkscoffee on Instagram. Play on Instagram. 0:50",
+      "source": "Instagram",
+      "profile_name": "morgandrinkscoffee",
+      "extensions": [
+        "morgandrinkscoffee"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a229368edaf466bc29a7ef9acc31ceb3140955052a8eae9b892261.png",
+      "duration": "0:50",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NHQw5ctWjQZ1JUNfX1onwtVUbyMntFfcAnNx_EU_xuAqC4vd0sYzcLo&s",
+      "link": "https://www.instagram.com/reel/DPrQlvUkXto/"
+    },
+    {
+      "position": 7,
+      "title": "Autumn in a cup #coffee #homemade #syrup #recipe #coldbrew by courtneywithbbk on TikTok. Play on TikTok. 2:26",
+      "source": "TikTok",
+      "profile_name": "courtneywithbbk",
+      "extensions": [
+        "courtneywithbbk"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a229365166db58a7f001be541bb7057ae6b2d5cecde2c1d2d33c9e.png",
+      "duration": "2:26",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyt6zS8Xy_wNeUH0zJbsEKupXbnNyrzevKnMXFRO7WJ85C1ytVSj7dzTA&s",
+      "link": "https://www.tiktok.com/@courtneywithbbk/video/7563335174612684063"
+    },
+    {
+      "position": 8,
+      "title": "How to Brew Coffee",
+      "source": "YouTube",
+      "profile_name": "Ispirare Coffee",
+      "extensions": [
+        "Ispirare Coffee"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a22936ecec8ec1b32942e27573d9624d255a9e7b0359fc828eb9d2.png",
+      "duration": "1:00",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktQgN8tJYwkevd-kZMGzq3jZA5kFKLbpEhJBsMRgkSviwOvpH4beNjCQ&s",
+      "link": "https://www.youtube.com/shorts/LROO2fhp3U0"
+    },
+    {
+      "position": 9,
+      "title": "5 Tips To Brew Better Coffee + Bonus Tip",
+      "source": "YouTube",
+      "profile_name": "Zest Specialty Coffee",
+      "extensions": [
+        "Zest Specialty Coffee"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a22936ded607bfbd3c12561399a3e08d0dd77c418deaaac675d40e.png",
+      "duration": "1:56",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ07oZI0JE5xgfAcUUrU5IcOtSGEGZ00v5WAw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLI8svOJgIQWgZ_FmcOCN7ZrhR3O4aVBzKCkoDikcY8HExWg&s",
+      "link": "https://www.youtube.com/watch?v=xLZb0R8XCQA"
+    },
+    {
+      "position": 10,
+      "title": "7 Brew Coffee: Discover a Game-Changing Brew Experience by fredashaee on Instagram. Play on Instagram. 0:12",
+      "source": "Instagram",
+      "profile_name": "fredashaee",
+      "extensions": [
+        "fredashaee"
+      ],
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/53646dc753a2293625a0cf92a554b99d2f949c025f468c28019fc3a308ceb6c8.png",
+      "duration": "0:12",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTmaoofQ0m8Ecr8GP8g1TxEebI0u26Q0hh3sw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxJRnOnKBhdjy-llpXFpsa9wKTsbPUFA3OKcSEJwEthdoH6BN5x9lRAI&s",
+      "link": "https://www.instagram.com/reel/DQDOVfsjqUQ/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How to brew coffee step by step?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "To make coffee, first heat water to the appropriate temperature and add it to your brewing device along with the correct amount of ground coffee. Then, allow the coffee and water to steep or brew for the recommended time, after which you should separate the grounds from the liquid before serving.",
+          "snippet_highlighted_words": [
+            "first heat water to the appropriate temperature and add it to your brewing device along with the correct amount of ground coffee.",
+            "Then, allow the coffee and water to steep or brew for the recommended time, after which you should separate the grounds from the liquid before serving"
+          ],
+          "reference_indexes": [
+            1,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "This video demonstrates how to make coffee using an automatic drip coffee maker:",
+          "video": {
+            "link": "https://www.youtube.com/shorts/jgm4d8zAX-U",
+            "thumbnail": "https://i.ytimg.com/vi/jgm4d8zAX-U/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3luuBKDLFgGZN1v1p2oMnbzjUUAWg",
+            "source": "Just A Dad Videos",
+            "date": "Dec 10, 2022"
+          }
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Basic coffee maker"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Add water: Fill the coffee maker's reservoir with the desired amount of cold, fresh water.",
+              "reference_indexes": [
+                4
+              ]
+            },
+            {
+              "snippet": "Add filter and grounds: Place a coffee filter in the brew basket, then add your coffee grounds. A good starting ratio is one tablespoon of coffee for every 6 ounces of water.",
+              "reference_indexes": [
+                0,
+                4
+              ]
+            },
+            {
+              "snippet": "Brew: Close the lid and press the \"brew\" or \"start\" button to begin the process.",
+              "reference_indexes": [
+                0,
+                4
+              ]
+            },
+            {
+              "snippet": "Serve: Once the coffee is finished dripping, pour it into a mug and enjoy.",
+              "reference_indexes": [
+                0,
+                4,
+                6,
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "You can watch this video to see how to use a coffee press to make coffee:",
+          "video": {
+            "link": "https://www.youtube.com/watch?v=3FtPMI9_uBE&vl=en&t=79",
+            "thumbnail": "https://i.ytimg.com/vi/3FtPMI9_uBE/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3l7yRLUAsbVqMsPQeXs3F4ggouRDA",
+            "source": "Artisti Coffee Roasters.",
+            "date": "Dec 19, 2024"
+          }
+        },
+        {
+          "type": "paragraph",
+          "snippet": "French press",
+          "snippet_links": [
+            {
+              "text": "French press",
+              "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=French+press&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQxccNegUIrgEQAg"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Heat water:",
+              "snippet": "$195205\\degree F$",
+              "snippet_latex": [
+                "195205\\degree F"
+              ],
+              "reference_indexes": [
+                2,
+                3
+              ]
+            },
+            {
+              "title": "Add grounds:",
+              "snippet": "Place coarse-ground coffee into the empty French press. The recommended ratio is 2 tablespoons of coffee for every 6 ounces of water.",
+              "reference_indexes": [
+                1,
+                2,
+                10
+              ]
+            },
+            {
+              "title": "Pour water:",
+              "snippet": "Pour the hot water over the grounds, gently stirring to ensure they are all saturated.",
+              "reference_indexes": [
+                2
+              ]
+            },
+            {
+              "title": "Steep:",
+              "snippet": "Place the lid on top with the plunger pulled all the way up, and let it brew for about 4 minutes.",
+              "reference_indexes": [
+                2,
+                3
+              ]
+            },
+            {
+              "title": "Press and serve:",
+              "snippet": "Slowly and steadily press the plunger down to separate the grounds. Pour and enjoy.",
+              "reference_indexes": [
+                2,
+                3,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "How To Make Coffee in 60 seconds #coffee",
+          "link": "https://www.youtube.com/shorts/jgm4d8zAX-U",
+          "snippet": "Dec 10, 2022 — hello everyone just a dad i'm going to show you how to make coffee. first thing put your filter. in next we're going t...",
+          "source": "YouTube · Just A Dad Videos",
+          "index": 0
+        },
+        {
+          "title": "How to Make the Perfect Cup of Coffee - Atlas Coffee Club",
+          "link": "https://atlascoffeeclub.com/pages/how-to-make-the-perfect-cup-of-coffee",
+          "snippet": "* Measure your coffee. The standard ratio is approximately 2 tablespoons of coffee per 6 ounces of water. ... * Grind your coffee...",
+          "source": "Atlas Coffee Club",
+          "index": 1
+        },
+        {
+          "title": "How to Brew with a Coffee Press | Starbucks",
+          "link": "https://athome.starbucks.com/brewing-guide/how-brew-coffee-press",
+          "snippet": "Follow the Steps Below or Watch the Video Above * Prepare your coffee press. Preheat the coffee press by rinsing with hot water.",
+          "source": "Starbucks",
+          "index": 2
+        },
+        {
+          "title": "A guide to the best way to make coffee at home - The Barista",
+          "link": "https://thebarista.co.uk/blog/the-best-way-to-make-coffee-at-home",
+          "snippet": "Follow the steps below and you won't go wrong: * Boil the kettle and allow it to cool slightly. * Add 18g of coarsely ground coff...",
+          "source": "thebarista.co.uk",
+          "index": 3
+        },
+        {
+          "title": "How to Make Coffee",
+          "link": "https://www.folgerscoffee.com/coffee/how-to-guides/make-coffee",
+          "snippet": "How to Make Coffee with a Drip Coffee Maker * Add Filter. Place a new coffee filter in the brew basket of your automatic drip cof...",
+          "source": "Folgers Coffee",
+          "index": 4
+        },
+        {
+          "title": "How to make better coffee at home, in 5 steps - The Washington Post",
+          "link": "https://www.washingtonpost.com/food/2024/01/02/coffee-brewing-tips/",
+          "snippet": "Jan 2, 2024 — How to make better coffee at home, in 5 steps * Buy fresh coffee. * Grind your beans. * Don't be stingy with coffee. *",
+          "source": "The Washington Post",
+          "index": 5
+        },
+        {
+          "title": "How to Percolate Coffee: 3 Tips for Using a Percolator - 2025",
+          "link": "https://www.masterclass.com/articles/how-to-percolate-coffee#:~:text=9.%20Serve%20the%20coffee.%20Pour%20the%20coffee,enjoy%20a%20freshly%20brewed%20cup%20of%20coffee.",
+          "snippet": "Jun 21, 2021 — 9. Serve the coffee. Pour the coffee into your favorite mug, wait for it to reach a comfortable drinking temperature,",
+          "source": "MasterClass",
+          "index": 6
+        },
+        {
+          "title": "How to Make French Press Coffee? | A Beginner’s Guide",
+          "link": "https://somethingsbrewing.in/blogs/brewing-tips/how-to-make-french-press-coffee-a-beginner-s-guide#:~:text=Plunge:%20After%20steeping%2C%20press%20the%20plunger%20down,separate%20the%20grounds%20from%20the%20brewed%20coffee.",
+          "snippet": "May 21, 2024 — Plunge: After steeping, press the plunger down slowly and steadily to separate the grounds from the brewed coffee.",
+          "source": "somethingsbrewing.in",
+          "index": 7
+        },
+        {
+          "title": "How to Brew Great Coffee at Home: A Guide – Crema Coffee Roasters",
+          "link": "https://crema-coffee.com/blogs/coffee-101/how-to-brew-great-coffee-at-home#:~:text=Step%209:%20Serve.%20Pour%20the%20finished%20coffee,You've%20made%20a%20beautiful%20cup%20of%20coffee.",
+          "snippet": "Step 9: Serve. Pour the finished coffee into your favorite mug and enjoy! You've made a beautiful cup of coffee.",
+          "source": "Crema Coffee Roasters",
+          "index": 8
+        },
+        {
+          "title": "Specialty Coffee Brewing Methods",
+          "link": "https://barbarossacoffee.com/coffee-brewing-methods/#:~:text=Once%20all%20the%20water%20has%20finished%20pouring,and%20enjoy%20your%20delicious%20cup%20of%20coffee.",
+          "snippet": "Feb 16, 2023 — Once all the water has finished pouring and the coffee has dripped through the filter, pour it into your mug of choice...",
+          "source": "Barbarossa Coffee",
+          "index": 9
+        },
+        {
+          "title": "How to Brew Coffee in a French Press featuring Front Porch Cafe BRU TREK",
+          "link": "https://frontporchcafe.com/blogs/news/how-to-brew-coffee-in-a-french-press-featuring-front-porch-cafe-bru-trek",
+          "snippet": "How to Brew Coffee in a French Press 2.1 oz (60 g) of coffee beans ground to a coarse texture - like kosher salt. Heat your water ...",
+          "source": "Front Porch Cafe",
+          "index": 10
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiSG93IHRvIGJyZXcgY29mZmVlIHN0ZXAgYnkgc3RlcD8iLCJsayI6ImM1T1N6OGd2VnlqSlYwZ3FTaTFYU001UFMwdE5WU2d1U1MxUVNLb0Uwd0EiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiSG93IHRvIGJyZXcgY29mZmVlIHN0ZXAgYnkgc3RlcD8iLCJsayI6ImM1T1N6OGd2VnlqSlYwZ3FTaTFYU001UFMwdE5WU2d1U1MxUVNLb0Uwd0EiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0%3D"
+    },
+    {
+      "question": "What does it mean to brew coffee?",
+      "type": "featured_snippet",
+      "snippet": "At its core, brewing coffee is about extracting flavors from coffee grounds using water. This extraction process involves several key factors: time, temperature, grind size, and water quality. Each of these elements plays a crucial role in determining the final taste of your cup.",
+      "title": "What Does It Mean to Brew Coffee? - Union Place Coffee Roasters",
+      "date": "Dec 16, 2024",
+      "link": "https://unionplacecoffeeroasters.com/what-does-it-mean-to-brew-coffee/#:~:text=At%20its%20core%2C%20brewing%20coffee,final%20taste%20of%20your%20cup.",
+      "displayed_link": "https://unionplacecoffeeroasters.com › what-does-it-mea...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYnJldyBjb2ZmZWU/IiwibGsiOiJHaHgzYUdGMElHbDBJRzFsWVc1eklIUnZJR0p5WlhjZ1kyOW1abVZsIiwiYnMiOiJjNDNPc1FyQ01CUUZVRnpmNUNoQjlIYXhia0pfb0pPaXM2QnoycjZTREcyS2lRU18wdDl4TktrdVppaE9iem52M2t0N3d0RjRPSVBxeGg2MWFWdG1XTWNEcXNkNHl5SVRhelZ0NkVEWlZVbUh4ckNGZHVoWTlzbER1WGp0aXBWWS11aS14Q2FHTHBUSE9ZM0I2YWZNYTZmTTNVR2lrN1hTZlVoN3ltSXJOdXFqOWJTbU0tWGpQaDBhRmFOaUd3Y0UxYVFyWTZqX2k4NW5idyIsImlkIjoiZmNfZlE4QmFjSElNdlBuMnJvUGdaR0VnUWtfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYnJldyBjb2ZmZWU%2FIiwibGsiOiJHaHgzYUdGMElHbDBJRzFsWVc1eklIUnZJR0p5WlhjZ1kyOW1abVZsIiwiYnMiOiJjNDNPc1FyQ01CUUZVRnpmNUNoQjlIYXhia0pfb0pPaXM2QnoycjZTREcyS2lRU18wdDl4TktrdVppaE9iem52M2t0N3d0RjRPSVBxeGg2MWFWdG1XTWNEcXNkNHl5SVRhelZ0NkVEWlZVbUh4ckNGZHVoWTlzbER1WGp0aXBWWS11aS14Q2FHTHBUSE9ZM0I2YWZNYTZmTTNVR2lrN1hTZlVoN3ltSXJOdXFqOWJTbU0tWGpQaDBhRmFOaUd3Y0UxYVFyWTZqX2k4NW5idyIsImlkIjoiZmNfZlE4QmFjSElNdlBuMnJvUGdaR0VnUWtfMyJ9"
+    },
+    {
+      "question": "How do I brew coffee without a machine?",
+      "type": "featured_snippet",
+      "snippet": "Brewing Instructions: Place coffee bag or coffee filter in a mug. If using a coffee filter, bunch the filter up like a bag and put several teaspoons of coffee into the middle. Slowly pour water over coffee bag or filter until saturated. Leave coffee bag immersed in water until desired steep time.",
+      "title": "How to Brew Without a Coffee Maker - Death Wish Coffee",
+      "date": "Jan 24, 2023",
+      "link": "https://www.deathwishcoffee.com/blogs/coffee-talk/coffee-without-a-machine#:~:text=Brewing%20Instructions%3A,-Boil%20water.&text=Place%20coffee%20bag%20or%20coffee,water%20until%20desired%20steep%20time.",
+      "displayed_link": "https://www.deathwishcoffee.com › blogs › coffee-witho...",
+      "source_logo": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/0ca3dbce8803a9df4ebc536fdcddd5791f407f61c0be9e1403a54cee6ad2dc9b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYnJldyBjb2ZmZWUgd2l0aG91dCBhIG1hY2hpbmU/IiwibGsiOiJHaVpvYjNjZ1pHOGdhU0JpY21WM0lHTnZabVpsWlNCM2FYUm9iM1YwSUdFZ2JXRmphR2x1WlEiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYnJldyBjb2ZmZWUgd2l0aG91dCBhIG1hY2hpbmU%2FIiwibGsiOiJHaVpvYjNjZ1pHOGdhU0JpY21WM0lHTnZabVpsWlNCM2FYUm9iM1YwSUdFZ2JXRmphR2x1WlEiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0%3D"
+    },
+    {
+      "question": "What is the best method to brew coffee?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "The \"best\" way to make coffee depends on your preference for taste, convenience, and control, with popular methods including pour-over for a clean, controlled cup, French press for a full-bodied brew, and Moka pot for a strong, espresso-like result. Key principles for any method are using quality beans, a burr grinder for a consistent grind, good water between $195-205^{\\circ }F$ and a proper coffee-to-water ratio (a good starting point is 1:16).",
+          "snippet_latex": [
+            "195-205^{\\circ }F"
+          ],
+          "snippet_highlighted_words": [
+            "pour-over for a clean, controlled cup, French press for a full-bodied brew, and Moka pot for a strong, espresso-like result"
+          ],
+          "reference_indexes": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "This video explains how to brew coffee using different methods:",
+          "video": {
+            "link": "https://www.youtube.com/watch?v=SzWGPqk1hes&t=5",
+            "thumbnail": "https://i.ytimg.com/vi/SzWGPqk1hes/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3mzLMDDC-NUriLedrIYlsjABvCzHg",
+            "source": "Times Foodie",
+            "date": "May 27, 2025"
+          }
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Pour-Over"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Best for: A clean, traditional cup where you want to control the process."
+            },
+            {
+              "snippet": "How it works: Hot water is poured over coffee grounds in a filter, which sits in a cone over a mug or carafe."
+            },
+            {
+              "snippet": "Tips: Use a medium-fine grind, a \"bloom\" phase for about 30 seconds to saturate the grounds, and pour slowly in circles to ensure even extraction.",
+              "reference_indexes": [
+                2,
+                4,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "French Press",
+          "snippet_links": [
+            {
+              "text": "French Press",
+              "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=French+Press&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQxccNegUIggIQAQ"
+            }
+          ],
+          "reference_indexes": [
+            6
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Best for:",
+              "snippet": "A rich, full-bodied coffee with more oils, since there's no paper filter to trap them.",
+              "reference_indexes": [
+                0,
+                9,
+                12,
+                13,
+                16,
+                17,
+                18
+              ]
+            },
+            {
+              "title": "How it works:",
+              "snippet": "Coarsely ground coffee is steeped in hot water for about four minutes before a plunger is pressed to separate the grounds from the liquid.",
+              "reference_indexes": [
+                8,
+                9
+              ]
+            },
+            {
+              "title": "Tips:",
+              "snippet": "Use a coarse grind and let the coffee steep for about four minutes for a consistent extraction.",
+              "reference_indexes": [
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Moka Pot",
+          "snippet_links": [
+            {
+              "text": "Moka Pot",
+              "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Moka+Pot&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQxccNegUI-AEQAg"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Best for: A strong, concentrated coffee similar to espresso."
+            },
+            {
+              "snippet": "How it works: Steam pressure forces hot water through ground coffee to produce a concentrated brew."
+            },
+            {
+              "snippet": "Tips: This method can take more practice but provides a rich and flavorful result.",
+              "reference_indexes": [
+                1,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Automatic Drip"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Best for: Ease of use and brewing a large amount at once.",
+              "reference_indexes": [
+                3,
+                14
+              ]
+            },
+            {
+              "snippet": "How it works: A machine heats water and drips it over grounds in a filter basket.",
+              "reference_indexes": [
+                3,
+                15,
+                19,
+                20
+              ]
+            },
+            {
+              "snippet": "Tips: Invest in a quality machine with a good showerhead for better saturation and a hotter element for more even extraction.",
+              "reference_indexes": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Cold Brew"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Best for: A smooth, low-acid concentrate that can be enjoyed over ice or with milk.",
+              "reference_indexes": [
+                6,
+                7
+              ]
+            },
+            {
+              "snippet": "How it works: Coarsely ground coffee is steeped in cold water for 12 to 24 hours, then filtered.",
+              "reference_indexes": [
+                6,
+                7
+              ]
+            },
+            {
+              "snippet": "Tips: The longer steep time requires a very coarse grind.",
+              "reference_indexes": [
+                6,
+                7,
+                9
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "What Coffee-Brewing Method Makes the Best-Tasting Cup? | The Kitchn",
+          "link": "https://www.thekitchn.com/best-coffee-brewing-method-22977756#:~:text=I%20was%20on%20a%20daily,a%20certain%20depth%20and%20punch.",
+          "snippet": "Sep 15, 2022 — I was on a daily French press kick for a while so the process was familiar. I added 42 grams of coffee, ground to the ...",
+          "source": "The Kitchn",
+          "index": 0
+        },
+        {
+          "title": "The Best Ways to Make Coffee, According to Baristas | Bon Appétit",
+          "link": "https://www.bonappetit.com/story/favorite-ways-to-make-coffee-at-home#:~:text=If%20you%20want%20to%20make,fun%2C%20somewhat%20whimsical%20experience.%E2%80%9D",
+          "snippet": "Feb 21, 2022 — If you want to make strong coffee but don't feel inclined to purchase an espresso machine, the Moka pot (a.k.a. stovet...",
+          "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+          "index": 1
+        },
+        {
+          "title": "Coffee Brewing Methods: French Press vs Pour Over vs AeroPress ...",
+          "link": "https://www.youtube.com/watch?v=vQVTNscQY0c&t=129",
+          "snippet": "Apr 20, 2021 — so it lacks a clarity of flavor known for pour over coffee unless you brew it for a really long. time. let's talk abou...",
+          "source": "YouTube · European Coffee Trip",
+          "index": 2
+        },
+        {
+          "title": "Coffee Basics: Brewing Methods",
+          "link": "https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-brewing-methods#:~:text=Auto%2DDrip%20Brewer,saturation%20and%20more%2Deven%20extraction.",
+          "snippet": "Auto-Drip Brewer. Ease of use and convenience make auto-drip machines one of the most popular forms of brewing. Auto-drip is proba...",
+          "source": "Counter Culture Coffee",
+          "index": 3
+        },
+        {
+          "title": "A Beginner's Guide to Making Great Coffee",
+          "link": "https://www.youtube.com/watch?v=ZCXG0BCFLNA&t=247",
+          "snippet": "Nov 9, 2022 — so with all that said it's finally time to talk brewing. and for this video we're going to discuss three different Brew...",
+          "source": "YouTube · Charlie Anderson",
+          "index": 4
+        },
+        {
+          "title": "Home Coffee Brewing 101: Methods, Equipment, and Tips for the Perfect ...",
+          "link": "https://www.youtube.com/watch?v=FOtkVxvTKAo",
+          "snippet": "Mar 14, 2025 — there are enumerous coffee gadgets on the market some cost as little as $10 some cost as much as a car and it can be r...",
+          "source": "YouTube · methodicalcoffee",
+          "index": 5
+        },
+        {
+          "title": "What does everyone recommend I use to make a single cup of coffee?",
+          "link": "https://www.reddit.com/r/Coffee/comments/i751pv/what_does_everyone_recommend_i_use_to_make_a/",
+          "snippet": "Aug 10, 2020 — * Aeropress: super versatile, travels well and cleans easy enough. * French Press : pour water on coffee, brew 4 mins...",
+          "source": "Reddit",
+          "index": 6
+        },
+        {
+          "title": "5 Easy Ways to Brew Coffee at Home | Beginner-Friendly Coffee Brewing ...",
+          "link": "https://www.youtube.com/watch?v=SzWGPqk1hes&t=77",
+          "snippet": "May 27, 2025 — but the result is clean aromatic and incredibly nuanced number four Aerrow Press fourth on the list is the Aerop Press...",
+          "source": "YouTube · Times Foodie",
+          "index": 7
+        },
+        {
+          "title": "Brewing Essentials: How to Make The Best Cup of Coffee at Home",
+          "link": "https://www.youtube.com/watch?v=JaRPORzFU1k&t=94",
+          "snippet": "Jul 21, 2024 — and that means that you can easily overe extract if the grind is too fine just like you can undere extract if the grin...",
+          "source": "YouTube · Grind",
+          "index": 8
+        },
+        {
+          "title": "Specialty Coffee: How to Brew the Best Coffee at Home",
+          "link": "https://orleanscoffee.com/brew-specialty-coffee-at-home/#:~:text=certified%20coffee%20machines.-,French%20Press,4%20minute%20plus%20boil%20time.",
+          "snippet": "May 29, 2023 — French Press. It's no secret that we love to use our French Press, also called a cafetière, coffee press or coffee plu...",
+          "source": "Orleans Coffee",
+          "index": 9
+        },
+        {
+          "title": "Coffee Brewing Methods: The Best Ways To Brew Coffee At Home",
+          "link": "https://luckygoatcoffee.com/blogs/news/coffee-brewing-methods#:~:text=Pour%20Over%20Method%20(Our%20Top,drips%20into%20the%20carafe%20below.",
+          "snippet": "Oct 7, 2022 — Pour Over Method (Our Top Choice) One of the classic and most common ways to make coffee is the pour over method. In th...",
+          "source": "Lucky Goat Coffee Company",
+          "index": 10
+        },
+        {
+          "title": "How to Make Coffee at Home According to a Barista (6 Methods)",
+          "link": "https://www.thekitchn.com/how-to-make-coffee-23716786#:~:text=comments-,General%20Rules%20for%20Coffee%20Brewing,use%20it%20all%20the%20time.",
+          "snippet": "Mar 23, 2025 — General Rules for Coffee Brewing No matter what method you choose, there are a few general rules you can stick to in o...",
+          "source": "The Kitchn",
+          "index": 11
+        },
+        {
+          "title": "[Question] Making coffee taste \"rich\" : r/Coffee",
+          "link": "https://www.reddit.com/r/Coffee/comments/6k1a9h/question_making_coffee_taste_rich/#:~:text=Personally%2C%20I%20think%20grinding%20the%20beans%20very,a%20drip%20maker.%20French%20roast%20organic%20beans.",
+          "snippet": "Jun 28, 2017 — Personally, I think grinding the beans very fine almost powdery makes the best, rich cup of coffee. I use a drip maker...",
+          "source": "Reddit",
+          "index": 12
+        },
+        {
+          "title": "Enjoy Better Coffee With the Perfect Method of Preparation",
+          "link": "https://coffeeannan.com/en/blogs/blog/enjoy-better-coffee#:~:text=For%20fans%20of%20aromatic%20coffee%20that%20is,coffee%2C%20the%20full%20immersion%20method%20is%20ideal.",
+          "snippet": "Sep 22, 2023 — For fans of aromatic coffee that is not overly strong, the pour over method is the better choice. On the other hand, i...",
+          "source": "coffeeannan.com",
+          "index": 13
+        },
+        {
+          "title": "How to Make French Press Coffee, According to Baristas",
+          "link": "https://food52.com/story/27816-how-to-make-french-press-coffee#:~:text=%E2%80%9CI%20think%20the%20main%20benefits%20are%20the,an%20ever%20bigger%20pot%20of%20okay%20coffee.",
+          "snippet": "Mar 24, 2023 — “I think the main benefits are the amount of coffee you can make at once and how easy it is to do,” echoed barista Cod...",
+          "source": "Food52",
+          "index": 14
+        },
+        {
+          "title": "how to use a coffee dripper – Denby",
+          "link": "https://www.denbypottery.com/blogs/guides-how-tos/how-to-use-a-coffee-dripper#:~:text=With%20a%20drip%20coffee%20maker%2C%20you%20add,to%20be%20sub%2Doptimal%2C%20leading%20to%20unbalanced%20brews.",
+          "snippet": "Apr 11, 2025 — With a drip coffee maker, you add a filter and ground coffee to a basket, then the machine heats and dispenses the wat...",
+          "source": "Denby",
+          "index": 15
+        },
+        {
+          "title": "Exploring Coffee Brewing Methods: Finding the Perfect Brew",
+          "link": "https://rivalbros.com/blogs/coffee/exploring-coffee-brewing-methods-finding-the-perfect-brew#:~:text=Flavor%20Profile:%20French%20press%20coffee%20is%20known,those%20who%20enjoy%20a%20robust%2C%20bold%20cup.",
+          "snippet": "Oct 12, 2024 — Flavor Profile: French press coffee is known for its rich, full-bodied taste. The lack of a paper filter means the oil...",
+          "source": "Rival Bros Coffee",
+          "index": 16
+        },
+        {
+          "title": "Best Backpacking Coffee 2025 Complete Ultralight System",
+          "link": "https://www.adventurealan.com/best-backpacking-coffee-system/#:~:text=vs%20French%20Press%20French%20press%20is%20capable,we%20just%20happen%20to%20prefer%20pour%20over.",
+          "snippet": "Mar 6, 2025 — vs French Press French press is capable of making great coffee and has a unique taste since it retains more coffee oils...",
+          "source": "Adventure Alan",
+          "index": 17
+        },
+        {
+          "title": "The Many Ways to Brew Coffee at Home",
+          "link": "https://pandocoffee.com/blogs/news/the-many-ways-to-brew-coffee-at-home#:~:text=A%20classic%20method%2C%20the%20French%20press%20brews,you'll%20never%20go%20back%20to%20anything%20else.",
+          "snippet": "A classic method, the French press brews coffee with just coffee grounds and hot water. You won't need to use a paper filter so yo...",
+          "source": "Pando Coffee",
+          "index": 18
+        },
+        {
+          "title": "How to Use a Coffee Maker: 4 User-Friendly Tips",
+          "link": "https://www.breville.com/us/en/blog/coffee-and-espresso/how-to-use-coffee-maker.html#:~:text=Filter%20basket%20%E2%80%93%20The%20filter%20basket%20is,is%20what%20separates%20this%20method%20from%20others.",
+          "snippet": "Filter basket – The filter basket is where the ground coffee will be placed. This is also where the water will be delivered over t...",
+          "source": "Breville",
+          "index": 19
+        },
+        {
+          "title": "Best Bean-to-Cup Coffee Machines For Coffee Connoisseurs",
+          "link": "https://www.lakeland.co.uk/inspiration/best-bean-to-cup-coffee-machines-for-coffee-connoisseurs/#:~:text=Featuring%20an%20efficient%20heating%20system%20that%20makes,you%20can%20make%20a%20cup%20of%20tea.",
+          "snippet": "Dec 16, 2022 — Featuring an efficient heating system that makes sure the water is speedily heated to the ideal temperature, with a st...",
+          "source": "Lakeland",
+          "index": 20
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBtZXRob2QgdG8gYnJldyBjb2ZmZWU/IiwibGsiOiJHaVozYUdGMElHbHpJSFJvWlNCaVpYTjBJRzFsZEdodlpDQjBieUJpY21WM0lHTnZabVpsWlEiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdIZEtkWEZJWVRWalMyRlFRMlpNTUhGeFIwaEZkVWh0VEdwRWIyaHhiMUl0VGpsZlZUQlRhMmd4TXpRM1EzSklURXhtVVdWUFRqbDNabTB6TWtWdldYSkpSRjlaVUVkTFFYUlFXVW81YVRSclRGWmxaMnBSUXpCV1VSSVhabEU0UW1GalNFbE5kbEJ1TW5KdlVHZGFSMFZuVVdzYUlrRkdUVUZIUjNGMlYyYzRlRkZxUkdKNFRIZ3lXbG80V0RaTVFXWlVNVjlOVm1jIiwiZmN2IjoiMyIsImVpIjoiZlE4QmFjSElNdlBuMnJvUGdaR0VnUWsiLCJxYyI6IkNoWm9iM2NnWkc4Z2VXOTFJR0p5WlhjZ1kyOW1abVZsRUFCOXIwSVFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBtZXRob2QgdG8gYnJldyBjb2ZmZWU%2FIiwibGsiOiJHaVozYUdGMElHbHpJSFJvWlNCaVpYTjBJRzFsZEdodlpDQjBieUJpY21WM0lHTnZabVpsWlEiLCJicyI6ImM0M09zUXJDTUJRRlVGemY1Q2hCOUhheGJrSl9vSk9pczZCejJyNlNERzJLaVFTXzB0OXhOS2t1WmloT2J6bnYza3Q3d3RGNE9JUHF4aDYxYVZ0bVdNY0Rxc2Q0eXlJVGF6VnQ2RURaVlVtSHhyQ0ZkdWhZOXNsRHVYanRpcFZZLXVpLXhDYUdMcFRIT1kzQjZhZk1hNmZNM1VHaWs3WFNmVWg3eW1Jck51cWo5YlNtTS1YalBoMGFGYU5pR3djRTFhUXJZNmpfaTg1bmJ3IiwiaWQiOiJmY19mUThCYWNISU12UG4ycm9QZ1pHRWdRa18zIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "To brew coffee, you need to grind your beans, heat water (between $195-205^{\\circ }F$, and then combine the two using a preferred method like a drip machine, pour-over, or French press. A general guideline for the ratio of grounds to water is 1 part coffee to 17 parts water, but you can adjust to taste.",
+        "snippet_latex": [
+          "195-205^{\\circ }F"
+        ],
+        "reference_indexes": [
+          1,
+          2,
+          6,
+          7
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Step 1: Grind your coffee"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Grind your coffee beans fresh just before brewing for the best flavor.",
+            "reference_indexes": [
+              5
+            ]
+          },
+          {
+            "snippet": "The grind size will depend on your brewing method. For example, use a coarser grind for a French press and a medium grind for a moka pot.",
+            "reference_indexes": [
+              4,
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "This video demonstrates how to grind coffee beans for different brewing methods:",
+        "video": {
+          "link": "https://www.youtube.com/shorts/jgm4d8zAX-U",
+          "thumbnail": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/29fad932c4192519c4cb6ee70f33ac6868a61202065faf35ac8e7bb81a733b4a61c65cd5574546c12339401ac3b51b04.jpeg",
+          "source": "Just A Dad Videos",
+          "date": "Dec 10, 2022"
+        }
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Step 2: Prepare your water"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Heat filtered water to the ideal brewing temperature, which is between $195-205^{\\circ }F$ $90-96^{\\circ }C$.",
+            "snippet_latex": [
+              "195-205^{\\circ }F",
+              "90-96^{\\circ }C"
+            ],
+            "reference_indexes": [
+              1,
+              3
+            ]
+          },
+          {
+            "snippet": "For methods like pour-over, let the water cool for about 30 seconds to a minute after boiling to reach this temperature.",
+            "reference_indexes": [
+              3,
+              4,
+              5,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Step 3: Brew the coffee"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "For a drip coffee maker:",
+            "snippet": "Place a filter in the basket, add the coffee grounds, and pour the water into the reservoir. Press the brew button to start.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "title": "For a pour-over:",
+            "snippet": "Place a filter in the dripper, rinse it with hot water, then discard the rinse water. Add the coffee grounds, and slowly pour the hot water over them in a circular motion to saturate the grounds and allow them to \"bloom\" for about a minute. Then, continue to pour the rest of the water until finished.",
+            "reference_indexes": [
+              2,
+              7
+            ]
+          },
+          {
+            "title": "For a French press:",
+            "snippet": "Add coarse coffee grounds to the empty press. Pour hot water over the grounds, stir gently, and let it brew for about 4 minutes. After 4 minutes, slowly and steadily press the plunger all the way down. Immediately pour the coffee into a separate container to prevent over-extraction.",
+            "reference_indexes": [
+              6,
+              8,
+              9
+            ]
+          },
+          {
+            "title": "For a moka pot:",
+            "snippet": "Fill the bottom chamber with hot water, but do not go above the safety valve. Fill the filter basket with medium-ground coffee and screw the top on tightly. Heat on a medium-low heat until you hear a soft bubbling sound and see coffee dripping into the upper chamber. Remove from heat and serve.",
+            "reference_indexes": [
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "How to Make Coffee (Easy Guide)",
+        "link": "https://www.youtube.com/watch?v=igOW_6br668",
+        "snippet": "Nov 30, 2024 — hey kids so today I'm going to show you how to make coffee i got a I actually even picked up a a real basic coffee mak...",
+        "source": "YouTube · Dad, how do I?",
+        "index": 0
+      },
+      {
+        "title": "How to Make Coffee at Home According to a Barista (6 Methods)",
+        "link": "https://www.thekitchn.com/how-to-make-coffee-23716786#:~:text=Start%20with%20filtered%20water.,watery%2C%20try%201:15.",
+        "snippet": "Mar 23, 2025 — Start with filtered water. Unless otherwise noted below, you should always start with clean, filtered water heated bet...",
+        "source": "The Kitchn",
+        "index": 1
+      },
+      {
+        "title": "How to Make Coffee Every Which Way—From Classic Drip to Pour Over",
+        "link": "https://food52.com/story/26964-how-to-make-coffee#:~:text=As%20a%20general%20rule%2C%20use,the%20water%2C%20let%20it%20brew.",
+        "snippet": "Jan 3, 2022 — As a general rule, use a brew ratio of one part ground coffee to 17 parts water. So if we're talking about brewing 2 cu...",
+        "source": "Food52",
+        "index": 2
+      },
+      {
+        "title": "A guide to the best way to make coffee at home - The Barista",
+        "link": "https://thebarista.co.uk/blog/the-best-way-to-make-coffee-at-home#:~:text=A%20good%20rule%20to%20follow,4.",
+        "snippet": "A good rule to follow for brewing coffee is to stick to a ratio of 60 grams of coffee per litre of water. Some coffees work better...",
+        "source": "The Barista",
+        "index": 3
+      },
+      {
+        "title": "How to Brew Coffee with a Moka Pot - Starbucks® at Home",
+        "link": "https://athome.starbucks.com/brewing-guide/how-brew-coffee-moka-pot",
+        "snippet": "Follow the Steps Below or Watch the Video Above * Fill the bottom with hot water. Pour boiling water and let it cool for 30 secon...",
+        "source": "Starbucks",
+        "index": 4
+      },
+      {
+        "title": "Brewing Coffee 101: How to Brew the Perfect Cup - Café Elba",
+        "link": "https://www.cafeelba.com/pages/brewing-coffee-101-how-to-brew-the-perfect-cup",
+        "snippet": "Key Steps to a Good Brew * Purchase Freshly Roasted Coffee from Cafe Elba! * Grind Coffee Beans in a Burr Grinder Before Brewing.",
+        "source": "Café Elba",
+        "index": 5
+      },
+      {
+        "title": "How to Brew with a Coffee Press - Starbucks® at Home",
+        "link": "https://athome.starbucks.com/brewing-guide/how-brew-coffee-press",
+        "snippet": "Follow the Steps Below or Watch the Video Above * Prepare your coffee press. Preheat the coffee press by rinsing with hot water.",
+        "source": "Starbucks",
+        "index": 6
+      },
+      {
+        "title": "8 steps to brew the perfect pour over coffee – Grounds 4 Compassion",
+        "link": "https://www.grounds4compassion.com/blogs/news/8-steps-to-brew-the-perfect-pour-over-coffee",
+        "snippet": "Now on with the brewing. * Step 1: Measure for your brew ratio. ... * Step 2: Grind the coffee. ... * Step 3: Boil the water and ...",
+        "source": "Grounds 4 Compassion",
+        "index": 7
+      },
+      {
+        "title": "5 Brewing Methods for Making Coffee at Home",
+        "link": "https://doorcountycoffee.com/blog/5-brewing-methods-for-making-coffee-at-home/",
+        "snippet": "Jun 14, 2024 — Stir the mixture gently and place the lid on the press without plunging. Let the coffee steep for about four minutes t...",
+        "source": "Door County Coffee",
+        "index": 8
+      },
+      {
+        "title": "How to make French press coffee: Step-by-step guide",
+        "link": "https://www.breville.com/us/en/blog/coffee-and-espresso/how-to-make-french-press-coffee.html#:~:text=Pour%20promptly%20%E2%80%93%20Pour%20out%20the%20contents,which%20can%20produce%20a%20biting%2C%20acerbic%20aftertaste.",
+        "snippet": "Pour promptly – Pour out the contents of the carafe shortly after you press it to stop the brewing process and prevent over-extrac...",
+        "source": "Breville",
+        "index": 9
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to Make Coffee (6 Methods)",
+      "link": "https://www.thekitchn.com/how-to-make-coffee-23716786",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekitchn.com/how-to-make-coffee-23716786&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEUQAQ",
+      "displayed_link": "https://www.thekitchn.com › Skills › Tips & Techniques",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aa33c4941d13576c19c00b11f6f7e7298b.png",
+      "date": "Mar 23, 2025",
+      "snippet": "Start with filtered water. Unless otherwise noted below, you should always start with clean, filtered water heated between 195 and 205°F. · Grind ...",
+      "snippet_highlighted_words": [
+        "Start with filtered water"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How to Brew Coffee in a...",
+            "link": "https://www.thekitchn.com/how-to-make-coffee-23716786#htoc-how-to-brew-coffee-in-a-french-press"
+          },
+          {
+            "title": "How to Brew Pour-Over Coffee",
+            "link": "https://www.thekitchn.com/how-to-make-coffee-23716786#htoc-how-to-brew-pour-over-coffee"
+          }
+        ]
+      },
+      "source": "The Kitchn"
+    },
+    {
+      "position": 2,
+      "title": "I made a (fairly) comprehensive guide to brewing good ...",
+      "link": "https://www.reddit.com/r/Coffee/comments/igyuv/i_made_a_fairly_comprehensive_guide_to_brewing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Coffee/comments/igyuv/i_made_a_fairly_comprehensive_guide_to_brewing/&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEIQAQ",
+      "displayed_link": "40+ comments · 14 years ago",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aa6c7af10868e3511efdd10f73ff75ce2b.png",
+      "snippet": "An automatic drip coffee maker (sometimes called a dripolator) attempts to automate the pour over process. Choose an auto drip that get the ...",
+      "snippet_highlighted_words": [
+        "automatic drip coffee maker"
+      ],
+      "source": "Reddit · r/Coffee"
+    },
+    {
+      "position": 3,
+      "title": "How to Make Coffee—From Classic Drip to Pour Over",
+      "link": "https://food52.com/story/26964-how-to-make-coffee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://food52.com/story/26964-how-to-make-coffee&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEMQAQ",
+      "displayed_link": "https://food52.com › story › 26964-how-to-make-coffee",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aa83aa876970b353012c0cce9f5fa6f106.png",
+      "date": "Jan 3, 2022",
+      "snippet": "As a general rule, use a brew ratio of one part ground coffee to 17 parts water. So if we're talking about brewing 2 cups of coffee, you should ...",
+      "snippet_highlighted_words": [
+        "one part ground coffee to 17 parts water"
+      ],
+      "source": "Food52"
+    },
+    {
+      "position": 4,
+      "title": "Brewing - NCA - About Coffee",
+      "link": "https://www.aboutcoffee.org/brewing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aboutcoffee.org/brewing/&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEEQAQ",
+      "displayed_link": "https://www.aboutcoffee.org › brewing",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aa8f06621cbb865c96c92938dfbf100970.png",
+      "snippet": "In these pages, you can explore how to brew coffee using some of the most popular methods: drip, pour-over, espresso, French press, and cold brew.",
+      "snippet_highlighted_words": [
+        "how to brew coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cold brew coffee",
+            "link": "https://www.aboutcoffee.org/brewing/cold-brew-coffee/"
+          },
+          {
+            "title": "Drip coffee",
+            "link": "https://www.aboutcoffee.org/brewing/drip-coffee/"
+          },
+          {
+            "title": "Pour-over coffee",
+            "link": "https://www.aboutcoffee.org/brewing/pour-over-coffee/"
+          },
+          {
+            "title": "French press coffee",
+            "link": "https://www.aboutcoffee.org/brewing/french-press-coffee/"
+          }
+        ]
+      },
+      "source": "About Coffee - National Coffee Association"
+    },
+    {
+      "position": 5,
+      "title": "What is the easiest way to brew coffee at home?",
+      "link": "https://www.quora.com/What-is-the-easiest-way-to-brew-coffee-at-home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-easiest-way-to-brew-coffee-at-home&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEgQAQ",
+      "displayed_link": "6 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aa07b98de20d2651b7c458ce6368bccbc0.png",
+      "snippet": "First method is to use a French Press, course ground coffee, water at 180 degrees F (82 degrees C) and let it steep for at least 2 minutes.",
+      "snippet_highlighted_words": [
+        "French Press, course ground coffee, water at 180 degrees F (82 degrees C"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "How To Make Cold Brew Coffee",
+      "link": "https://www.simplyrecipes.com/recipes/how_to_make_cold_brew_coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplyrecipes.com/recipes/how_to_make_cold_brew_coffee/&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQFnoECEQQAQ",
+      "displayed_link": "https://www.simplyrecipes.com › ... › Coffees and Teas",
+      "favicon": "https://serpapi.com/searches/69010f7df3a0a79d3829d03c/images/2c01298832213d609c394706fdce78aafcb57cf860d617f4bbebca7a5e796c59.png",
+      "snippet": "Combine the grounds with water, then let it steep overnight, or for around 12 hours. During this time, the coffee slowly infuses into the water, creating a ...",
+      "snippet_highlighted_words": [
+        "Combine the grounds with water, then let it steep overnight, or for around 12 hours"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Strong, hot drip coffee",
+            "link": "https://www.simplyrecipes.com/best-drip-coffee-tip-baristas-8786391"
+          },
+          {
+            "title": "Iced Chai Latte",
+            "link": "https://www.simplyrecipes.com/recipes/iced_chai_latte/"
+          },
+          {
+            "title": "French press",
+            "link": "https://www.simplyrecipes.com/how-to-make-french-press-coffee-7091083"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 31
+          },
+          "extensions": [
+            "5.0(31)",
+            "12 hr 10 min"
+          ]
+        }
+      },
+      "source": "Simply Recipes"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "James Hoffmann",
+      "author_description": "Coffee consultant & author",
+      "source": "YouTube",
+      "extensions": [
+        "607.5K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/AB0QLjroFss/hqdefault.jpg"
+      ],
+      "title": "Everything I Learned About Cold Brew Coffee",
+      "link": "https://www.youtube.com/watch?v=AB0QLjroFss",
+      "date": "4 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFYRztleVr2bjEfcBbFLZ7LBql34IXFfwhRw"
+    },
+    {
+      "author": "proffeequeenkt",
+      "author_description": "Bariatric surgery patient & content creator",
+      "source": "Instagram",
+      "extensions": [
+        "350+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMVtaY3X-P1n8iP68bSuQNzfVHpc95jNJCmKLTHR5DS21ckHCRu-OCaXSlQ&usqp=CAI&s=10"
+      ],
+      "title": "#coldbrew #coffee #moneysavingtips",
+      "link": "https://www.instagram.com/reel/DQKFWdNDa-B/",
+      "date": "5 days ago"
+    },
+    {
+      "author": "todayfood",
+      "author_description": "American columnist",
+      "source": "Facebook",
+      "extensions": [
+        "1 reaction "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pi1yFvazsEFqg4__U4w3bUj_KXmtlI6mv-zcDLZpQ5IrLhg3i6pTjZwf6Q&usqp=CAI&s"
+      ],
+      "title": "Brew the perfect pot of coffee every time with these easy-to-follow steps for using a standard coffee maker.",
+      "link": "https://www.facebook.com/todayfood/posts/brew-the-perfect-pot-of-coffee-every-time-with-these-easy-to-follow-steps-for-us/1181974043791973/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Harada Var?",
+      "source": "YouTube",
+      "extensions": [
+        "19K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/krmuOpt6uEY/hqdefault.jpg"
+      ],
+      "title": "Kofeni aparatsız dəmləməyin yolu - Cold Brew - Soyuq dəmləmə metodu. ☺️",
+      "link": "https://www.youtube.com/shorts/krmuOpt6uEY",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Young House Love",
+      "author_description": "Home decor & DIY enthusiasts",
+      "source": "YouTube",
+      "extensions": [
+        "8 views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/e_T1ae9GjG0/hqdefault.jpg"
+      ],
+      "title": "How We Make Coffee We Love At Home",
+      "link": "https://www.youtube.com/watch?v=e_T1ae9GjG0",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Seattle Coffee Gear",
+      "author_description": "Espresso equipment provider",
+      "source": "YouTube",
+      "extensions": [
+        "2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/6-n7Q7Bkkz4/hqdefault.jpg"
+      ],
+      "title": "What You Actually NEED to Know for Making Espresso at Home: Fact or Fiction",
+      "link": "https://www.youtube.com/watch?v=6-n7Q7Bkkz4",
+      "date": "1 week ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcREJ48L8DR34gYN6nboPTNlmyHMRTVnx6Wmrw"
+    },
+    {
+      "author": "Tara Wright",
+      "author_description": "Iced coffee enthusiasts",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-m016z_Hwbc44lp4PTTCxGoVyS1O8IMIhvdZY-6ngIsALiRGWnR6iRN-sw&usqp=CAI&s"
+      ],
+      "title": "I'm new here but OBSESSED with cold brew😍🤤 can someone give me in depth instructions on how to make cold brew at home please 🙏🏻 TIA❤️✨",
+      "link": "https://www.facebook.com/groups/237920857699504/posts/1336371261187786/",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "author": "Tom Sachs",
+      "author_description": "American contemporary artist",
+      "source": "YouTube",
+      "extensions": [
+        "4.4K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/C24xfhJj9lE/hqdefault.jpg"
+      ],
+      "title": "How to Make a Cup of Coffee",
+      "link": "https://www.youtube.com/watch?v=C24xfhJj9lE",
+      "date": "3 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTOlwnX03palCHukYdC5BXoj9xm0iCNGTf6fA"
+    },
+    {
+      "author": "Tara Deshpande",
+      "author_description": "Indian actress & writer",
+      "source": "YouTube",
+      "extensions": [
+        "10.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/w_Yx9FJ840c/hqdefault.jpg"
+      ],
+      "title": "5 Ways to Brew Coffee at Home Part 1",
+      "link": "https://www.youtube.com/watch?v=w_Yx9FJ840c",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTPwFZIBPDSSKe7YXncYMM_NLIQxhfgOClvmg"
+    },
+    {
+      "author": "DIY Life Tech",
+      "author_description": "Tech reviewer",
+      "source": "YouTube",
+      "extensions": [
+        "30+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/PfAOy2XHCbc/hqdefault.jpg"
+      ],
+      "title": "How to Brew Your Own Instant Coffee in Hotel Coffee Maker",
+      "link": "https://www.youtube.com/watch?v=PfAOy2XHCbc",
+      "date": "1 week ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRdPNHXskauumN4z2PAzVuK7_xFrX1f6rSxFQ"
+    },
+    {
+      "author": "RealHouseMoms",
+      "source": "Facebook",
+      "extensions": [
+        "2 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcj7BOpoo3Ox-lCbDLB-pa65EvwiqCP3deT5_PCkAQhdaCxHU9n-UjyTAxQ&usqp=CAI&s"
+      ],
+      "title": "❤️Recipe: https://www.recipegirl.com/how-to-make-cold-brew-coffee/ How to Make Cold Brew Coffee is a super easy make-at-home, no-machine-needed method for enjoying iced coffee all year long. It's so much better than just chilling your brewed coffee!",
+      "link": "https://www.facebook.com/RealHouseMoms/posts/%EF%B8%8Frecipe-httpswwwrecipegirlcomhow-to-make-cold-brew-coffee-how-to-make-cold-brew-/1304703044348750/",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "author": "LaneVids & Dad Reviews Shorts",
+      "author_description": "Travel vloggers",
+      "source": "YouTube",
+      "extensions": [
+        "3 views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/92NOWp3QZZw/hqdefault.jpg"
+      ],
+      "title": "Preparing to Brew: Adding Water and Coffee",
+      "link": "https://www.youtube.com/shorts/92NOWp3QZZw",
+      "date": "1 week ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQT3uKHF-5MeC6DWh1Gj8jXCF78SiTgx1HP0w"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Coffee",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRfv2u_qfl9PDT9VZLrXlMW_ShBCt3w3kmP2iRT1yQoWiKfk17OHh5OGYc_Q6EguRfal7XzoTTl&s=19",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Coffee&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCorTMv9xciwgYXhFQs3F0LsFQsXFweIl1ySlg3nWJobGME55sk5FXCOkUFZDpxjYWyRBueYVBWUwc02Nk7Oy4bzDHOryopfsfBwcYF5VYbZKeWLWNmc89PSUlNvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAfqxeOHbAAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqEAo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Coffee&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCorTMv9xciwgYXhFQs3F0LsFQsXFweIl1ySlg3nWJobGME55sk5FXCOkUFZDpxjYWyRBueYVBWUwc02Nk7Oy4bzDHOryopfsfBwcYF5VYbZKeWLWNmc89PSUlNvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAfqxeOHbAAAA"
+        },
+        {
+          "name": "Espresso",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIuxqnYg_thFSVQ6PQSIKDND3x6sMR4R30Shd&s=0",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Espresso&stick=H4sIAAAAAAAAAOMwVOLQz9U3SC5Jy_7FyLCBheEVCzcXJ0jIqKwwLfcVCxcXXAGcY2luYATnmCfnVMA5RgZlOXCOhbFFGpxjUlVQBjfb2Dg5LxvOM8ytKit-xcLDxQXmVRlmp5QvYuVwLS4oSi0uzr_FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAIhsBSvcAAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqEA8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Espresso&stick=H4sIAAAAAAAAAOMwVOLQz9U3SC5Jy_7FyLCBheEVCzcXJ0jIqKwwLfcVCxcXXAGcY2luYATnmCfnVMA5RgZlOXCOhbFFGpxjUlVQBjfb2Dg5LxvOM8ytKit-xcLDxQXmVRlmp5QvYuVwLS4oSi0uzr_FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAIhsBSvcAAAA"
+        },
+        {
+          "name": "Cappuccino",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQieKgg1yiAunEkp_r_YWEzFqRil4xg-LazjQrPWNKZ-N68XyxV3mF5Ifo&s=19",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Cappuccino&stick=H4sIAAAAAAAAAOMwVOLQz9U3sDQ3MPrFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nANSDeeYJ-dUwDlGBmU5cI6FsUUanGNSVVAGN9vYODkvG84zzK0qK37FwsPFBeZVGWanlC9i5XJOLCgoTU7OzMu_xSbJsHtRx08W1_2GGy2NN24Se7yd_Zf739q0GSsXcYgFpOYX5KQqJOYU5ysUpyYWJWcopOUXreBgBADiIrJW3gAAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqEBQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cappuccino&stick=H4sIAAAAAAAAAOMwVOLQz9U3sDQ3MPrFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nANSDeeYJ-dUwDlGBmU5cI6FsUUanGNSVVAGN9vYODkvG84zzK0qK37FwsPFBeZVGWanlC9i5XJOLCgoTU7OzMu_xSbJsHtRx08W1_2GGy2NN24Se7yd_Zf739q0GSsXcYgFpOYX5KQqJOYU5ysUpyYWJWcopOUXreBgBADiIrJW3gAAAA"
+        },
+        {
+          "name": "Tea",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bm3rvdmeUqeGBSWV3LrJ-ix-UtNbVbAVyHToN8U9uQcvB5Fg4Z_a&s=0",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Tea&stick=H4sIAAAAAAAAAOMwVOLQz9U3ME_OqfjFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nGNpbmAE54C0wjlGBmU5cI6FsUUanGNSVVAGN9vYODkvG84zzK0qK37FwsPFBeZVGWanlC9iZQ5JTbzFJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAN3iTUTXAAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqEBk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tea&stick=H4sIAAAAAAAAAOMwVOLQz9U3ME_OqfjFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nGNpbmAE54C0wjlGBmU5cI6FsUUanGNSVVAGN9vYODkvG84zzK0qK37FwsPFBeZVGWanlC9iZQ5JTbzFJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAN3iTUTXAAAA"
+        },
+        {
+          "name": "Chocolate",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRKmzD7WuSBcq7iSUZ3-la_G8OPNspjuPsdFbDdMgIw4u5_Sfh5gD3maJwlNOdqyTZO4Frx_BNp&s=19",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Chocolate&stick=H4sIAAAAAAAAAOMwVOLQz9U3MDIoy_nFyLCBheEVCzcXJ1iorDAt9xULFxdYQXJJWjacY2luYATnmCfnVMA5IHPgHAtjizQ4x6SqoAxutrFxcl42nGeYW1VW_IqFh4sLzKsyzE4pX8TK6ZyRn5yfk1iSeotNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAwz4kZt0AAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqEB4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chocolate&stick=H4sIAAAAAAAAAOMwVOLQz9U3MDIoy_nFyLCBheEVCzcXJ1iorDAt9xULFxdYQXJJWjacY2luYATnmCfnVMA5IHPgHAtjizQ4x6SqoAxutrFxcl42nGeYW1VW_IqFh4sLzKsyzE4pX8TK6ZyRn5yfk1iSeotNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAwz4kZt0AAAA"
+        },
+        {
+          "name": "Water",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQwgKCehJHzeKxzxb3nqy3AFJP85gb_hUtwETmF66RDVjQLp2i3l953jRDRnJIjETujhnzfx9mV&s=19",
+          "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Water&stick=H4sIAAAAAAAAAOMwVOLQz9U3sDC2SPvFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nGNpbmAE55gn51TAOUYGZTlwDshQOMekqqAMbraxcXJeNpxnmFtVVvyKhYeLC8yrMsxOKV_EyhqeWJJadItNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAmxfvDtkAAAA&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQs9oBKAB6BAhqECM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Water&stick=H4sIAAAAAAAAAOMwVOLQz9U3sDC2SPvFyLCBheEVCzcXJ0jIqKwwLfcVCxcXWEFySVo2nGNpbmAE55gn51TAOUYGZTlwDshQOMekqqAMbraxcXJeNpxnmFtVVvyKhYeLC8yrMsxOKV_EyhqeWJJadItNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAmxfvDtkAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "How to make one cup of coffee in coffee maker",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=How+to+make+one+cup+of+coffee+in+coffee+maker&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+make+one+cup+of+coffee+in+coffee+maker"
+    },
+    {
+      "block_position": 1,
+      "query": "7 steps to make coffee",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=7+steps+to+make+coffee&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7+steps+to+make+coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "How to brew coffee at home",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=How+to+brew+coffee+at+home&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+brew+coffee+at+home"
+    },
+    {
+      "block_position": 1,
+      "query": "4 best coffee brewing methods",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=4+best+coffee+brewing+methods&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=4+best+coffee+brewing+methods"
+    },
+    {
+      "block_position": 1,
+      "query": "How to brew coffee with machine",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=How+to+brew+coffee+with+machine&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+brew+coffee+with+machine"
+    },
+    {
+      "block_position": 1,
+      "query": "Best way to make coffee for one person",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=Best+way+to+make+coffee+for+one+person&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+way+to+make+coffee+for+one+person"
+    },
+    {
+      "block_position": 1,
+      "query": "How to brew coffee manually",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=How+to+brew+coffee+manually&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+brew+coffee+manually"
+    },
+    {
+      "block_position": 1,
+      "query": "How to make good coffee at home without machine",
+      "link": "https://www.google.com/search?sca_esv=92debb9001157326&q=How+to+make+good+coffee+at+home+without+machine&sa=X&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+make+good+coffee+at+home+without+machine"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How to brew coffee without equipment?",
+      "link": "https://www.reddit.com/r/Coffee/comments/ze5n78/how_to_brew_coffee_without_equipment/",
+      "date": "2 years ago",
+      "extensions": [
+        "r/Coffee",
+        "20+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "Grind your coffee in a mortar and pestle or buy pre ground. Boil water in a pot. Wait maybe 30 seconds (or longer if it's a darker ...",
+          "link": "https://www.reddit.com/r/Coffee/comments/ze5n78/how_to_brew_coffee_without_equipment/"
+        }
+      ]
+    },
+    {
+      "title": "How to get started making my own coffee?",
+      "link": "https://www.reddit.com/r/Coffee/comments/9r05ca/how_to_get_started_making_my_own_coffee/",
+      "date": "7 years ago",
+      "extensions": [
+        "r/Coffee",
+        "20+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "I wrote an answer to a similar question yesterday. Here's a version edited for you, hope this ...",
+          "link": "https://www.reddit.com/r/Coffee/comments/9r05ca/how_to_get_started_making_my_own_coffee/e8d0en3/",
+          "extensions": [
+            "Top answer",
+            "14 votes",
+            "7 years ago"
+          ]
+        },
+        {
+          "snippet": "Aeropress, digital scale and a good hand grinder to start. If you have more money to spare ...",
+          "link": "https://www.reddit.com/r/Coffee/comments/9r05ca/how_to_get_started_making_my_own_coffee/e8d082m/",
+          "extensions": [
+            "5 votes",
+            "7 years ago"
+          ]
+        },
+        {
+          "snippet": "Most of the advice you're apt to get is going to be basically this: Your coffee will ...",
+          "link": "https://www.reddit.com/r/Coffee/comments/9r05ca/how_to_get_started_making_my_own_coffee/e8d0vqc/",
+          "extensions": [
+            "3 votes",
+            "7 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What is the most effective method for brewing coffee at home? Is it worth ...",
+      "link": "https://www.quora.com/What-is-the-most-effective-method-for-brewing-coffee-at-home-Is-it-worth-attempting-to-make-drip-press-or-French-press-coffee-without-expert-knowledge-and-precise-measurements",
+      "date": "1 year ago",
+      "extensions": [
+        "1 answer"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "Your brewing device matters an order of magnitude less than your grinder. Your grinder matters ...",
+          "link": "https://www.quora.com/What-is-the-most-effective-method-for-brewing-coffee-at-home-Is-it-worth-attempting-to-make-drip-press-or-French-press-coffee-without-expert-knowledge-and-precise-measurements?top_ans=2027987",
+          "extensions": [
+            "Top answer",
+            "21 votes",
+            "12 years ago"
+          ]
+        },
+        {
+          "snippet": "You can make great coffee with a French press (aka plunger). I much prefer my home-brewed ...",
+          "link": "https://www.quora.com/What-is-the-most-effective-method-for-brewing-coffee-at-home-Is-it-worth-attempting-to-make-drip-press-or-French-press-coffee-without-expert-knowledge-and-precise-measurements?top_ans=19238873",
+          "extensions": [
+            "13 votes",
+            "9 years ago"
+          ]
+        },
+        {
+          "snippet": "I strongly recommend the AeroPress. Better coffee than a french press. Easier to clean and ...",
+          "link": "https://www.quora.com/What-is-the-most-effective-method-for-brewing-coffee-at-home-Is-it-worth-attempting-to-make-drip-press-or-French-press-coffee-without-expert-knowledge-and-precise-measurements?top_ans=2016416",
+          "extensions": [
+            "5 votes",
+            "12 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=10&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8NMDegQICxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=10&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=20&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=30&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=40&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=50&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAM",
+      "7": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=60&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAO",
+      "8": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=70&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAQ",
+      "9": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=80&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAS",
+      "10": "https://www.google.com/search?q=how+do+you+brew+coffee&sca_esv=92debb9001157326&ei=fQ8BacHIMvPn2roPgZGEgQk&start=90&sa=N&sstk=Af77f_cc-LkcjIKbTQGzxDBAKWdRsX1-sLyuSL115DDXhCbc5WTTv7fggLVYcxEbv4XGnaAwCXcMDXRf29jBuO-cbcgkUsGSyPGbUg&ved=2ahUKEwiB-4b1xseQAxXzs1YBHYEIIZAQ8tMDegQICxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+do+you+brew+coffee&start=90"
+    }
+  }
+}

@@ -1,20 +1,16 @@
 {
-  "name": "google_news",
+  "name": "googleaioverview",
   "version": "1.0.0",
-  "description": "tutorial code for video 3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "google",
-    "news",
-    "api",
-    "serpapi"
-  ],
-  "author": "Catherine Li",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
+    "colorizer": "^2.0.2",
     "dotenv": "^17.2.3",
     "json-colorizer": "^3.0.1",
     "serpapi": "^2.2.1"
