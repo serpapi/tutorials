@@ -7,6 +7,7 @@ const apiKey = process.env.API_KEY;
 getJson({
     api_key: apiKey,
     engine: "google",
+    gl: 'fj',
     q: "how to brew coffee",
 
 }, (searchResult) => {
