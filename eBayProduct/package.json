@@ -13,5 +13,6 @@
     "dotenv": "^17.2.3",
     "json-colorizer": "^3.0.1",
     "serpapi": "^2.2.1"
-  }
+  }, 
+  "type": "module"
 }
