@@ -1,5 +1,5 @@
 {
-  "name": "ebay",
+  "name": "ebayproduct_start",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "google-search-results-nodejs": "^2.1.0",
     "serpapi": "^2.2.1"
-  },
-  "type": "commonjs"
+  }
 }
