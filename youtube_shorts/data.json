@@ -1,0 +1,784 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "691cdf98408027cf18523710",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/cdc280c7085385b5/691cdf98408027cf18523710.json",
+            "created_at": "2025-11-18 21:05:28 UTC",
+            "processed_at": "2025-11-18 21:05:28 UTC",
+            "youtube_url": "https://www.youtube.com/results?search_query=fall+fashion+2025",
+            "raw_html_file": "https://serpapi.com/searches/cdc280c7085385b5/691cdf98408027cf18523710.html",
+            "total_time_taken": 1.17
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "youtube",
+            "search_query": "fall fashion 2025"
+        }
+        ,
+        "search_information":
+        {
+            "total_results": 1116606,
+            "video_results_state": "Results for exact spelling"
+        }
+        ,
+        "video_results":
+        [
+            {
+                "position_on_page": 1,
+                "title": "Fashion Trends 2025 That You’ll Actually Love Wearing! (At Any Age)",
+                "link": "https://www.youtube.com/watch?v=l6Tsb54o5ew",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=l6Tsb54o5ew",
+                "channel":
+                {
+                    "name": "Busbee Style",
+                    "link": "https://www.youtube.com/@BusbeeStyle",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/AIbmmAnlUHBN5_1ttkeooTX-skFBNUAHQ07VzxUnHcBZq1a1Y94iVjz8Aytydn_c6iX4Blj0nA=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "13 days ago",
+                "views": 34346,
+                "length": "16:46",
+                "description": "Let's simplify the season's top runway styles. In this video, I'm sharing the Top 5 Fall Fashion Trends that you can easily wear at ...",
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/l6Tsb54o5ew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZWEfM2ryjm3MemJHbfPlxqkZ7VA",
+                    "rich": "https://i.ytimg.com/an_webp/l6Tsb54o5ew/mqdefault_6s.webp?du=3000&sqp=CJC388gG&rs=AOn4CLC5IyTtXTy1fIW3k3FkWkRoLSX3eQ"
+                }
+            }
+            ,
+            {
+                "position_on_page": 2,
+                "title": "Italian Most Beautiful Outfits Autumn 2025: All the Fashion Trends of the Season. Milan Fashion VLOG",
+                "link": "https://www.youtube.com/watch?v=NMxzy70zieA",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=NMxzy70zieA",
+                "channel":
+                {
+                    "name": "MILAN ON TREND and MILAN ON TREND Live",
+                    "thumbnail": "https://yt3.ggpht.com/6CaSemA6ZqDBHsSpIQNeX53Tq2SYKsTUPGfEuOXlsEmVHWua3H3rOiZslXXb9bP_WJ_5WtJO3A=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "9 hours ago",
+                "views": 5743,
+                "length": "50:09",
+                "description": "Discover the most beautiful and stylish street fashion looks from Milan Fall 2025 — all in one ultimate fashion vlog. This special ...",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/NMxzy70zieA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALgZbnPEi4y-Xdi8DOF5QHRVBmVg",
+                    "rich": "https://i.ytimg.com/an_webp/NMxzy70zieA/mqdefault_6s.webp?du=3000&sqp=CIC388gG&rs=AOn4CLBNeacaSWdeEG5FSDBPpbo5lV-gDQ"
+                }
+            }
+            ,
+            {
+                "position_on_page": 4,
+                "title": "Winter 2025 Fashion Trends You’ll ACTUALLY Wear (What's IN vs OUT)",
+                "link": "https://www.youtube.com/watch?v=WOn0hB1NN4Q",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=WOn0hB1NN4Q",
+                "channel":
+                {
+                    "name": "Billie Newland",
+                    "link": "https://www.youtube.com/@billiexnewland",
+                    "thumbnail": "https://yt3.ggpht.com/j6tu4cbfJXNUjJzPSK9dwgnQhJol_AmZ77iW6XWBuK32xqpF-CxYIeaiC2UcTGz7p3XH8_Mw69c=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "10 days ago",
+                "views": 62767,
+                "length": "22:57",
+                "description": "winterfashiontrends #fashiontrends #styletips ❄️ Forget freezing for fashion — this winter is all about *warm, wearable luxury.",
+                "extensions":
+                [
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/WOn0hB1NN4Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1kfMVFfS-TuC1jgAtm3N01SrwBg",
+                    "rich": "https://i.ytimg.com/an_webp/WOn0hB1NN4Q/mqdefault_6s.webp?du=3000&sqp=CLy188gG&rs=AOn4CLBPTEY4LSrb24N9MglhEqt0-nLYzw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 5,
+                "title": "ITALIAN FASHION LOOK FALL/WINTER 2025 | MILAN CHIC OUTFITS TRENDS INSPIRATION | LUXURY SHOPPING VLOG",
+                "link": "https://www.youtube.com/watch?v=2bE4FT-8Nz8",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=2bE4FT-8Nz8",
+                "channel":
+                {
+                    "name": "Walking Together",
+                    "link": "https://www.youtube.com/@Walking-Together",
+                    "thumbnail": "https://yt3.ggpht.com/x1YNg2FbtQqFuIotgjQ0Up1mPFFB2pocNnem1CJdstsYbTMs6YdYJdWucsLWvDllz15_SFhCKJM=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "1 day ago",
+                "views": 27572,
+                "length": "29:09",
+                "description": "ITALIAN FASHION LOOKS FALL/WINTER 2025 | MILAN CHIC OUTFITS TRENDS INSPIRATION | LUXURY SHOPPING VLOG ...",
+                "extensions":
+                [
+                    "New",
+                    "CC"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/2bE4FT-8Nz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCS6PS5HPN0AHZFLSZizCJPQV2Qw",
+                    "rich": "https://i.ytimg.com/an_webp/2bE4FT-8Nz8/mqdefault_6s.webp?du=3000&sqp=CMO788gG&rs=AOn4CLDRVYBF6crWzaoGpCZ-sGtABs3Ikg"
+                }
+            }
+            ,
+            {
+                "position_on_page": 6,
+                "title": "Amazing Winter Chic & Cozy Winter Outfits November 2025: Milan NEW Trends Must See!",
+                "link": "https://www.youtube.com/watch?v=lEMeHClFwz8",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=lEMeHClFwz8",
+                "channel":
+                {
+                    "name": "IKAMODA",
+                    "link": "https://www.youtube.com/@IKAMODA",
+                    "thumbnail": "https://yt3.ggpht.com/fcj48bU2q10LVcdSxLgH76h1Zi0jJbjlv_COdNkwS53puFQIvJqQ7QvXVbiRs1z9l6zpdBWV2w=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 days ago",
+                "views": 11629,
+                "length": "37:29",
+                "description": "Milan Street Style Chic & Cozy Winter Outfits 2025: November NEW Trends Must See! Welcome to Milan's streets where real style ...",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/lEMeHClFwz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRWeVj0bxi-mSMU63SuEGZcNpjHQ",
+                    "rich": "https://i.ytimg.com/an_webp/lEMeHClFwz8/mqdefault_6s.webp?du=3000&sqp=CLmx88gG&rs=AOn4CLCQrWqST-CfwfVTfnEWG_ENVQ1zRw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 8,
+                "title": "2025 Street Fashion Trends 🇮🇹 Sophisticated Outfits For Ladies 🍂 Autumn 2025",
+                "link": "https://www.youtube.com/watch?v=09uethxWll8",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=09uethxWll8",
+                "channel":
+                {
+                    "name": "All Fashion Milano",
+                    "link": "https://www.youtube.com/@AllFashionMilano",
+                    "thumbnail": "https://yt3.ggpht.com/mY9uCuatLB-Hvl00l5SKWD7IsB_szrXcpddFo-Bna2NIF0S1H4JuEvON-I-Aqb8xqGamNI10ig=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 days ago",
+                "views": 8851,
+                "length": "29:09",
+                "description": "2025 Street Fashion Trends Sophisticated Outfits For Ladies ✨ Welcome to the future of style! ✨ Discover the top 2025 street ...",
+                "extensions":
+                [
+                    "New",
+                    "CC"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/09uethxWll8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQC302xkQmhb0h1TByKQz855cYyA",
+                    "rich": "https://i.ytimg.com/an_webp/09uethxWll8/mqdefault_6s.webp?du=3000&sqp=CK2K88gG&rs=AOn4CLC83b8ZUgiF9JFo8laVYg_7CBl7AA"
+                }
+            }
+            ,
+            {
+                "position_on_page": 9,
+                "title": "RECREATING FALL PINTEREST OUTFITS 2025 | Casual Outfit Ideas",
+                "link": "https://www.youtube.com/watch?v=0uIXugI1Zcg",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=0uIXugI1Zcg",
+                "channel":
+                {
+                    "name": "Kelly's Life",
+                    "link": "https://www.youtube.com/@KellysLife1",
+                    "thumbnail": "https://yt3.ggpht.com/vKj1ebiFIVIPkmA8gdGPo3nB5lU6jAMZKqgpNsooTBsTpWG16xqKuv9J7Gj3qd4i4xmV1sRS-w=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "1 day ago",
+                "views": 2608,
+                "length": "21:01",
+                "description": "Hey Everybody! In today's video Im going to be recreating 4 easy and elevated outfits that I found on Pinterest for fall!",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/0uIXugI1Zcg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiJhHMnHc32GKZ4WkRJQmqHFUgJA",
+                    "rich": "https://i.ytimg.com/an_webp/0uIXugI1Zcg/mqdefault_6s.webp?du=3000&sqp=CLin88gG&rs=AOn4CLCLqGOd9fI22Xp_L8ubHI55ug3SFQ"
+                }
+            }
+            ,
+            {
+                "position_on_page": 10,
+                "title": "Ranking Fall 2025 Fashion Trends (From Chic to Skip!) #WearableTrends #ChicStyle",
+                "link": "https://www.youtube.com/watch?v=QdMLuRPq4dE",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=QdMLuRPq4dE",
+                "channel":
+                {
+                    "name": "Mariana Zelenjuk",
+                    "link": "https://www.youtube.com/@MarianaZelenjuk",
+                    "thumbnail": "https://yt3.ggpht.com/coSWRICOuo80_zwZcqaKJVaYo3T4GX9j7ia80Ymq1GS_Y_YQ0_WSig_vsY2Y-kcJJYqguXj_=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "1 day ago",
+                "views": 1697,
+                "length": "16:57",
+                "description": "Ranking the biggest Fall fashion trends of the season — from the classics worth investing in to the styles I'm happily skipping.",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/QdMLuRPq4dE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARmGnPKZR3pN_hvs8g1mlI4WVL5g",
+                    "rich": "https://i.ytimg.com/an_webp/QdMLuRPq4dE/mqdefault_6s.webp?du=3000&sqp=CKaD88gG&rs=AOn4CLBrhQTXf0QqTWdmbWiDDxbc1EMYSw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 11,
+                "title": "14 EFFORTLESS, EVERYDAY AUTUMN OUTFITS TO RECREATE THIS 2025!",
+                "link": "https://www.youtube.com/watch?v=hbRfR5vLXFs",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=hbRfR5vLXFs",
+                "channel":
+                {
+                    "name": "Fashion and Style Edit",
+                    "link": "https://www.youtube.com/@FashionStyleEdit",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/L6x95I_pCXXdgsAmGbrfeQsNgVF8jagBldt7t8-rjk0G1vDea0kaeI5IVSI4UzAmr1yChjvflw=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 days ago",
+                "views": 10969,
+                "length": "20:06",
+                "description": "14 Effortless yet everyday Autumn outfits you can easily recreate this 2025, hopefully today's video will give you lots of handy outfit ...",
+                "extensions":
+                [
+                    "New",
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/hbRfR5vLXFs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVqjzfHU-8un5wqv2zTRG2pT-qPg",
+                    "rich": "https://i.ytimg.com/an_webp/hbRfR5vLXFs/mqdefault_6s.webp?du=3000&sqp=CIG188gG&rs=AOn4CLBUcA6H42bD18lf2cFxQ6lEVVym-w"
+                }
+            }
+            ,
+            {
+                "position_on_page": 12,
+                "title": "10 Fall Fashion Trends that are going to BLOW UP in 2025💥",
+                "link": "https://www.youtube.com/watch?v=NP-IZkxGTnA",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=NP-IZkxGTnA",
+                "channel":
+                {
+                    "name": "Angela Braniff",
+                    "link": "https://www.youtube.com/@angela.braniff",
+                    "thumbnail": "https://yt3.ggpht.com/w3dV8zMudnziqyiMsmQua8B00z0JZCh9tlBYb0Xr72QDJnIAOT1t9pMn97A0tuB9_1p8a-In8A=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "4 weeks ago",
+                "views": 78051,
+                "length": "15:30",
+                "description": "Grab your brooches, cords, and get ready to LAYER up for autumn fashion in 2025! Get a free Cool Gloss on all Jones Road ...",
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/NP-IZkxGTnA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHUbTdoEViF60MhlARltMTPUlvfg",
+                    "rich": "https://i.ytimg.com/an_webp/NP-IZkxGTnA/mqdefault_6s.webp?du=3000&sqp=CID48sgG&rs=AOn4CLDMjhUYNIJX6Uk-8sbh690sWCwmMg"
+                }
+            }
+            ,
+            {
+                "position_on_page": 13,
+                "title": "10 EASY FALL TRENDS TO TRY! Simple ways to elevate your wardrobe and dress on trend this season!",
+                "link": "https://www.youtube.com/watch?v=xmJJ9uxGaJ8",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=xmJJ9uxGaJ8",
+                "channel":
+                {
+                    "name": "by CHLOE WEN",
+                    "link": "https://www.youtube.com/@byCHLOEWEN",
+                    "thumbnail": "https://yt3.ggpht.com/YJIpSSIFw0wdENja9_Hjqzq4Me_sQssFfXKsIoJCvr2yzh1Jd4p94iEfZV8I6YgTSp9l97V4xg=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "3 weeks ago",
+                "views": 27661,
+                "length": "11:20",
+                "description": "Check out the full blog post for an easier way to shop! - https://bychloewen.com/all-topics/10-easy-fall-fashion-trends-for-2025 My ...",
+                "extensions":
+                [
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/xmJJ9uxGaJ8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC27wi94Ns63wOqs-mQ_NGlgpO_Hg",
+                    "rich": "https://i.ytimg.com/an_webp/xmJJ9uxGaJ8/mqdefault_6s.webp?du=3000&sqp=CNqy88gG&rs=AOn4CLCydho3-jcuUNACjqceBpuIgwS14Q"
+                }
+            }
+            ,
+            {
+                "position_on_page": 14,
+                "title": "Top 10 Fall Fashion Trends 2025 You Need To Explore!",
+                "link": "https://www.youtube.com/watch?v=T30t-8Ng830",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=T30t-8Ng830",
+                "channel":
+                {
+                    "name": "Marie-Anne Lecoeur - The French Chic Expert",
+                    "link": "https://www.youtube.com/@MarieAnneLecoeur",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/wdPTgdIK45d3mrh3S6vTn2w_c56A0Bgjmb5cdlGmKwHaP5AF8pq94RU_0CiN3zxv1nLCbx5IQw=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "3 months ago",
+                "views": 80298,
+                "length": "8:02",
+                "description": "The Top FALL AND WINTER fashion and style trends that are going to be huge for Fall / Winter 2025. Get in ahead of the crowd ...",
+                "extensions":
+                [
+                    "4K",
+                    "CC"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/T30t-8Ng830/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiRjGopyFPdPQ5VYmxKh8YjWMWRQ",
+                    "rich": "https://i.ytimg.com/an_webp/T30t-8Ng830/mqdefault_6s.webp?du=3000&sqp=CKet88gG&rs=AOn4CLAnfduEi9raJkh4GqGCIPDhFkGjBA"
+                }
+            }
+            ,
+            {
+                "position_on_page": 15,
+                "title": "FALL LOOKBOOK | 12 Comfy Fall Outfit Ideas, How to dress cute and on trend this fall!",
+                "link": "https://www.youtube.com/watch?v=fR8GUtXBDmA",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=fR8GUtXBDmA",
+                "channel":
+                {
+                    "name": "by CHLOE WEN",
+                    "link": "https://www.youtube.com/@byCHLOEWEN",
+                    "thumbnail": "https://yt3.ggpht.com/YJIpSSIFw0wdENja9_Hjqzq4Me_sQssFfXKsIoJCvr2yzh1Jd4p94iEfZV8I6YgTSp9l97V4xg=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 months ago",
+                "views": 111131,
+                "length": "21:07",
+                "description": "ALL OF THE OUTFITS ARE LINKED HERE - https://bychloewen.com/all-topics/fall-lookbook-2025-fall-outfit-ideas Intro Outfit ...",
+                "extensions":
+                [
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/fR8GUtXBDmA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb3XU-yAQXNHh_GxTNf9I86NnbUA",
+                    "rich": "https://i.ytimg.com/an_webp/fR8GUtXBDmA/mqdefault_6s.webp?du=3000&sqp=CIC388gG&rs=AOn4CLD82m5RhPFlrLecjHp1DvXdyvUAdw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 16,
+                "title": "🎀WALMART NEW ARRIVALS HAUL 🌟25+ Walmart Fall/Winter Fashion Finds!✨Walmart Try On Haul",
+                "link": "https://www.youtube.com/watch?v=ZcXvfY_SRKU",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=ZcXvfY_SRKU",
+                "channel":
+                {
+                    "name": "Madison Payne",
+                    "link": "https://www.youtube.com/@MadisonPayne",
+                    "thumbnail": "https://yt3.ggpht.com/7XQrWj3KUNwzF0sqSVKFpU6alXDzRNDrg0CUXru1R3cLVVu3RjtWdtYaShjoQd0JYPPt1Fc8aQ=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "4 days ago",
+                "views": 53818,
+                "length": "27:14",
+                "description": "Hi friends!! HOW TO SHOP: ALL links are listed below click 'more' What I'm Wearing: Pink Scuba Hoodie (m) ...",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/ZcXvfY_SRKU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTxsizEFNc0LLrA0iBA7qEXZYpow",
+                    "rich": "https://i.ytimg.com/an_webp/ZcXvfY_SRKU/mqdefault_6s.webp?du=3000&sqp=CNm588gG&rs=AOn4CLBSpJIAyuK392uiXF6dutICSvxgzw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 17,
+                "title": "60+ Best Fall & Winter Lookbooks FW 2025 | Knitwear. Outerwear. Everyday Chic.",
+                "link": "https://www.youtube.com/watch?v=y6dIjhqQvCk",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=y6dIjhqQvCk",
+                "channel":
+                {
+                    "name": "JulieNne's Choice",
+                    "link": "https://www.youtube.com/@JulieNnesChoice",
+                    "thumbnail": "https://yt3.ggpht.com/SvREFFW2w-SSCf6O9eu60Lz1ezUukubuxuuh95-_Eub88SZjuyk9CJlC_ZUXCSvRG6FzKxgI=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 days ago",
+                "views": 1435,
+                "length": "13:21",
+                "description": "This edit brings together 60+ Fall & Winter lookbooks — a full mix of FW 2025 outerwear, knitwear, layering pieces, and everyday ...",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/y6dIjhqQvCk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDimQT9uQFHtUEy8JvrKYMtENNq6Q",
+                    "rich": "https://i.ytimg.com/an_webp/y6dIjhqQvCk/mqdefault_6s.webp?du=3000&sqp=CIu288gG&rs=AOn4CLA357GfGaVnCiESlUI5Scw2h5AvxQ"
+                }
+            }
+            ,
+            {
+                "position_on_page": 18,
+                "title": "FALL-WINTER 2025-2026 FASHION TRENDS: Every Single Look Ranked (Complete Guide)",
+                "link": "https://www.youtube.com/watch?v=S6tGVNXqiaI",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=S6tGVNXqiaI",
+                "channel":
+                {
+                    "name": "TRENDS SPOTTED FASHION Timeless and Ageless",
+                    "link": "https://www.youtube.com/@TRENDSSPOTTEDFASHIONAgeless",
+                    "thumbnail": "https://yt3.ggpht.com/4gXZc0qQNpDDXAZUyXPVDTqAerpeR-1KklcdhOc4xrQkupO2i4NkjgnFty7phzFBk-sE4_XmuEY=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "1 month ago",
+                "views": 57278,
+                "length": "35:29",
+                "description": "Shop my curated Fall 2025 Capsule & Outfit Guide here: https://trendsspottedfashion.com/fall-2025 Fall 2025 is here — and I've ...",
+                "extensions":
+                [
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/S6tGVNXqiaI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpf_7SigyZe8Td1TMotkomqZlmKw",
+                    "rich": "https://i.ytimg.com/an_webp/S6tGVNXqiaI/mqdefault_6s.webp?du=3000&sqp=CNyu88gG&rs=AOn4CLBMsNoLmbQD_SOVqiAlhzKMxct6Rw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 19,
+                "title": "The Fall/Winter Fashion Trends you’ll actually wear",
+                "link": "https://www.youtube.com/watch?v=G3BTGN9tsro",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=G3BTGN9tsro",
+                "channel":
+                {
+                    "name": "Justine Leconte officiel",
+                    "link": "https://www.youtube.com/@justineleconte",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mm8qtDjVSdLHXUA3UFvfAwph7NLfPQVFf4_cilOE3PIhE=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 months ago",
+                "views": 95439,
+                "length": "11:07",
+                "description": "Discover the top fashion trends for the season, from runway highlights to wearable tips! In this video, I present a designer's ...",
+                "extensions":
+                [
+                    "CC"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/G3BTGN9tsro/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdB_tHL4F5HMcxvF633MkYJY_GIQ",
+                    "rich": "https://i.ytimg.com/an_webp/G3BTGN9tsro/mqdefault_6s.webp?du=3000&sqp=CK6N88gG&rs=AOn4CLDNPdc1BV4L8tBxD12_L4SWag_3UA"
+                }
+            }
+            ,
+            {
+                "position_on_page": 20,
+                "title": "Autumn to Winter Outfits | H&M Try On Haul & New in wardrobe Staples",
+                "link": "https://www.youtube.com/watch?v=5sNeoy5PKug",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=5sNeoy5PKug",
+                "channel":
+                {
+                    "name": "Allchloerose",
+                    "link": "https://www.youtube.com/@Allchloerose",
+                    "thumbnail": "https://yt3.ggpht.com/shMd4O35JoP_T60nxLQgInC3-fFHeA9agz14O5wwnxaahe3ERRAx4a_EJsEofA7t02ZWZRyAmQ=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 days ago",
+                "views": 10457,
+                "length": "20:32",
+                "description": "Transitioning the wardrobe through to the colder season adding some new in staples from H&M and also some new and loved ...",
+                "extensions":
+                [
+                    "New"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i9.ytimg.com/vi/5sNeoy5PKug/hq720_custom_1.jpg?sqp=CPy-88gG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfXUVeCykGu5o8V1eqxxukGsap2w",
+                    "rich": "https://i.ytimg.com/an_webp/5sNeoy5PKug/mqdefault_6s.webp?du=3000&sqp=COie88gG&rs=AOn4CLAXFRyW7bsBO5tPcL42c1FqViVVcg"
+                }
+            }
+            ,
+            {
+                "position_on_page": 21,
+                "title": "Chloé | Fall/Winter 2025/26 | Paris Fashion Week - 4K",
+                "link": "https://www.youtube.com/watch?v=PGSAWe-C2Nc",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=PGSAWe-C2Nc",
+                "channel":
+                {
+                    "name": "Fashion Feed",
+                    "link": "https://www.youtube.com/@FashionFeed",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mBr-wq7BsAn4UstoaQEn82hgMdu6Vth8CBtf-SPIfBmPc=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "1 day ago",
+                "views": 6427,
+                "length": "11:47",
+                "description": "Chloé Fall/Winter 2025/26 fashion show by Chemena Kamali at Paris Fashion Week. Witness the magic of Chloé's Fall/Winter ...",
+                "extensions":
+                [
+                    "New",
+                    "4K"
+                ]
+                ,
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/PGSAWe-C2Nc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG-6oj3EWsWc88n04QETwRcGhzJw",
+                    "rich": "https://i.ytimg.com/an_webp/PGSAWe-C2Nc/mqdefault_6s.webp?du=3000&sqp=CMe488gG&rs=AOn4CLDIbbX-kZ3t8M9dR5XRgObq6x-UKw"
+                }
+            }
+            ,
+            {
+                "position_on_page": 22,
+                "title": "2025 Fall Fashion Trends!",
+                "link": "https://www.youtube.com/watch?v=9ySVYSlQpwA",
+                "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=9ySVYSlQpwA",
+                "channel":
+                {
+                    "name": "Delaney Childs",
+                    "link": "https://www.youtube.com/@delaneychilds",
+                    "verified": true,
+                    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kiKxu5bh-LAomneCIveGcsnQlzfKDmsfhgO5q-ELgYUM8=s68-c-k-c0x00ffffff-no-rj"
+                }
+                ,
+                "published_date": "2 months ago",
+                "views": 100035,
+                "length": "21:33",
+                "description": "Social Channels: Instagram: https://www.instagram.com/delaneychilds/?hl=en TikTok: https://vm.tiktok.com/G5uvWC/ Like To ...",
+                "thumbnail":
+                {
+                    "static": "https://i.ytimg.com/vi/9ySVYSlQpwA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSiq2Teq0j_ssgLA0B4xyJ_HqMsQ",
+                    "rich": "https://i.ytimg.com/an_webp/9ySVYSlQpwA/mqdefault_6s.webp?du=3000&sqp=CIC388gG&rs=AOn4CLA7cqtcZLFG2t52lHBnMlWNEn3w3w"
+                }
+            }
+        ]
+        ,
+        "shorts_results":
+        [
+            {
+                "position_on_page": 3,
+                "shorts":
+                [
+                    {
+                        "title": "7 Autumn Fashion Trends for 2025",
+                        "link": "https://www.youtube.com/shorts/HIHQH8OxAWM",
+                        "thumbnail": "https://i.ytimg.com/vi/HIHQH8OxAWM/frame0.jpg",
+                        "views_original": "51K views",
+                        "views": 51000,
+                        "video_id": "HIHQH8OxAWM"
+                    }
+                    ,
+                    {
+                        "title": "7 Fall 2025 Fashion Trends",
+                        "link": "https://www.youtube.com/shorts/rlTT2qgI8i4",
+                        "thumbnail": "https://i.ytimg.com/vi/rlTT2qgI8i4/frame0.jpg",
+                        "views_original": "25K views",
+                        "views": 25000,
+                        "video_id": "rlTT2qgI8i4"
+                    }
+                    ,
+                    {
+                        "title": "MILAN 2025 FALL 🍁STREET FASHION #milanstreetstyle #shorts #fallfashion",
+                        "link": "https://www.youtube.com/shorts/NFYI7zqVFwg",
+                        "thumbnail": "https://i.ytimg.com/vi/NFYI7zqVFwg/frame0.jpg",
+                        "views_original": "39K views",
+                        "views": 39000,
+                        "video_id": "NFYI7zqVFwg"
+                    }
+                    ,
+                    {
+                        "title": "Top Color Combos Taking Over Fall 2025",
+                        "link": "https://www.youtube.com/shorts/Wv92Azf_a_M",
+                        "thumbnail": "https://i.ytimg.com/vi/Wv92Azf_a_M/frame0.jpg",
+                        "views_original": "3.4K views",
+                        "views": 3400,
+                        "video_id": "Wv92Azf_a_M"
+                    }
+                    ,
+                    {
+                        "title": "These 5 Colors Are Taking Over Fall 2025!",
+                        "link": "https://www.youtube.com/shorts/0IUCkk3Jse4",
+                        "thumbnail": "https://i.ytimg.com/vi/0IUCkk3Jse4/frame0.jpg",
+                        "views_original": "129K views",
+                        "views": 129000,
+                        "video_id": "0IUCkk3Jse4"
+                    }
+                    ,
+                    {
+                        "title": "Fall 2025 Fashion Trends That Actually FLATTER Women Over 50",
+                        "link": "https://www.youtube.com/shorts/YSnEGtcmdk8",
+                        "thumbnail": "https://i.ytimg.com/vi/YSnEGtcmdk8/frame0.jpg",
+                        "views_original": "446K views",
+                        "views": 446000,
+                        "video_id": "YSnEGtcmdk8"
+                    }
+                    ,
+                    {
+                        "title": "Over 40 Fall fashion 2025 trends",
+                        "link": "https://www.youtube.com/shorts/1OV3yhHd1P4",
+                        "thumbnail": "https://i.ytimg.com/vi/1OV3yhHd1P4/frame0.jpg",
+                        "views_original": "8.3K views",
+                        "views": 8300,
+                        "video_id": "1OV3yhHd1P4"
+                    }
+                    ,
+                    {
+                        "title": "Outdated fall shoes to skip + What to wear instead 🍂 Fall fashion 2025 #fashiontrends #stylingtips",
+                        "link": "https://www.youtube.com/shorts/Jah56qAKINk",
+                        "thumbnail": "https://i.ytimg.com/vi/Jah56qAKINk/frame0.jpg",
+                        "views_original": "161K views",
+                        "views": 161000,
+                        "video_id": "Jah56qAKINk"
+                    }
+                    ,
+                    {
+                        "title": "These Are The Most Surprising Fall 2025 Trends",
+                        "link": "https://www.youtube.com/shorts/dETOYzq_X_w",
+                        "thumbnail": "https://i.ytimg.com/vi/dETOYzq_X_w/frame0.jpg",
+                        "views_original": "28K views",
+                        "views": 28000,
+                        "video_id": "dETOYzq_X_w"
+                    }
+                    ,
+                    {
+                        "title": "returning fall 2025 fashion trends🤍 #fashiontrends #fallfashion #fashionstyle #2025fashion #outfits",
+                        "link": "https://www.youtube.com/shorts/bbINqd9KcZA",
+                        "thumbnail": "https://i.ytimg.com/vi/bbINqd9KcZA/frame0.jpg",
+                        "views_original": "22K views",
+                        "views": 22000,
+                        "video_id": "bbINqd9KcZA"
+                    }
+                ]
+            }
+            ,
+            {
+                "position_on_page": 7,
+                "shorts":
+                [
+                    {
+                        "title": "Fall 2025 Fashion Trends That Actually FLATTER Women Over 50",
+                        "link": "https://www.youtube.com/shorts/YSnEGtcmdk8",
+                        "thumbnail": "https://i.ytimg.com/vi/YSnEGtcmdk8/frame0.jpg",
+                        "views_original": "446K views",
+                        "views": 446000,
+                        "video_id": "YSnEGtcmdk8"
+                    }
+                    ,
+                    {
+                        "title": "Over 40 Fall fashion 2025 trends",
+                        "link": "https://www.youtube.com/shorts/1OV3yhHd1P4",
+                        "thumbnail": "https://i.ytimg.com/vi/1OV3yhHd1P4/frame0.jpg",
+                        "views_original": "8.3K views",
+                        "views": 8300,
+                        "video_id": "1OV3yhHd1P4"
+                    }
+                    ,
+                    {
+                        "title": "Outdated fall shoes to skip + What to wear instead 🍂 Fall fashion 2025 #fashiontrends #stylingtips",
+                        "link": "https://www.youtube.com/shorts/Jah56qAKINk",
+                        "thumbnail": "https://i.ytimg.com/vi/Jah56qAKINk/frame0.jpg",
+                        "views_original": "161K views",
+                        "views": 161000,
+                        "video_id": "Jah56qAKINk"
+                    }
+                    ,
+                    {
+                        "title": "These Are The Most Surprising Fall 2025 Trends",
+                        "link": "https://www.youtube.com/shorts/dETOYzq_X_w",
+                        "thumbnail": "https://i.ytimg.com/vi/dETOYzq_X_w/frame0.jpg",
+                        "views_original": "28K views",
+                        "views": 28000,
+                        "video_id": "dETOYzq_X_w"
+                    }
+                    ,
+                    {
+                        "title": "returning fall 2025 fashion trends🤍 #fashiontrends #fallfashion #fashionstyle #2025fashion #outfits",
+                        "link": "https://www.youtube.com/shorts/bbINqd9KcZA",
+                        "thumbnail": "https://i.ytimg.com/vi/bbINqd9KcZA/frame0.jpg",
+                        "views_original": "22K views",
+                        "views": 22000,
+                        "video_id": "bbINqd9KcZA"
+                    }
+                    ,
+                    {
+                        "title": "Fall 2025 fashion trends that are ✅ IN vs out ❌ #shorts",
+                        "link": "https://www.youtube.com/shorts/aibgllliNOY",
+                        "thumbnail": "https://i.ytimg.com/vi/aibgllliNOY/frame0.jpg",
+                        "views_original": "266K views",
+                        "views": 266000,
+                        "video_id": "aibgllliNOY"
+                    }
+                    ,
+                    {
+                        "title": "5 Zara Autumn Finds You Need in 2025",
+                        "link": "https://www.youtube.com/shorts/qz5m6PX52gI",
+                        "thumbnail": "https://i.ytimg.com/vi/qz5m6PX52gI/frame0.jpg",
+                        "views_original": "68K views",
+                        "views": 68000,
+                        "video_id": "qz5m6PX52gI"
+                    }
+                    ,
+                    {
+                        "title": "Some fall outfit inspo!🧺🍂 #falloutfitinspo #fallfashiontrends #fallfashion2025 #midsizeoutfits",
+                        "link": "https://www.youtube.com/shorts/RD5RjhAcnD8",
+                        "thumbnail": "https://i.ytimg.com/vi/RD5RjhAcnD8/frame0.jpg",
+                        "views_original": "142K views",
+                        "views": 142000,
+                        "video_id": "RD5RjhAcnD8"
+                    }
+                    ,
+                    {
+                        "title": "fall outfit ideas 🧸🎀",
+                        "link": "https://www.youtube.com/shorts/AbVvGKtNBnE",
+                        "thumbnail": "https://i.ytimg.com/vi/AbVvGKtNBnE/frame0.jpg",
+                        "views_original": "200K views",
+                        "views": 200000,
+                        "video_id": "AbVvGKtNBnE"
+                    }
+                ]
+            }
+        ]
+        ,
+        "pagination":
+        {
+            "current": "https://www.youtube.com/results?search_query=fall+fashion+2025",
+            "next": "https://www.youtube.com/results?search_query=fall%20fashion%202025&sp=SBSCAQtsNlRzYjU0bzVld4IBC05NeHp5NzB6aWVBggELV09uMGhCMU5ONFGCAQsyYkU0RlQtOE56OIIBC2xFTWVIQ2xGd3o4ggELMDl1ZXRoeFdsbDiCAQswdUlYdWdJMVpjZ4IBC1FkTUx1UlBxNGRFggELaGJSZlI1dkxYRnOCAQtOUC1JWmt4R1RuQYIBC3htSko5dXhHYUo4ggELVDMwdC04Tmc4MzCCAQtmUjhHVXRYQkRtQYIBC1pjWHZmWV9TUktVggELeTZkSWpocVF2Q2uCAQtTNnRHVk5YcWlhSYIBC0czQlRHTjl0c3JvggELNXNOZW95NVBLdWeCAQtQR1NBV2UtQzJOY4IBCzl5U1ZZU2xRcHdBsgEGCgQIFhAC6gEECAIQEw%253D%253D",
+            "next_page_token": "SBSCAQtsNlRzYjU0bzVld4IBC05NeHp5NzB6aWVBggELV09uMGhCMU5ONFGCAQsyYkU0RlQtOE56OIIBC2xFTWVIQ2xGd3o4ggELMDl1ZXRoeFdsbDiCAQswdUlYdWdJMVpjZ4IBC1FkTUx1UlBxNGRFggELaGJSZlI1dkxYRnOCAQtOUC1JWmt4R1RuQYIBC3htSko5dXhHYUo4ggELVDMwdC04Tmc4MzCCAQtmUjhHVXRYQkRtQYIBC1pjWHZmWV9TUktVggELeTZkSWpocVF2Q2uCAQtTNnRHVk5YcWlhSYIBC0czQlRHTjl0c3JvggELNXNOZW95NVBLdWeCAQtQR1NBV2UtQzJOY4IBCzl5U1ZZU2xRcHdBsgEGCgQIFhAC6gEECAIQEw%3D%3D"
+        }
+        ,
+        "serpapi_pagination":
+        {
+            "current": "https://serpapi.com/search.json?engine=youtube&search_query=fall+fashion+2025",
+            "next": "https://serpapi.com/search.json?engine=youtube&search_query=fall+fashion+2025&sp=SBSCAQtsNlRzYjU0bzVld4IBC05NeHp5NzB6aWVBggELV09uMGhCMU5ONFGCAQsyYkU0RlQtOE56OIIBC2xFTWVIQ2xGd3o4ggELMDl1ZXRoeFdsbDiCAQswdUlYdWdJMVpjZ4IBC1FkTUx1UlBxNGRFggELaGJSZlI1dkxYRnOCAQtOUC1JWmt4R1RuQYIBC3htSko5dXhHYUo4ggELVDMwdC04Tmc4MzCCAQtmUjhHVXRYQkRtQYIBC1pjWHZmWV9TUktVggELeTZkSWpocVF2Q2uCAQtTNnRHVk5YcWlhSYIBC0czQlRHTjl0c3JvggELNXNOZW95NVBLdWeCAQtQR1NBV2UtQzJOY4IBCzl5U1ZZU2xRcHdBsgEGCgQIFhAC6gEECAIQEw%253D%253D",
+            "next_page_token": "SBSCAQtsNlRzYjU0bzVld4IBC05NeHp5NzB6aWVBggELV09uMGhCMU5ONFGCAQsyYkU0RlQtOE56OIIBC2xFTWVIQ2xGd3o4ggELMDl1ZXRoeFdsbDiCAQswdUlYdWdJMVpjZ4IBC1FkTUx1UlBxNGRFggELaGJSZlI1dkxYRnOCAQtOUC1JWmt4R1RuQYIBC3htSko5dXhHYUo4ggELVDMwdC04Tmc4MzCCAQtmUjhHVXRYQkRtQYIBC1pjWHZmWV9TUktVggELeTZkSWpocVF2Q2uCAQtTNnRHVk5YcWlhSYIBC0czQlRHTjl0c3JvggELNXNOZW95NVBLdWeCAQtQR1NBV2UtQzJOY4IBCzl5U1ZZU2xRcHdBsgEGCgQIFhAC6gEECAIQEw%3D%3D"
+        }
+    }

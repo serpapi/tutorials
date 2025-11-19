@@ -12,7 +12,8 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "google-search-results-nodejs": "^2.1.0",
+    "json-colorizer": "^3.0.1",
     "serpapi": "^2.2.1"
   },
-  "type": "commonjs"
+  "type": "module"
 }

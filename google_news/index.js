@@ -5,58 +5,59 @@ import { colorize } from "json-colorizer";
 dotenv.config();
 const apiKey = process.env.API_KEY;
 
-const topNews = await getJson({
-    api_key: apiKey,
-    engine: "google_news",
-    gl: "ca",
-    hl: 'en'
-})
+// const topNews = await getJson({
+//     api_key: apiKey,
+//     engine: "google_news",
+//     gl: "ca",
+//     hl: 'en'
+// })
 
-// console.log(colorize(topNews))
+// // console.log(colorize(topNews))
 
-topNews.news_results.forEach(headline => console.log(headline.highlight ? headline.highlight.title : headline.title))
-const categories = [
-    {
-        title: 'Technology',
-        topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
-    },
-    {
-        title: 'Entertainment',
-        topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
-    },
-    {
-        title: 'Sports',
-        topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
-    },
-    {
-        title: 'Science',
-        topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
-    },
-    {
-        title: 'Health',
-        topic_token: 'CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE'
-    }
-]
+// topNews.news_results.forEach(headline => console.log(headline.highlight ? headline.highlight.title : headline.title))
+// const categories = [
+//     {
+//         title: 'Technology',
+//         topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
+//     },
+//     {
+//         title: 'Entertainment',
+//         topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
+//     },
+//     {
+//         title: 'Sports',
+//         topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
+//     },
+//     {
+//         title: 'Science',
+//         topic_token: 'CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKRFFTZ0FQAQ'
+//     },
+//     {
+//         title: 'Health',
+//         topic_token: 'CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE'
+//     }
+// ]
 
-const newsFetchPromises = categories.map(async (category) => {
-    return getJson({
-        api_key: apiKey,
-        engine: "google_news",
-        topic_token: category.topic_token,
-        gl: "us",
-        hl: 'en'
-    });
-})
+// const newsFetchPromises = categories.map(async (category) => {
+//     return getJson({
+//         api_key: apiKey,
+//         engine: "google_news",
+//         topic_token: category.topic_token,
+//         gl: "us",
+//         hl: 'en'
+//     });
+// })
 
-const newsByCategory = await Promise.all(newsFetchPromises);
+// const newsByCategory = await Promise.all(newsFetchPromises);
 
-newsByCategory.forEach((item) => {
-    console.log("CATEGORY: " + item.title)
-    const topResults = item.news_results.slice(0, 5);
-    topResults.forEach(res => {
-        console.log(res.highlight? res.highlight.title : res.title)
-    })
-    console.log("")
-    console.log("---------------------")
-    console.log("")
-})
+// newsByCategory.forEach((item) => {
+//     console.log("CATEGORY: " + item.title)
+//     const topResults = item.news_results.slice(0, 5);
+//     topResults.forEach(res => {
+//         console.log(res.highlight? res.highlight.title : res.title)
+//     })
+//     console.log("")
+//     console.log("---------------------")
+//     console.log("")
+// })
+
