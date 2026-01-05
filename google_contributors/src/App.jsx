@@ -1,34 +1,157 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState, useEffect } from 'react'
+import ReviewCard from './components/ReviewCard'
 import './App.css'
 
+const API_KEY = import.meta.env.VITE_API_KEY
+
+const REVIEWS_PER_PAGE = 4
+
 function App() {
-  const [count, setCount] = useState(0)
+  const [reviews, setReviews] = useState([])
+  const [sortBy, setSortBy] = useState('date')
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+  const [contributorInfo, setContributorInfo] = useState(null)
+  const [currentPage, setCurrentPage] = useState(1)
+
+  useEffect(() => {
+    async function fetchReviews() {
+      try {
+        setLoading(true)
+        const response = await fetch(
+          `/api/search.json?engine=google_maps_contributor_reviews&contributor_id=102617135531788009044&gl=us&hl=en&api_key=${API_KEY}`
+        )
+
+        if (!response.ok) {
+          throw new Error('Failed to fetch reviews')
+        }
+
+        const data = await response.json()
+        setReviews(data.reviews || [])
+        setContributorInfo(data.contributor || null)
+      } catch (err) {
+        setError(err.message)
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchReviews()
+  }, [])
+
+  const parseDate = (dateStr) => {
+    if (!dateStr) return 0
+    const match = dateStr.match(/(\d+)\s+(day|week|month|year)s?\s+ago/)
+    if (!match) return 0
+
+    const num = parseInt(match[1])
+    const unit = match[2]
+    const multipliers = { day: 1, week: 7, month: 30, year: 365 }
+    return num * (multipliers[unit] || 1)
+  }
+
+  const sortedReviews = [...reviews].sort((a, b) => {
+    if (sortBy === 'rating') {
+      return (b.rating || 0) - (a.rating || 0)
+    }
+    return parseDate(a.date) - parseDate(b.date)
+  })
+
+  const totalPages = Math.ceil(sortedReviews.length / REVIEWS_PER_PAGE)
+  const startIndex = (currentPage - 1) * REVIEWS_PER_PAGE
+  const paginatedReviews = sortedReviews.slice(startIndex, startIndex + REVIEWS_PER_PAGE)
+
+  const handleSortChange = (e) => {
+    setSortBy(e.target.value)
+    setCurrentPage(1)
+  }
+
+  if (loading) {
+    return (
+      <div className="app">
+        <div className="loading">Loading reviews...</div>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="app">
+        <div className="error">Error: {error}</div>
+      </div>
+    )
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+    <div className="app">
+      <header className="header">
+        <div className="user-info">
+          <div className="avatar">
+            {contributorInfo?.thumbnail ? (
+              <img src={contributorInfo.thumbnail} alt={contributorInfo.name} />
+            ) : (
+              <div className="avatar-placeholder">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+                </svg>
+              </div>
+            )}
+          </div>
+          <h1 className="user-name">{contributorInfo?.name || 'Contributor'}</h1>
+        </div>
+        <div className="sort-control">
+          <label htmlFor="sort">Sort by:</label>
+          <select
+            id="sort"
+            value={sortBy}
+            onChange={handleSortChange}
+          >
+            <option value="date">Date</option>
+            <option value="rating">Rating</option>
+          </select>
+        </div>
+      </header>
+
+      <main className="reviews-grid">
+        {paginatedReviews.map((review, index) => (
+          <ReviewCard key={review.review_id || index} review={review} />
+        ))}
+      </main>
+
+      {totalPages > 1 && (
+        <nav className="pagination">
+          <button
+            className="pagination-btn"
+            onClick={() => setCurrentPage(p => p - 1)}
+            disabled={currentPage === 1}
+          >
+            Previous
+          </button>
+          <div className="pagination-pages">
+            {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+              <button
+                key={page}
+                className={`pagination-page ${currentPage === page ? 'active' : ''}`}
+                onClick={() => setCurrentPage(page)}
+              >
+                {page}
+              </button>
+            ))}
+          </div>
+          <button
+            className="pagination-btn"
+            onClick={() => setCurrentPage(p => p + 1)}
+            disabled={currentPage === totalPages}
+          >
+            Next
+          </button>
+        </nav>
+      )}
+
+      <p className="review-count">
+        Showing {startIndex + 1}-{Math.min(startIndex + REVIEWS_PER_PAGE, sortedReviews.length)} of {sortedReviews.length} reviews
       </p>
-    </>
+    </div>
   )
 }
 
