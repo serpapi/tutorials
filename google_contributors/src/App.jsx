@@ -88,7 +88,7 @@ function App() {
         <div className="user-info">
           <div className="avatar">
             {contributorInfo?.thumbnail ? (
-              <img src={contributorInfo.thumbnail} alt={contributorInfo.name} />
+              <img src={contributorInfo.thumbnail} alt={contributorInfo.name} referrerPolicy="no-referrer" />
             ) : (
               <div className="avatar-placeholder">
                 <svg viewBox="0 0 24 24" fill="currentColor">

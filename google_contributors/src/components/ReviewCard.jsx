@@ -66,6 +66,7 @@ function ReviewCard({ review }) {
               src={img.thumbnail}
               alt={img.title || `Review image ${index + 1}`}
               loading="lazy"
+              referrerPolicy="no-referrer"
             />
           </div>
         ))}
@@ -84,6 +85,7 @@ function ReviewCard({ review }) {
             <img
               src={enlargedImage.thumbnail}
               alt={enlargedImage.title || 'Enlarged review image'}
+              referrerPolicy="no-referrer"
             />
           </div>
         </div>
