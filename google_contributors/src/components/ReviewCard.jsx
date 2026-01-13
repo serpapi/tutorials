@@ -13,7 +13,7 @@ function StarRating({ rating }) {
   return <div className="star-rating">{stars}</div>
 }
 
-function ReviewCard({ review }) {
+function ReviewCard({ review, distance }) {
   const { place_info, snippet, rating, images, date } = review
   const displayImages = images?.slice(0, 2) || []
   const [expanded, setExpanded] = useState(false)
@@ -71,7 +71,12 @@ function ReviewCard({ review }) {
           </div>
         ))}
       </div>
-      <p className="review-date">{date}</p>
+      <div className="review-footer">
+        <p className="review-date">{date}</p>
+        {distance !== Infinity && (
+          <p className="review-distance">{distance.toFixed(1)} km away</p>
+        )}
+      </div>
 
       {enlargedImage && (
         <div className="image-modal" onClick={() => setEnlargedImage(null)}>

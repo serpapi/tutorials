@@ -6,6 +6,17 @@ const API_KEY = import.meta.env.VITE_API_KEY
 
 const REVIEWS_PER_PAGE = 4
 
+function calculateDistance(lat1, lon1, lat2, lon2) {
+  const R = 6371 // Earth's radius in km
+  const dLat = (lat2 - lat1) * Math.PI / 180
+  const dLon = (lon2 - lon1) * Math.PI / 180
+  const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+            Math.sin(dLon / 2) * Math.sin(dLon / 2)
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
+  return R * c // Distance in km
+}
+
 function App() {
   const [reviews, setReviews] = useState([])
   const [sortBy, setSortBy] = useState('date')
@@ -13,6 +24,7 @@ function App() {
   const [error, setError] = useState(null)
   const [contributorInfo, setContributorInfo] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
+  const [userLocation, setUserLocation] = useState(null)
 
   useEffect(() => {
     async function fetchReviews() {
@@ -39,6 +51,24 @@ function App() {
     fetchReviews()
   }, [])
 
+  useEffect(() => {
+    async function fetchUserLocation() {
+      try {
+        const response = await fetch('http://ip-api.com/json/')
+        if (response.ok) {
+          const data = await response.json()
+          if (data.status === 'success') {
+            setUserLocation({ lat: data.lat, lon: data.lon })
+          }
+        }
+      } catch (err) {
+        console.error('Failed to fetch user location:', err)
+      }
+    }
+
+    fetchUserLocation()
+  }, [])
+
   const parseDate = (dateStr) => {
     if (!dateStr) return 0
     const match = dateStr.match(/(\d+)\s+(day|week|month|year)s?\s+ago/)
@@ -50,9 +80,20 @@ function App() {
     return num * (multipliers[unit] || 1)
   }
 
+  const getDistance = (review) => {
+    if (!userLocation || !review.place_info?.gps_coordinates) {
+      return Infinity
+    }
+    const { latitude, longitude } = review.place_info.gps_coordinates
+    return calculateDistance(userLocation.lat, userLocation.lon, latitude, longitude)
+  }
+
   const sortedReviews = [...reviews].sort((a, b) => {
     if (sortBy === 'rating') {
       return (b.rating || 0) - (a.rating || 0)
+    }
+    if (sortBy === 'distance') {
+      return getDistance(a) - getDistance(b)
     }
     return parseDate(a.date) - parseDate(b.date)
   })
@@ -108,13 +149,14 @@ function App() {
           >
             <option value="date">Date</option>
             <option value="rating">Rating</option>
+            <option value="distance">Distance</option>
           </select>
         </div>
       </header>
 
       <main className="reviews-grid">
         {paginatedReviews.map((review, index) => (
-          <ReviewCard key={review.review_id || index} review={review} />
+          <ReviewCard key={review.review_id || index} review={review} distance={getDistance(review)} />
         ))}
       </main>
 
