@@ -2,8 +2,9 @@
   "name": "google-local-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,7 +12,13 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "cors": "^2.8.6",
     "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "json-colorizer": "^3.0.1",
     "serpapi": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
