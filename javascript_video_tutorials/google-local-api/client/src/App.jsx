@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import { useEffect } from "react";
 
 function App() {
   const [query, setQuery] = useState("");
@@ -7,6 +8,15 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  async function getPosts(userId) {
+    const res = await fetch(`https://jsonplaceholder.typicode.com/users/${userId}`);
+    const data = await res.json();
+    console.log("Data", data)
+  }
+  useEffect( () => {
+    console.log("HELLO")
+     getPosts(1)
+  }, [])
   const handleSearch = async () => {
     if (!query.trim()) return;
     setLoading(true);
@@ -18,14 +28,6 @@ function App() {
       );
       if (!res.ok) throw new Error("Failed to fetch results");
       const data = await res.json();
-
-      // const fetchRequests = ids.map( (id) => {
-      //   return fetch(
-      //     `http://localhost:3001/reviews/${id}`
-      //   );
-      // })
-      // const requests = await Promise.all(fetchRequests);
-      // const reviewData = await Promise.all(requests.map((req) => req.json()))
 
      
       setResults(data);

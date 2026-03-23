@@ -1,10 +1,9 @@
-import dotenv from "dotenv";
 import express from "express";
 import cors from "cors";
 import { getJson } from "serpapi";
+import dotenv from "dotenv";
 import { colorize } from "json-colorizer";
 dotenv.config();
-
 const app = express();
 app.use(cors());
 
@@ -12,42 +11,36 @@ const PORT = process.env.PORT || 3001;
 const apiKey = process.env.API_KEY;
 
 app.get("/search", async (req, res) => {
-  const query = req.query.q || "matcha";
-  const localResults = [];
+  const query = req.query.q;
 
   try {
     const data = await getJson({
       api_key: apiKey,
       engine: "google_local",
-      google_domain: "google.ca",
       q: query,
-      hl: "en",
-      gl: "ca",
-      location: "Vancouver, British Columbia, Canada",
-    });
+      location: "Mount Pleasant, British Columbia, Canada",
+    })
 
-    data.local_results.forEach((localRes) =>
-      localResults.push(localRes.place_id)
-    );
-    localResults.splice(5);
+    const localIds = [];
 
-    const fetchRequests = localResults.map((id) => {
+    data.local_results.forEach(res => {
+      localIds.push(res.place_id);
+    })
+    const fetchRequests = localIds.map(id => {
       return getJson({
         api_key: apiKey,
         engine: "google_maps",
-        google_domain: "google.ca",
-        hl: "en",
         data_cid: id,
+        json_restrictor: ["place_results"]
       })
     })
 
-    const response = await Promise.all(fetchRequests);
+    const responses = await Promise.all(fetchRequests);
 
-    console.log(colorize(response));
-    const reviewData = response.map((res) => {
+    const reviewData = responses.map(({ place_results }) => {
       return {
-        name: res.place_results.title,
-        reviews: res.place_results?.user_reviews?.most_relevant ?? []
+        name: place_results.title,
+        reviews: place_results?.user_reviews?.most_relevant.splice(0, 3) ?? []
       }
     })
     res.json(reviewData);
