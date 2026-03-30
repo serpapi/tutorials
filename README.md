@@ -34,6 +34,7 @@ Video tutorials from our [YouTube channel](https://www.youtube.com/@serpapi)
 - `python_projects/competitor-tracker-amazon-api/` — Amazon competitor tracking with API
 - `python_projects/trending-products-amazon-api/` — Trending products analysis on Amazon
 - `python_projects/youtube-scraping-nlp-analysis/` — YouTube scraping with NLP analysis
+- `python_projects/github-issues-dashboard/` — GitHub Issues dashboard with Streamlit
 
 ### Ruby Projects
 
