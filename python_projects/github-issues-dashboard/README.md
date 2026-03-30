@@ -4,7 +4,7 @@ A Python app that fetches issues from any public GitHub repository, transforms t
 
 You get open vs closed counts, issue aging, service breakdown, and creation trends over time. The app defaults to the [SerpApi Public Roadmap](https://github.com/serpapi/public-roadmap) repository, but you can point it at any public repo from the UI.
 
-Based on the article: [How to Analyze Issues with the GitHub API in Python](TBD)
+Based on the article: [How to Analyze Issues with the GitHub API in Python](https://serpapi.com/blog/how-to-analyze-issues-with-the-github-api-and-python/)
 
 ## How It Works
 
