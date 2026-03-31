@@ -21,7 +21,7 @@ try {
     });
 
     console.log("App", app)
-    const appId = app?.organic_results[0]?.product_id;
+    const appId = app?.organic_results[0]?.id;
     appReviews = await getJson({
         api_key: serpApiKey,
         engine: "apple_reviews",
