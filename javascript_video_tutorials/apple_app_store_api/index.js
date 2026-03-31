@@ -19,6 +19,8 @@ try {
         term: "instagram",
         num: "5"
     });
+
+    console.log("App", app)
     const appId = app?.organic_results[0]?.product_id;
     appReviews = await getJson({
         api_key: serpApiKey,
