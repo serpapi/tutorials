@@ -1,0 +1,4 @@
+serpapi
+streamlit
+pandas
+altair

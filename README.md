@@ -35,6 +35,7 @@ Video tutorials from our [YouTube channel](https://www.youtube.com/@serpapi)
 - `python_projects/trending-products-amazon-api/` — Trending products analysis on Amazon
 - `python_projects/youtube-scraping-nlp-analysis/` — YouTube scraping with NLP analysis
 - `python_projects/github-issues-dashboard/` — GitHub Issues dashboard with Streamlit
+- `python_projects/brand-monitoring-dashboard/` — Brand monitoring dashboard with SerpApi and Streamlit
 
 ### Ruby Projects
 
