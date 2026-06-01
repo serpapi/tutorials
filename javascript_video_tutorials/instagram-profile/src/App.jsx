@@ -8,19 +8,25 @@ function App() {
   const [count, setCount] = useState(0)
   const [profile, setProfile] = useState(" ")
   const [profileHtml, setProfileHtml] = useState("")
-  const getPosts = async () => {
-    const params = new URLSearchParams({
-      engine: "instagram_profile",
-      profile_id: profile,
-      api_key: import.meta.env.VITE_SERPAPI_API_KEY
-    });
-    const response = await fetch(`https://serpapi.com/search?${params}`);
+  const [posts, setPosts] = useState([]);
+  const getInstagramData = async () => {
+    const response = await fetch(`/api/instagram/${profile}`);
+    console.log("res", response)
     const json = await response.json();
     const htmlResponse = await fetch(json.search_metadata.prettify_html_file);
     const html = await htmlResponse.text();
-    setProfileHtml(html)
-    console.log(json)
+    setProfileHtml(html);
+    sortPosts(json.profile_results.posts)
+  
   }
+
+  const sortPosts = (posts) => {
+    const sorted = [...posts].sort((a, b) => a.liked_by_count - b.liked_by_count);
+
+    console.log("sorted",sorted)
+    setPosts(sorted);
+  }
+
 
   return (
     <>
@@ -33,7 +39,7 @@ function App() {
         </div>
         <button
           type="button"
-          onClick={getPosts}
+          onClick={getInstagramData}
         >
           Submit
         </button>
@@ -41,6 +47,17 @@ function App() {
           {profileHtml && <iframe srcDoc={profileHtml}></iframe>}
         </div>
       </section>
+
+      {posts && 
+        <section id="best-and-worst">
+          
+          <div id="top-performing-post"></div>
+          <div id="worst-performing-post">
+            <h2>Worst Performing Post</h2>
+            
+          </div>
+        </section>
+      }
     </>
   )
 }

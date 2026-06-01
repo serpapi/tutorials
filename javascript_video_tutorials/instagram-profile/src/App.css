@@ -32,6 +32,7 @@ button {
 }
 
 .profile-html {
+  border: 1px solid var(--border);
   flex: 1;
   width: 100%;
   min-height: 0;
