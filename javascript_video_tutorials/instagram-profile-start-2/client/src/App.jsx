@@ -3,30 +3,21 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "./assets/vite.svg";
 import heroImg from "./assets/hero.png";
 import "./App.css";
+import BestWorst from "./BestWorst";
 
 function App() {
-  const [count, setCount] = useState(0);
   const [profile, setProfile] = useState(" ");
   const [profileHtml, setProfileHtml] = useState("");
-  const [posts, setPosts] = useState([]);
-
+  const [profileData, setProfileData] = useState();
   const getInstagramData = async () => {
     const response = await fetch(`/api/instagram/${profile}`);
-    console.log("res", response);
     const json = await response.json();
+    console.log(json);
+
+    setProfileData(json.profile_results);
     const htmlResponse = await fetch(json.search_metadata.prettify_html_file);
     const html = await htmlResponse.text();
     setProfileHtml(html);
-    sortPosts(json.profile_results.posts);
-  };
-
-  const sortPosts = (posts) => {
-    const sorted = [...posts].sort(
-      (a, b) => a.liked_by_count - b.liked_by_count,
-    );
-
-    console.log("sorted", sorted);
-    setPosts(sorted);
   };
 
   return (
@@ -45,21 +36,14 @@ function App() {
         <button type="button" onClick={getInstagramData}>
           Submit
         </button>
+      </section>
+
+      <div className="results-layout">
         <div className="profile-html">
           {profileHtml && <iframe srcDoc={profileHtml}></iframe>}
         </div>
-      </section>
-
-      {posts && (
-        <section id="best-and-worst">
-          <div id="top-performing-post">
-            <h2>Top Performing Post</h2>
-          </div>
-          <div id="worst-performing-post">
-            <h2>Worst Performing Post</h2>
-          </div>
-        </section>
-      )}
+        {profileData && <BestWorst igHandle={profile} />}
+      </div>
     </>
   );
 }

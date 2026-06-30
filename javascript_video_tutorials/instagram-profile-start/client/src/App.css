@@ -74,13 +74,48 @@ button {
   }
 }
 
+.post-card {
+  display: block;
+  position: relative;
+  width: 300px;
+  aspect-ratio: 1;
+  overflow: hidden;
+  margin: 12px auto;
+}
+
+.post-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.post-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.post-card:hover .post-overlay {
+  opacity: 1;
+}
+
 #center {
   display: flex;
   flex-direction: column;
   gap: 25px;
   place-content: center;
   place-items: center;
-  flex-grow: 1;
+  flex-grow: 0;
 
   @media (max-width: 1024px) {
     padding: 32px 20px 24px;
