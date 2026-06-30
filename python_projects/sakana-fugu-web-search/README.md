@@ -4,7 +4,7 @@ A small Python example that connects Sakana AI Fugu with SerpApi Google Shopping
 
 The script asks Fugu to decide whether a shopping search is needed, calls SerpApi when Fugu requests the `google_shopping_search` function, prints the product results, then sends those results back to Fugu for a final recommendation.
 
-Blog post tutorial: [Connect Sakana AI with real-time data](https://serpapi.com/blog/onnect-sakana-fugu-ai-with-web-search-api)
+Blog post tutorial: [Connect Sakana AI with real-time data](https://serpapi.com/blog/connect-sakana-fugu-ai-with-web-search-api)
 
 ## Features
 
