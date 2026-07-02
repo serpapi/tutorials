@@ -36,6 +36,7 @@ Video tutorials from our [YouTube channel](https://www.youtube.com/@serpapi)
 - `python_projects/youtube-scraping-nlp-analysis/` — YouTube scraping with NLP analysis
 - `python_projects/github-issues-dashboard/` — GitHub Issues dashboard with Streamlit
 - `python_projects/brand-monitoring-dashboard/` — Brand monitoring dashboard with SerpApi and Streamlit
+- `python_projects/instagram-semantic-image-search/` — Semantic image search over an Instagram profile with SerpApi, Jina v5 Omni, and Elasticsearch
 
 ### Ruby Projects
 

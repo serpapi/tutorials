@@ -1,0 +1,15 @@
+# Secrets: never commit
+.env
+elastic-start-local/
+
+# Generated at runtime by the notebook / app (not part of the example)
+images/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
