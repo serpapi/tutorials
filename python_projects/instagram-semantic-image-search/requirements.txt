@@ -1,0 +1,10 @@
+# Pinned to major ranges for reproducibility.
+# elasticsearch: keep the client on the same major as the server (9.x). Upgrade the server
+# BEFORE bumping this past <10. A 9.x client does not support an 8.x cluster.
+elasticsearch>=9,<10
+serpapi>=1,<2
+streamlit>=1.40,<2
+pillow>=11,<13
+requests>=2.32,<3
+python-dotenv>=1,<2
+notebook>=7,<8
