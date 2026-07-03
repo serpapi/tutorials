@@ -4,7 +4,7 @@ Search a public Instagram profile's photos in plain language, like "a dog wearin
 
 The same Elasticsearch index powers two entry points: a step-by-step Jupyter notebook that builds the pipeline, and a Streamlit app that turns it into a searchable gallery.
 
-Based on the article: [Semantic Image Search Over Instagram Profiles with Elasticsearch](TBD).
+Based on the article: [Semantic Image Search with Elasticsearch](https://github.com/serpapi/tutorials/tree/master/python_projects/instagram-semantic-image-search).
 
 ## How It Works
 
