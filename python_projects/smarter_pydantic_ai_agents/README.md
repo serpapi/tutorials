@@ -2,6 +2,9 @@
 
 A small collection of Pydantic AI agent examples, including basic chat agents, time tools, and SerpAPI-backed search/research agents.
 
+- Read the companion blog post: [Smarter Pydantic AI Agents with SerpAPI](https://serpapi.com/blog/smarter-pydantic-ai-agents-with-real-time-search/)
+- Watch the companion video: [Smarter Pydantic AI Agents with SerpAPI](https://youtu.be/9_Wa58PZ8rA?si=uSDZ57sTkcgB35DL)
+
 ## Prerequisites
 
 - Python 3.13 or newer
