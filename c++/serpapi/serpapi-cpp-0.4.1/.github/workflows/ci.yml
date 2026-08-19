@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+    - name: Install dependencies
+      run: rake install:linux
+    - name: Run tests
+      run: rake setup build test
+      env:
+        SERPAPI_KEY: ${{secrets.SERPAPI_KEY}}
