@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D&D API Showcase</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <article class="panel">
+    <div class="header">
+      <h1>Monster Dashboard</h1>
+      <p class="lead">
+        Explore D&amp;D 5E monster data via an API. Select a monster to view its
+        attributes fetched from an external API.
+      </p>
+    </div>
+
+    <div class="form-group">
+      <label for="monster-select">Choose a monster</label>
+      <div class="select-wrapper">
+        <select id="monster-select" aria-label="Choose a monster"></select>
+      </div>
+    </div>
+
+    <div class="content-layout">
+      <div class="image-column">
+        <div class="stat-card">
+          <img id="monster-image" src="" alt="Monster" class="monster-image">
+        </div>
+      </div>
+      <div class="stats-column">
+        <div class="stats">
+          <div class="stat-card grid-3">
+            <div><dt>Armour</dt><dd id="armor">—</dd></div>
+            <div><dt>Armour class</dt><dd id="armor-class">—</dd></div>
+            <div><dt>CR</dt><dd id="cr">—</dd></div>
+          </div>
+          <div class="stat-card grid-3">
+            <div><dt>STR</dt><dd id="str">—</dd></div>
+            <div><dt>DEX</dt><dd id="dex">—</dd></div>
+            <div><dt>CON</dt><dd id="con">—</dd></div>
+          </div>
+          <div class="stat-card grid-3">
+            <div><dt>INT</dt><dd id="int">—</dd></div>
+            <div><dt>WIS</dt><dd id="wis">—</dd></div>
+            <div><dt>CHA</dt><dd id="cha">—</dd></div>
+          </div>
+          <div class="stat-card grid-3">
+            <div><dt>HP</dt><dd id="hp">—</dd></div>
+            <div><dt>Type</dt><dd id="type">—</dd></div>
+            <div><dt>Size</dt><dd id="size">—</dd></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <footer class="api-credit">
+    <p>
+      Monster data provided by
+      <a href="https://www.dnd5eapi.co" target="_blank" rel="noopener noreferrer">
+        D&amp;D 5E API
+      </a>
+    </p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
