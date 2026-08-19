@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "langchain",
+    "langchain_openai",
+    "."
+  ],
+  "graphs": {
+    "seo_agent": "./4_seo_agent_langchain.py:graph"
+  },
+  "env": ".env"
+}

@@ -1,0 +1,13 @@
+[project]
+name = "serpapi-search-tools-demo"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "agno[openai]>=2.8.7",
+    "langchain>=1.3.14",
+    "langchain-openai>=1.4.2",
+    "langgraph-cli[inmem]>=0.4.31",
+    "pydantic-ai-slim[openai,web]>=2.26.0",
+    "python-dotenv>=1.2.2",
+    "serpapi-search-tools>=0.1.1",
+]
