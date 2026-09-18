@@ -1,24 +1,51 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import ReactMarkdown from "react-markdown";
+import rehypeSanitize from "rehype-sanitize";
 import "./App.css";
 
 function App() {
-  const [message, setMessage] = useState("Loading...");
+  const [query, setQuery] = useState("");
+  const [message, setMessage] = useState("");
   const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(false);
 
-  useEffect(() => {
-    fetch("http://localhost:3001/api/message")
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setLoading(true);
+    setError(null);
+    fetch("http://localhost:3001/api/message", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ message: query }),
+    })
       .then((res) => res.json())
-      .then((data) => {
-        console.log(data.reply);
-        setMessage(data.message);
-      })
-      .catch(() => setError("Could not reach the server. Is it running?"));
-  }, []);
+      .then((data) => setMessage(data.reply))
+      .catch(() => setError("Could not reach the server. Is it running?"))
+      .finally(() => setLoading(false));
+  };
 
   return (
     <div className="app">
-      <h1>React + Express</h1>
-      <p>{error ?? message?.reply}</p>
+      <h1>Food Finder</h1>
+      <form onSubmit={handleSubmit}>
+        <textarea
+          name="query"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="Best matcha cafe in Austin, Texas..."
+          rows={4}
+        />
+        <button type="submit" disabled={loading || !query.trim()}>
+          {loading ? "Searching..." : "Submit"}
+        </button>
+      </form>
+      {error ? (
+        <div>{error}</div>
+      ) : (
+        <ReactMarkdown rehypePlugins={[rehypeSanitize]}>
+          {message}
+        </ReactMarkdown>
+      )}
     </div>
   );
 }

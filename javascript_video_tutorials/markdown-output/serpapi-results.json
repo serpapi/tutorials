@@ -1,851 +1,1017 @@
 [
   {
     "name": "search",
-    "arguments": "{\"params\":{\"q\":\"matcha cafe Vancouver BC wheelchair accessible bathroom\",\"engine\":\"google_maps\",\"location\":\"Vancouver, British Columbia, Canada\",\"z\":15,\"hl\":\"en\"},\"mode\":\"complete\"}",
+    "arguments": "{\"params\":{\"engine\":\"google_maps\",\"q\":\"coffee shop Vancouver British Columbia wheelchair accessible entrance open now\",\"z\":14,\"lat\":49.2827,\"lon\":-123.1207},\"mode\":\"complete\"}",
     "output": {
       "search_metadata": {
-        "id": "6aa9a25d06ca7f683ac28631",
+        "id": "6aaac95c7a3b05ad3fb02c0b",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.json",
-        "markdown_endpoint": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.md",
-        "created_at": "2026-09-15 19:54:05 UTC",
-        "processed_at": "2026-09-15 19:54:05 UTC",
-        "google_maps_url": "https://www.google.com/maps/search/matcha+cafe+Vancouver+BC+wheelchair+accessible+bathroom/@49.2827291,-123.1207375,15.0z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
-        "raw_html_file": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.html",
-        "prettify_html_file": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.prettify",
-        "total_time_taken": 0.97
+        "json_endpoint": "https://serpapi.com/searches/s9aOFq2ou6lJSbLFrc7CieyGsBkfzceqTiFsaz07TCc/6aaac95c7a3b05ad3fb02c0b.json",
+        "markdown_endpoint": "https://serpapi.com/searches/s9aOFq2ou6lJSbLFrc7CieyGsBkfzceqTiFsaz07TCc/6aaac95c7a3b05ad3fb02c0b.md",
+        "created_at": "2026-09-16 16:52:44 UTC",
+        "processed_at": "2026-09-16 16:52:44 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/coffee+shop+Vancouver+British+Columbia+wheelchair+accessible+entrance+open+now/@49.2827,-123.1207,14.0z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/s9aOFq2ou6lJSbLFrc7CieyGsBkfzceqTiFsaz07TCc/6aaac95c7a3b05ad3fb02c0b.html",
+        "prettify_html_file": "https://serpapi.com/searches/s9aOFq2ou6lJSbLFrc7CieyGsBkfzceqTiFsaz07TCc/6aaac95c7a3b05ad3fb02c0b.prettify",
+        "total_time_taken": 1.01
       },
       "search_parameters": {
         "engine": "google_maps",
         "type": "search",
-        "q": "matcha cafe Vancouver BC wheelchair accessible bathroom",
-        "location_requested": "Vancouver, British Columbia, Canada",
-        "location_used": "Vancouver,British Columbia,Canada",
-        "z": "15",
+        "q": "coffee shop Vancouver British Columbia wheelchair accessible entrance open now",
+        "lat": "49.2827",
+        "lon": "-123.1207",
+        "z": "14",
         "google_domain": "google.com",
         "hl": "en"
       },
       "search_information": {
         "local_results_state": "Results for exact spelling",
-        "query_displayed": "matcha cafe Vancouver BC wheelchair accessible bathroom"
+        "query_displayed": "coffee shop Vancouver British Columbia wheelchair accessible entrance open now"
       },
       "local_results": [
         {
           "position": 1,
-          "title": "Matcha Made",
-          "place_id": "ChIJkXN0dupxhlQRQEETqVjqO_Q",
-          "data_id": "0x548671ea76747391:0xf43bea58a9134140",
-          "data_cid": "17598917635394978112",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671ea76747391%3A0xf43bea58a9134140&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671ea76747391%3A0xf43bea58a9134140&engine=google_maps_photos&hl=en",
+          "title": "93 Coffee - Japanese Cafe & Eatery",
+          "place_id": "ChIJfz7yjC1zhlQRPIeqYEgkBKs",
+          "data_id": "0x5486732d8cf23e7f:0xab04244860aa873c",
+          "data_cid": "12323014373670553404",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486732d8cf23e7f%3A0xab04244860aa873c&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486732d8cf23e7f%3A0xab04244860aa873c&engine=google_maps_photos&hl=en",
           "gps_coordinates": {
-            "latitude": 49.282013799999994,
-            "longitude": -123.1084954
+            "latitude": 49.2885189,
+            "longitude": -123.13921909999999
           },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkXN0dupxhlQRQEETqVjqO_Q",
-          "provider_id": "/g/11zcjslzh8",
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfz7yjC1zhlQRPIeqYEgkBKs",
+          "provider_id": "/g/11k457gb4l",
           "rating": 4.7,
-          "reviews": 88,
+          "reviews": 405,
+          "price": "CA$10–20",
+          "extracted_price": 10,
           "type": "Cafe",
           "types": [
             "Cafe",
-            "Coffee shop"
-          ],
-          "address": "134 W Hastings St, Vancouver, BC V6B 1G8, Canada",
-          "country": "Canada",
-          "open_state": "Closed · Opens 11 AM Fri",
-          "hours": "Closed · Opens 11 AM Fri",
-          "operating_hours": {
-            "tuesday": "Closed",
-            "wednesday": "Closed",
-            "thursday": "Closed",
-            "friday": "11 AM–6 PM",
-            "saturday": "11 AM–6 PM",
-            "sunday": "11 AM–6 PM",
-            "monday": "Closed"
-          },
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm684g1fHDaviO4YA5rW1PfMkZZyyM3xEQDfqu8Wgse1eE9d7cPTxvs8By1ItFU5cZ-RDCj_JXp3lgDtoBsU5fmnW9owNPZUJD0BaG1tYoMVFznpT_Eb1xHOhqanlAUh1LNKORTj8zZ-9-o=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/iaGo-3icHcTNToMwAADgJyrQMCaYeICViSg_EpDRy8JqaZ3QMtptwEt69m1M_A7f7w_XelSPptlz22BSsp5eFZ2IFJoKbRA5mGxUgCigTD8q8rIetu6GwS5C7e0r2zS-M9Uw75JvjJclsefwHXWXq1szRSENvc8HkpfzTbnBAl_0vnIIBgXanY_xYbR7hrQMVOV0g6g9eU9zXMXICtpnqBuZfOxXMZbH8ATnKOOXVvR-xeFb-poV5dldMfCAfLpDy7IA_58A8QdwN0bk"
-        },
-        {
-          "position": 2,
-          "title": "Whisk Matcha Cafe",
-          "place_id": "ChIJEYe1d6VxhlQRuvZgyPpdaXw",
-          "data_id": "0x548671a577b58711:0x7c695dfac860f6ba",
-          "data_cid": "8964799864942687930",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671a577b58711%3A0x7c695dfac860f6ba&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671a577b58711%3A0x7c695dfac860f6ba&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.263903199999994,
-            "longitude": -123.10007329999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEYe1d6VxhlQRuvZgyPpdaXw",
-          "provider_id": "/g/11hzy6ybw7",
-          "rating": 4.1,
-          "reviews": 662,
-          "type": "Cafe",
-          "types": [
-            "Cafe",
-            "Coffee shop",
-            "Tea house",
-            "Vegan restaurant"
-          ],
-          "address": "39 Kingsway, Vancouver, BC V5T 3H7, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 6 PM",
-          "hours": "Open · Closes 6 PM",
-          "operating_hours": {
-            "tuesday": "9 AM–6 PM",
-            "wednesday": "9 AM–6 PM",
-            "thursday": "9 AM–6 PM",
-            "friday": "9 AM–6 PM",
-            "saturday": "9 AM–6 PM",
-            "sunday": "9 AM–6 PM",
-            "monday": "9 AM–6 PM"
-          },
-          "phone": "+1 604-558-3232",
-          "website": "http://www.whiskmatcha.ca/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance",
-                "Wheelchair accessible restroom"
-              ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoenk2eWJ3NxgAOgMI8A0%3D&g2lbs=AEzIGDvSacE80eKDoBh35ANMHE1eR38KHfCyp02TLM0Bf4fRKdMQNW-Fl-AwXxP7qFyX7mzVpyZz&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKpKzGC2Sh3wy5xsa5OMVEudPwOb8q7BSiAiAUJUOXX3dPjNgn__n4lu2MnuxS1CAYjUpVb8GmNWVmT7d5WdNYzn4DBQy8gM9N8E4dLvP_2t4QfyG1Q7pt6aZBzwZi7RUOCV_e=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/pKzyy3icHcTbEkJAAADQL3InaqYHZDTJLaG8GKyWhrW1K_GDfUN_00zn4Xw_DaWYbDiuayQWDgPs6pHUz2pAtEaUrYaeg5gwFWEIp-9PwTntHOwstilGjTTNypsUiu8m1giCyS-1h2pErd7q8SH2LxcJBHcPojxHcjeKLhrfkWDq13uMk1Kzey9N-rMKlBR41wXJOyOcNeiuPc2SwfEV5CKVw9tsC6GK6arIjGXKWvUU-2aS19tJ4Hmeaf5XDPoBW1xEUQ"
-        },
-        {
-          "position": 3,
-          "title": "Cloud Matcha",
-          "place_id": "ChIJTbyzo_tzhlQR02zrxEwYlOA",
-          "data_id": "0x548673fba3b3bc4d:0xe094184cc4eb6cd3",
-          "data_cid": "16182586079049379027",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673fba3b3bc4d%3A0xe094184cc4eb6cd3&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548673fba3b3bc4d%3A0xe094184cc4eb6cd3&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2904354,
-            "longitude": -123.13728669999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTbyzo_tzhlQR02zrxEwYlOA",
-          "provider_id": "/g/11zb56cl9_",
-          "rating": 4.8,
-          "reviews": 32,
-          "type": "Cafe",
-          "types": [
-            "Cafe"
-          ],
-          "address": "907 Denman St, Vancouver, BC V6G 2L9, Canada",
-          "country": "Canada",
-          "open_state": "Closed · Opens 2 PM",
-          "hours": "Closed · Opens 2 PM",
-          "operating_hours": {
-            "tuesday": "2–7 PM",
-            "wednesday": "2–7 PM",
-            "thursday": "2–7 PM",
-            "friday": "2–7 PM",
-            "saturday": "12:30–7 PM",
-            "sunday": "12:30–7 PM",
-            "monday": "2–7 PM"
-          },
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEVLoqOHlCgQFkXzbbq0DKRnvviss4yoaJeGoVrW1mKgnMs93xye2O2Hq450dQLn7aIYwW05UODdoMCN0xAjTi_lrgn32__cFStIcW9N6w5nJkPbRaEfsnbGwkUrh88SurrdCsutrjeKXM=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/4S73XHicHcRBjoIwFADQEyEVZNRJZmFARRFRVHBWBEotSv2V_iLqJWc9tzHxLd7_X6X1Db9NU1R2j0vJBWuRKSpBM9A9Kq8mv6FB0UBz4sebfSqmyUo2kS9cvp3Vx1dRNMQLYrjfz4iDp8yXbC4TlfavAYcQx_bjyazI8puBQ8rtCob54rdLiXOIvFKG7po8Jpf9OROKg21lGZ3t9IKm4_VX58Cy3hRxPj0hFPOuPqhqNNq1SpUutlpdWHAMf7o-IcSoPlMD3h3iSQE"
-        },
-        {
-          "position": 4,
-          "title": "Nana's Green Tea - Downtown",
-          "place_id": "ChIJxwwCNetxhlQRj2a8s66nQ1Y",
-          "data_id": "0x548671eb35020cc7:0x5643a7aeb3bc668f",
-          "data_cid": "6215996279483033231",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671eb35020cc7%3A0x5643a7aeb3bc668f&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671eb35020cc7%3A0x5643a7aeb3bc668f&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2819894,
-            "longitude": -123.12341719999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxwwCNetxhlQRj2a8s66nQ1Y",
-          "provider_id": "/g/11njt0n7v6",
-          "rating": 4.4,
-          "reviews": 50,
-          "type": "Cafe",
-          "types": [
-            "Cafe"
-          ],
-          "address": "Next to ZUBU on, 869 Hornby St, Smithe St, Vancouver, BC V6Z 1T9, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 12 AM",
-          "hours": "Open · Closes 12 AM",
-          "operating_hours": {
-            "tuesday": "8:30 AM–12 AM",
-            "wednesday": "8:30 AM–12 AM",
-            "thursday": "8:30 AM–12 AM",
-            "friday": "8:30 AM–12 AM",
-            "saturday": "8:30 AM–12 AM",
-            "sunday": "8:30 AM–12 AM",
-            "monday": "8:30 AM–12 AM"
-          },
-          "phone": "+1 604-336-5054",
-          "website": "https://www.sevenleavestea.com/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance"
-              ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFuanQwbjd2NhgAOgMI8A0%3D&g2lbs=AEzIGDtprF7aU9lyaqWfznrRlZbNtQtKasRY6lySTJ9-BdwnezwKAveGi1CO1GxLPJmG6sol8nWJ&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktsZhsVm1kKxLI-J_x0L6IOv-LTiRfvdBtvJXvAss5SwQi3VcyHnqXRhbH2wpr3ZmXoLdNhyICq2x7OwKP9_YIGcYDQiRVL9Auww73HMMNhhS8BTbDO7fwfgDdiM2Mbo8Uk9-NG7NTJlkS=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/pgq3NXicHcRLDoIwFADAE1UQooiJC5REwAIKiMiGhPIp4VP0VYqndO1tTJzFfD-U8xG2ktRRdVEzVnflC8onYQMvB74grJfqERABBJJhBefo1nJIKcT9sj3N2EZONst4bfsTwlETVFOx55OTTAbAKhSXRo3J2xoeSUBzSxHjU037hOHCo2_78FBmzRens57d7SO5m5cmiLFuvITQVMt1PUrDzT7KTV-rRFWbReMqbs4211ZH3lHzIqdrw51YyrKM6H-Chh8I4Uep"
-        },
-        {
-          "position": 5,
-          "title": "Mitchie Matcha Cafe",
-          "place_id": "ChIJ3YkB3hZzhlQRZY3LODWYYCs",
-          "data_id": "0x54867316de0189dd:0x2b60983538cb8d65",
-          "data_cid": "3125665495748676965",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867316de0189dd%3A0x2b60983538cb8d65&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x54867316de0189dd%3A0x2b60983538cb8d65&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2462964,
-            "longitude": -123.10146329999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3YkB3hZzhlQRZY3LODWYYCs",
-          "provider_id": "/g/11xl_pvk1h",
-          "rating": 4.5,
-          "reviews": 217,
-          "type": "Cafe",
-          "types": [
-            "Cafe",
-            "Catering food and drink supplier"
-          ],
-          "address": "4385 Main St, Vancouver, BC V5V 3R1, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 6 PM",
-          "hours": "Open · Closes 6 PM",
-          "operating_hours": {
-            "tuesday": "10 AM–6 PM",
-            "wednesday": "10 AM–6 PM",
-            "thursday": "10 AM–6 PM",
-            "friday": "10 AM–6 PM",
-            "saturday": "10 AM–7 PM",
-            "sunday": "10 AM–7 PM",
-            "monday": "10 AM–6 PM"
-          },
-          "phone": "+1 672-380-8307",
-          "website": "https://mitchiematcha.com/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance"
-              ]
-            }
-          ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTcn4v1nKFUQiYo2W6zBKacxRmitrb6BCOHH4gRS9Qaxr3tpSw3SYstF65hNd4CS4hUfD3Sjw9ZH_vjJPLUD_PFFiEx6oK1TMuyqybs93M-KB-jmlUJ505GqJ_HCuM6TW-pUS8ESzXp78H=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/AwLMjHicHcTBboIwAADQL6rACp0s2WGgrIGxIaVheiFaGYVAW2kR9Cd39m-W7B3e45cbo_SLZfUcrhopm76edD0yKUwtzIrJwWqUBkwDbb3hPCvKoWDCvToiieiu3cunEt2D5MiWfGjNeEJB-IWx2-TE3x2XERpFZkj22kTI459nNyQupz8bSLrZP-Dq2sXZB91UWRS12wXJxCnS6Xa5nbQPU5AEoBt6Gnu2936JKxxOKSpKoChZb8n9Wz2v8evs2LYN-P8MiD9520Yo"
-        },
-        {
-          "position": 6,
-          "title": "Superbolt Lab Matcha Tea Vancouver",
-          "place_id": "ChIJmW7VXiBzhlQR0p1ZBNIEWKs",
-          "data_id": "0x548673205ed56e99:0xab5804d204599dd2",
-          "data_cid": "12346623678498840018",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673205ed56e99%3A0xab5804d204599dd2&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548673205ed56e99%3A0xab5804d204599dd2&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2708337,
-            "longitude": -123.1473618
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmW7VXiBzhlQR0p1ZBNIEWKs",
-          "provider_id": "/g/11w8k484vw",
-          "rating": 4.3,
-          "reviews": 255,
-          "type": "Cafe",
-          "types": [
-            "Cafe"
-          ],
-          "address": "1849 W 1st Ave, Vancouver, BC V6J 5B8, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 5 PM",
-          "hours": "Open · Closes 5 PM",
-          "operating_hours": {
-            "tuesday": "8 AM–5 PM",
-            "wednesday": "8 AM–5 PM",
-            "thursday": "8 AM–5 PM",
-            "friday": "8 AM–5 PM",
-            "saturday": "8 AM–7 PM",
-            "sunday": "8 AM–7 PM",
-            "monday": "Closed"
-          },
-          "phone": "+1 778-917-4798",
-          "website": "http://www.superbolt-tea.com/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance"
-              ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF3OGs0ODR2dxgAOgMI8A0%3D&g2lbs=AEzIGDvOPKPGeOUZLQPDU39LrO-wR7MFcy9LQgHpVPY_8JLmrc62IJyuPRSYuQzcMXbg4F1Nsz5l&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNu-2XVX6Zc3DfhNM_6XhIsu53r9TseQfp0wlJs7yPcDvs0rE8P-Kfwt2RThO5DFvw4zo40KsUHk7IT-TVnbDhW4CdxqBbr3BWEIbbC3K4U8y20aiFniakqqOee9_UEW2cojfphPtZrdrZ=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/CTAW7nicHcRLDoIwFADAE1UqxW_iQgUjEhVNEcLGSC1UxRb6iqiXdO1tTJzFfD_CmArGllUK0imUKkreANdMScOl6TB1t4oKEAME1nS5D2l83zTITg5JP2XEzcVmfewnwoemR_SIAt_lFW7LFQxeIXMfgLU3DFGQt8beU7HtuYtH67yVgwOIlreBTxE9yMwVsTM_P-tZpsks9vwsm5PAiYYvG58uC3k53ep6y_noGHmxzdQ1r0RoUn3W6aTtYoyR-M-Q_AFmr0dI"
-        },
-        {
-          "position": 7,
-          "title": "Matcha Corner Cafe",
-          "place_id": "ChIJtZWlBQBxhlQRhbmXZbkIAOk",
-          "data_id": "0x5486710005a595b5:0xe90008b96597b985",
-          "data_cid": "16789429003203623301",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486710005a595b5%3A0xe90008b96597b985&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x5486710005a595b5%3A0xe90008b96597b985&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.252417099999995,
-            "longitude": -123.0810365
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtZWlBQBxhlQRhbmXZbkIAOk",
-          "provider_id": "/g/11md1m218s",
-          "rating": 4.3,
-          "reviews": 257,
-          "type": "Cafe",
-          "types": [
-            "Cafe"
-          ],
-          "address": "1148 Kingsway, Vancouver, BC V5V 3C8, Canada",
-          "country": "Canada",
-          "open_state": "Closed · Opens 11 AM Wed",
-          "hours": "Closed · Opens 11 AM Wed",
-          "operating_hours": {
-            "tuesday": "Closed",
-            "wednesday": "11 AM–9 PM",
-            "thursday": "11 AM–9 PM",
-            "friday": "11 AM–9 PM",
-            "saturday": "11 AM–6 PM",
-            "sunday": "11 AM–9 PM",
-            "monday": "11 AM–9 PM"
-          },
-          "phone": "+1 604-620-2018",
-          "website": "https://matchacorner.square.site/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance"
-              ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFtZDFtMjE4cxgAOgMI8A0%3D&g2lbs=AEzIGDsFfv5LIlI83GyOMZS2VqhBPFk73ztKHeaE2q0UZ5XVVcaFTpp9N9LyOPQSg3Y20eihh1an&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkg0jxmoQVQ0dNFbbmb14HKTCxha1dSgZx1kPk-3-Ts2eo1SERxk156zPHreycBkX3ButW7o4bZMDcaLSUIYs0iVEBeqGnulQRSFd1aCGsFM8khQjpxTfLlletMcYGtNht2M-4YCT8eFjU=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/hVEbZ3icHcTNboIwAADgJ6q0gtOYeBgoYBTDT9HhDUrXSgtFW2LdQ3rf2yzZd_h-39yYUa8dR3J3xpRikk6aPogaDB3MjKjeYaMGRAPtfMZ5ii-Cwc72KjtnsD2FTdM3yIsPOLC8Rm3BrhaJVAAXYD2nChW73Aq0-PhJ4wd9EV98uf5kLkvlNddkS-pjUe4rDW_nnU_v0TDJLC_CFtVBpMNkJXjWjRZ_H6WkJiFVZE7czBPgVQFe0bArN08EIQT8fwKGP0uSRu4"
-        },
-        {
-          "position": 8,
-          "title": "Nana's Green Tea - Olympic Village",
-          "place_id": "ChIJc4flUnpzhlQR8POkv22_Qac",
-          "data_id": "0x5486737a52e58773:0xa741bf6dbfa4f3f0",
-          "data_cid": "12052124555907757040",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486737a52e58773%3A0xa741bf6dbfa4f3f0&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x5486737a52e58773%3A0xa741bf6dbfa4f3f0&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.267586599999994,
-            "longitude": -123.10855169999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc4flUnpzhlQR8POkv22_Qac",
-          "provider_id": "/g/11hcyx9xrw",
-          "rating": 4.3,
-          "reviews": 1277,
-          "type": "Japanese restaurant",
-          "types": [
+            "Florist",
             "Japanese restaurant",
-            "Cafe",
-            "Coffee shop",
-            "Dessert restaurant",
-            "Ice cream shop",
-            "Japanese curry restaurant",
-            "Udon noodle restaurant"
+            "Tea house"
           ],
-          "address": "159 W 4th Ave, Vancouver, BC V5Y 1G4, Canada",
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe",
+            "florist",
+            "japanese_restaurant",
+            "tea_house"
+          ],
+          "address": "1789 Comox St, Vancouver, BC V6G 1P5, Canada",
           "country": "Canada",
-          "open_state": "Open · Closes 12 AM",
-          "hours": "Open · Closes 12 AM",
+          "open_state": "Open · Closes 7 PM",
+          "hours": "Open · Closes 7 PM",
           "operating_hours": {
-            "tuesday": "8:30 AM–12 AM",
-            "wednesday": "8:30 AM–12 AM",
-            "thursday": "8:30 AM–12 AM",
-            "friday": "8:30 AM–12 AM",
-            "saturday": "8:30 AM–12 AM",
-            "sunday": "8:30 AM–12 AM",
-            "monday": "8:30 AM–12 AM"
+            "wednesday": "8 AM–7 PM",
+            "thursday": "8 AM–7 PM",
+            "friday": "8 AM–9 PM",
+            "saturday": "8 AM–9 PM",
+            "sunday": "8 AM–7 PM",
+            "monday": "8 AM–7 PM",
+            "tuesday": "8 AM–7 PM"
           },
-          "phone": "+1 604-263-5054",
-          "website": "https://sevenleavestea.com/",
-          "description": "Japanese drinks & snacks in a cosy cafe. Compact operation with a contemporary ambiance offering fancy teas, plus miso soup & desserts.",
+          "phone": "+1 778-379-5926",
+          "website": "http://93coffee.ca/",
           "extensions": [
+            {
+              "service_options": [
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance",
                 "Wheelchair accessible restroom",
                 "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Coffee",
+                "Healthy options",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating",
+                "Table service"
+              ]
+            },
+            {
+              "amenities": [
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid parking lot",
+                "Paid street parking",
+                "Usually somewhat difficult to find a space"
               ]
             }
           ],
           "unsupported_extensions": [
             {
-              "accessibility": [
-                "Wheelchair accessible parking lot"
+              "planning": [
+                "Accepts reservations"
               ]
             }
           ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoY3l4OXhydxgAOgMI8A0%3D&g2lbs=AEzIGDsUTyBp7gxQPqLMq_nHCMGcvC8jrq7l0YW0NoaetYIbzRGnPRUsB0f6zJbtYVkn1AOgCFW7&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmG1YMDKrA6NWJ25rVIABfrLBeKPUEXBYFOfg-O2NLajPa-RFjdxw5bquQdTcwL7fuwHfpOzJPG93JXppkqq-s6Z11wtXEZLhETLQUqvltnp_1UmQQMN9A20m576N_j_wfXUd6h=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/SCBZAHicHcRJDoIwAADAF1UoBIwmHiDigpUtoOiFaKE0yNLSYo0f9A3-xsQ5zPdDpWRiqWktNWf1MNRtNYlqxEMvq17O8NBpNRMACyA0Z5dE6bnbwstxfRgdOzj7hjWe9o5LRuRWhyjzcveyCUkNQiNAtya6gWTTlC9l3fkUlylWaE4mtSMsfPvRdmH6OWMPzoGwrxAqmXtXRL0UxRl_trJnBcy6OD4GC8fQO2tuB0VTKJJnpU1XCuq6Duh_DPof-zlD8A"
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFrNDU3Z2I0bBgAOgMI8A0%3D&g2lbs=AEzIGDtMzeDQzeNFzPoSqbqB1SVrTmBKlcjg-OqOUY7bKdFI249OWHo5XlbD2me5jGnDNOaeIFsb&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcNEjl3MYhsS6_jpKjbqiZZaZlui7Oe0MbxOkUKof3oFFWY1zstP-a_1u6I4Zg2FCM_bfJPJPhcKiQzflecBy3RW9f5dnx5-c3KZxawRRrFucBpOyKK2p6mLVqab9dz7NWQbrK=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/bLslenicHcRBjoIwFADQE1XAKkYTF2okjhVBnBliN4R-C4WptNISkQt6Bm9jMm_x3i9hrTYLx5ECj0qlSsk7w1tQjeWNHYG6OaU2CAwyzmqXxN-phOO2lji8CHP2s1qTmt0rSnMqu2oWcTdkffT3Q1SBVRCkF28wNkZ55nX-14SW42ATZqzYx_tYAKlOQyE5rJ84SefF9Nr0UwSY0D5_JEkbdLDW0ZOQsfZvh997zubXYXZMT6wly4fnui4S_wNqPsCsRZc"
         },
         {
-          "position": 9,
-          "title": "emeri matcha bar",
-          "place_id": "ChIJN-Vn_phzhlQRUCO5ajXiG48",
-          "data_id": "0x54867398fe67e537:0x8f1be2356ab92350",
-          "data_cid": "10312084490846544720",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867398fe67e537%3A0x8f1be2356ab92350&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x54867398fe67e537%3A0x8f1be2356ab92350&engine=google_maps_photos&hl=en",
+          "position": 2,
+          "title": "cafe & life co.",
+          "place_id": "ChIJX3-OC1dzhlQR1sjnaqsPMlA",
+          "data_id": "0x548673570b8e7f5f:0x50320fab6ae7c8d6",
+          "data_cid": "5778698500777167062",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673570b8e7f5f%3A0x50320fab6ae7c8d6&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673570b8e7f5f%3A0x50320fab6ae7c8d6&engine=google_maps_photos&hl=en",
           "gps_coordinates": {
-            "latitude": 49.259853,
-            "longitude": -123.10136159999999
+            "latitude": 49.265098599999995,
+            "longitude": -123.11643839999999
           },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN-Vn_phzhlQRUCO5ajXiG48",
-          "provider_id": "/g/11nq2syy29",
-          "rating": 4.8,
-          "reviews": 155,
-          "type": "Tea house",
-          "types": [
-            "Tea house"
-          ],
-          "address": "2833 Main St, Vancouver, BC V5T 3G1, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 6 PM",
-          "hours": "Open · Closes 6 PM",
-          "operating_hours": {
-            "tuesday": "11 AM–6 PM",
-            "wednesday": "11 AM–6 PM",
-            "thursday": "11 AM–6 PM",
-            "friday": "11 AM–6 PM",
-            "saturday": "10 AM–6 PM",
-            "sunday": "10 AM–6 PM",
-            "monday": "Closed"
-          },
-          "website": "https://www.enjoyemeri.com/",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfibLTdj8DNrEHbJYocxOW3rC68zrYl2pnqy01Fgjr_DgF2iMsXrnrfGFXMq1pDjZ9q6yfvXivEN_SF8uJMYOtGEr_IaBfYtJq_ahrL9ctzAnjOeCS8i35ykwAj6FoSN5sC2kwrXnWPjc5=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/8jJHbHicHcRNjoIwGADQEyF_gaCJCwSqEgEjJsBsCHagULCFr1XES7r2NpPMW7zvp5VyFBtVHVpzRTgnQ_0QNWDOZM3kCvO7SkahYKEI1T1cztesb7rb6fpLHT-G4HALC45fSWaCZztvKAZjZNOi6YhQKH2CjC4SOTBo9iiPJn306c96spfmmXfPIC5T5DzCqEjkPoDyWO2aQoZTWbVwWmP5dhlNai91OtNa-tmlNuJpbAnP6GfIWXam2NrOuqZpSvs_VtgfNldI-g"
-        },
-        {
-          "position": 10,
-          "title": "Aiyaohno Cafe",
-          "place_id": "ChIJgTXf8OdxhlQRScve0U3I5s8",
-          "data_id": "0x548671e7f0df3581:0xcfe6c84dd1decb49",
-          "data_cid": "14980881447053609801",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671e7f0df3581%3A0xcfe6c84dd1decb49&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671e7f0df3581%3A0xcfe6c84dd1decb49&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2811762,
-            "longitude": -123.1046461
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgTXf8OdxhlQRScve0U3I5s8",
-          "provider_id": "/g/11t26t5kyn",
-          "rating": 4.8,
-          "reviews": 398,
-          "type": "Cafe",
-          "types": [
-            "Cafe",
-            "Coffee stand",
-            "Sandwich shop"
-          ],
-          "address": "425 Carrall St, Vancouver, BC V6B 6E3, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 3 PM",
-          "hours": "Open · Closes 3 PM",
-          "operating_hours": {
-            "tuesday": "10 AM–3 PM",
-            "wednesday": "10 AM–3 PM",
-            "thursday": "10 AM–3 PM",
-            "friday": "10 AM–3 PM",
-            "saturday": "10 AM–3 PM",
-            "sunday": "Closed",
-            "monday": "Closed"
-          },
-          "phone": "+1 604-652-7555",
-          "website": "http://www.aiyaohno.com/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance",
-                "Wheelchair accessible seating"
-              ]
-            }
-          ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsd6SYkDoolAxs0VtqpyEjsTFxDkdtlETKYfoAGXTqx7YgnNPseApOyKKxXjE65JxAIBVeWRfAthGS1ckhS03shHZ1DvGKYkFDWJVOi0OJHOEKMqMdO78KdDJktpJGEC3jltw=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/LGIJTnicHcRRboMgGADgE1kxZu3SZA9sUB2ko6lG616RyoQC7mctvWDvsNss2ffw_T50jAG2eW51uZq8n6z6AfUtvYvKxZX0l3wKkEnIIMf18dD2DsZ1MxjivcUJUBeXcKcztLtEzBgtbflw9rg6tUvaDJP7OIDCQdw5T6eZrp9Ywu-vneqPZxx11RTS6AaVoOvPglwrPpgd6VknvpBgtaB8v-xHsXnmI2EmBlbRt3K28fZyKxBCmf5fZu4PrTdE_g"
-        },
-        {
-          "position": 11,
-          "title": "BAM BAM",
-          "place_id": "ChIJ-d7QBABxhlQRoeCtrTeUUH8",
-          "data_id": "0x5486710004d0def9:0x7f509437adade0a1",
-          "data_cid": "9173995407811666081",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486710004d0def9%3A0x7f509437adade0a1&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x5486710004d0def9%3A0x7f509437adade0a1&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.278779899999996,
-            "longitude": -123.11295559999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-d7QBABxhlQRoeCtrTeUUH8",
-          "provider_id": "/g/11z2ms6l1_",
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3-OC1dzhlQR1sjnaqsPMlA",
+          "provider_id": "/g/11sg7_0s6r",
           "rating": 4.6,
-          "reviews": 328,
-          "type": "Restaurant",
-          "types": [
-            "Restaurant"
-          ],
-          "address": "160 W Georgia St, Vancouver, BC V6B 4P4, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 8 PM",
-          "hours": "Open · Closes 8 PM",
-          "operating_hours": {
-            "tuesday": "8 AM–8 PM",
-            "wednesday": "8 AM–8 PM",
-            "thursday": "8 AM–8 PM",
-            "friday": "8 AM–8 PM",
-            "saturday": "8 AM–8 PM",
-            "sunday": "8 AM–8 PM",
-            "monday": "8 AM–8 PM"
-          },
-          "website": "https://bambam.cafe/",
-          "extensions": [
-            {
-              "accessibility": [
-                "Wheelchair accessible entrance"
-              ]
-            }
-          ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlkBBzzv8JWzW8ynF1PZqMndeFComVuEq442spEBLu42qiM67lJbz3IzU1ID_ynm4lfXw01FZ0veeJPiIKIM8pIP3Zd_hP6fpYBhPrNrYe0CNctEKQ8QQke0a8xd78IyycQODfRDdGXst0=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/_zD4ynicHcTBboIwAADQL0KKEG2W7CACWhRXjA7lYrZSqLG0hRaVfqT3_Y3J3uH9vZgxSn-4Lmf-pJGy4XTQtCdSGCrMhMjWbZR2iHa0u1jv8aHgtzC09g7TwhZwFImHyy4TFU2Wsv0e4i4IplrF4XYIpt01m815-mt9ZI8eii6jaANenx7AS0pwpzTFV7RBGVQI-2V1YXhWq3PIcL_rzxQsd8TEmxzm-Y2CH_is5hCNI8m_onofVauTNuDz4QEAHPY_ccQbZJxG1A"
-        },
-        {
-          "position": 12,
-          "title": "Café Kitsuné Vancouver",
-          "place_id": "ChIJWxeGx6dxhlQRcaNiRAgIcnY",
-          "data_id": "0x548671a7c786175b:0x767208084462a371",
-          "data_cid": "8534893075420586865",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671a7c786175b%3A0x767208084462a371&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671a7c786175b%3A0x767208084462a371&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.2843065,
-            "longitude": -123.1081107
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWxeGx6dxhlQRcaNiRAgIcnY",
-          "provider_id": "/g/11rxwh6lqx",
-          "rating": 4.3,
-          "reviews": 457,
+          "reviews": 306,
+          "price": "CA$10–20",
+          "extracted_price": 10,
           "type": "Coffee shop",
           "types": [
             "Coffee shop"
           ],
-          "address": "157 Water St, Vancouver, BC V6B 1A7, Canada",
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop"
+          ],
+          "address": "511 W 7th Ave, Vancouver, BC V5Z 1B4, Canada",
           "country": "Canada",
-          "open_state": "Open · Closes 5:30 PM",
-          "hours": "Open · Closes 5:30 PM",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
           "operating_hours": {
-            "tuesday": "10:30 AM–5:30 PM",
-            "wednesday": "10:30 AM–5:30 PM",
-            "thursday": "10:30 AM–5:30 PM",
-            "friday": "10:30 AM–5:30 PM",
-            "saturday": "10:30 AM–5:30 PM",
-            "sunday": "10:30 AM–5:30 PM",
-            "monday": "10:30 AM–5:30 PM"
+            "wednesday": "8 AM–6 PM",
+            "thursday": "8 AM–6 PM",
+            "friday": "8 AM–6 PM",
+            "saturday": "10 AM–5 PM",
+            "sunday": "10 AM–5 PM",
+            "monday": "8 AM–6 PM",
+            "tuesday": "8 AM–6 PM"
           },
-          "phone": "+1 236-477-4777",
-          "website": "http://www.cafekitsune.com/",
+          "phone": "+1 236-997-0831",
+          "website": "https://www.cafeandlifeco.com/",
           "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance",
                 "Wheelchair accessible restroom",
                 "Wheelchair accessible seating"
               ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Happy hour food",
+                "Organic dishes",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Catering",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Paid street parking",
+                "Usually plenty of parking"
+              ]
             }
           ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDgBBAprE2iGTKZ2G6eMP1lgG_gwPMxp4ScXA4rti37A2HJSMUX6NXUT_0fgNdr3hOx6RruGkeQbWMJ4Zoi2_eoZQQIGYkS3g9wqYgL5MLZaONaYLmkRprwyrpUmYxvWhxEdBYcgIDcO8F=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/Uzyd83icHcRJboMwFADQExEIUDpIXYCSOEmZB4HZoMRxvxGDXdsp9JRZ9zaV-hbv98G0FurNNEfmbIBzGOldUUn4rOmsN4RPJghlEGUo0z_maVnPOwgCX8i93aPyo7WRR6N0OwLqYEmjVbgFaXxX6t559u3juYiqxoubquysT4hv0mHJ6uXyjgaaXevo7La8tzvK2yw7ITwUDrwuXxjCpyhsL0l8weE05EIuP1JUE16_a7bubwEmcNqR5OXwvmwtyzLY_8SY_wBiBkec"
-        },
-        {
-          "position": 13,
-          "title": "Let's Matcha",
-          "place_id": "ChIJx9bB0Al0hlQRCVfSY50e2aE",
-          "data_id": "0x54867409d0c1d6c7:0xa1d91e9d63d25709",
-          "data_cid": "11662386371386038025",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867409d0c1d6c7%3A0xa1d91e9d63d25709&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x54867409d0c1d6c7%3A0xa1d91e9d63d25709&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 62.6573279,
-            "longitude": -95.989235
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx9bB0Al0hlQRCVfSY50e2aE",
-          "provider_id": "/g/11btwr_fmh",
-          "rating": 4.3,
-          "reviews": 12,
-          "type": "Tea store",
-          "types": [
-            "Tea store",
-            "Service establishment"
+          "unsupported_extensions": [
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
           ],
-          "open_state": "Open 24 hours",
-          "hours": "Open 24 hours",
-          "operating_hours": {
-            "tuesday": "Open 24 hours",
-            "wednesday": "Open 24 hours",
-            "thursday": "Open 24 hours",
-            "friday": "Open 24 hours",
-            "saturday": "Open 24 hours",
-            "sunday": "Open 24 hours",
-            "monday": "Open 24 hours"
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
           },
-          "website": "http://www.letsmatcha.com/",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMziK9YF9qSN963FPAYj4iF_w215SjZTgdwo3jRMRVIUQuDnhUsf09nh-DDbaimpSN0-ZtnaSrA6ycG9M3FnJev7AiwltkrHyVGLWMH7P8Vm1wbfDvgbVWYk-kS_X3KmVaHE2n=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/efsC1XicHcTdboIwGADQJ6oUu6ldsgsShmyKYVTL8MZAhy1_XxmtNu4F9wx7GxPPxfn_U9aO5sXzekVmUmvZ1xdTT0KDrcHOhB48ORokDDJeEGfpPofkt9nQIqI_bEcXJEqDon1qopOb-8-sPe7lt9OkzZKMvx8-LyGogzljCgqFYVU2w8h2GB0tlGwKFjexpgmJ4KO-LoPG9bab4htfb_MkXqYrPviuOodXWfG86FDHTl9kM_AyfpvDq_Mxxkg9FgjuHRFELA"
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFzZzdfMHM2chgAOgMI8A0%3D&g2lbs=AEzIGDvNDQvitPIhpQG6Mf9sgypWHpZyeaXkARPEQLwLILC_MhaOhyHGJ1hYlrEJD_RQURsnEZzl&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHk3JL2cUORERlxI3ZAYXY4Gzegdv6Eh11pqE4g8X_Ovt_JqPwSJY7-F56P7bgaWGmKbIRPSNGIkVxF_4AKkwX5K1QH5eB0iqPgy_n273tHH3PQVu4n-Eqjffa4_l5FE_vTEhaRQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/NsRHuXicHcRdToMwAADgE3XAWoYx8QGTQgHjSvcD-NKw2rUKK2A7mN7QI3ibJX4P39-vdm60j57Xa7hSw6B6ebXySwzGSeNWYrh4arRAWGC9mDC6rzrSwfxlLQ5bhll_y-Bb3NQNSn-kep83WAfBOGGkHmq-nR3PJ7rs8iYCSbih0Um1VXopThmju9c06463hKO46JY6LIKShPLZ_5io-uZmHUFHCKTl8YoMwNPn-dwi3ocJ5vMe65aVT0vg-z7Q_wtg7lawQ58"
         },
         {
-          "position": 14,
-          "title": "Amberdo Cafe & Bakery",
-          "place_id": "ChIJCXxEiZpxhlQRfv9IW5oQtBE",
-          "data_id": "0x5486719a89447c09:0x11b4109a5b48ff7e",
-          "data_cid": "1275662849595211646",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486719a89447c09%3A0x11b4109a5b48ff7e&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x5486719a89447c09%3A0x11b4109a5b48ff7e&engine=google_maps_photos&hl=en",
+          "position": 3,
+          "title": "Pacific Central Station Cappuccino Bar",
+          "place_id": "ChIJ5URWK2RxhlQRd_OkNQeedeI",
+          "data_id": "0x548671642b5644e5:0xe2759e0735a4f377",
+          "data_cid": "16318122578648822647",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671642b5644e5%3A0xe2759e0735a4f377&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671642b5644e5%3A0xe2759e0735a4f377&engine=google_maps_photos&hl=en",
           "gps_coordinates": {
-            "latitude": 49.2882392,
-            "longitude": -123.12750319999999
+            "latitude": 49.2737759,
+            "longitude": -123.097836
           },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCXxEiZpxhlQRfv9IW5oQtBE",
-          "provider_id": "/g/11nb2wssbd",
-          "rating": 4.9,
-          "reviews": 124,
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5URWK2RxhlQRd_OkNQeedeI",
+          "provider_id": "/g/1hc5zyd5p",
+          "rating": 4.6,
+          "reviews": 42,
+          "price": "CA$1–10",
+          "extracted_price": 1,
           "type": "Coffee shop",
           "types": [
-            "Coffee shop"
+            "Coffee shop",
+            "Cafe"
           ],
-          "address": "1328 W Georgia St, Vancouver, BC V6E 4N9, Canada",
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "cafe"
+          ],
+          "address": "1150 Station St #143, Vancouver, BC V6A 4C7, Canada",
           "country": "Canada",
-          "open_state": "Open · Closes 5 PM",
-          "hours": "Open · Closes 5 PM",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
           "operating_hours": {
-            "tuesday": "8 AM–5 PM",
-            "wednesday": "8 AM–5 PM",
-            "thursday": "8 AM–5 PM",
-            "friday": "8 AM–5 PM",
-            "saturday": "8 AM–5 PM",
-            "sunday": "8 AM–5 PM",
-            "monday": "8 AM–5 PM"
+            "wednesday": "6 AM–4 PM",
+            "thursday": "6 AM–4 PM",
+            "friday": "6 AM–4 PM",
+            "saturday": "6 AM–4 PM",
+            "sunday": "6 AM–4 PM",
+            "monday": "6 AM–4 PM",
+            "tuesday": "6 AM–4 PM"
           },
-          "phone": "+1 778-951-2814",
-          "website": "https://amberdogeorgia.com/",
           "extensions": [
+            {
+              "service_options": [
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Solo dining"
+              ]
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance"
               ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Dessert"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
             }
           ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc-YkkOrxiIH8QJatpKxpCZD7CFS5sl-xqPrGD2QmpDL2MsJ6rcfrPQ4k21XOQlIZPeE3n3UavqEb3ZCFDLeCR025ZoBVjtKM6SwIW64dTH8Dk-LMLRxFPskI9nGYfzA7DKeAsj6c560k=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/PTohjHicHcRBcoIwFADQE0UiSLSd6YISEQTGgLZWdjaNUINJzI-V8ZDuvY0zfYv3uHfOGXj1vL4LRq3WbS8uICzXygnlRlyfvNYA4oDAi9KabbaKo52UKzv8ZumsWu6dyQcTN3QaJ-sQejScmV1QvzoZWvglLInlB8uqifTHX6uqzxom5oEKPvZ_5_l30MQJLURcYz9s9Pvn0eUlWV-zLZn8bNIZlagoi3pIGMjsRS12h1s0pbmI4Eh4SLB8u44xxqj7nyP1BPgtRSw"
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-III-Jr4_9zuTKhWvtkeE4pAAVAKnRCNU7pBFFTj6hVemNb6wKir6T9NHcCg9opuTdeokbMQ3lLHF3ybl56mcrqOwRskHkWyXnLRw5YIno09JDC2EiZ2T-VK0t--opj-PqR8x0JNOBC55=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/xmO_1HicHcTdboIwGADQJ_qkE2FjiRfIIPw41KYD3c0SuoZioa20iO4lvd7bLNm5OL8Pbq02r47Tc3fRKtX2bDJspEpaJu2CqsFptQFqwDhhivekFpBlGeTj6iv4mUjB66sVLF7pMKzCQuKo_HjWmyQhZ59XbCgbfy660SdBmdKoDZSeyDdTonk_uP02Tdx703v-QMfLbsZGpKK-H-UWz94pkwoF-Vu0jLvPJYGqQBZA6TPsL_jlhvJyt4k8bz0_IYSA_09B_gFhTkYK"
         },
         {
-          "position": 15,
-          "title": "lovelarte",
-          "place_id": "ChIJgaWgg35xhlQRO-fJYBdEoDM",
-          "data_id": "0x5486717e83a0a581:0x33a0441760c9e73b",
-          "data_cid": "3720048159406810939",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486717e83a0a581%3A0x33a0441760c9e73b&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x5486717e83a0a581%3A0x33a0441760c9e73b&engine=google_maps_photos&hl=en",
+          "position": 4,
+          "title": "comma cafe",
+          "place_id": "ChIJkbrtyrpzhlQRsPUF9m71aZU",
+          "data_id": "0x548673bacaedba91:0x9569f56ef605f5b0",
+          "data_cid": "10766406241128674736",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673bacaedba91%3A0x9569f56ef605f5b0&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673bacaedba91%3A0x9569f56ef605f5b0&engine=google_maps_photos&hl=en",
           "gps_coordinates": {
-            "latitude": 49.2791964,
-            "longitude": -123.11606809999999
+            "latitude": 49.2568633,
+            "longitude": -123.1269471
           },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgaWgg35xhlQRO-fJYBdEoDM",
-          "provider_id": "/g/11dxskxn7n",
-          "rating": 4.6,
-          "reviews": 825,
-          "type": "Cafe",
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkbrtyrpzhlQRsPUF9m71aZU",
+          "provider_id": "/g/11v0t6lmdw",
+          "rating": 4.7,
+          "reviews": 351,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "type": "Coffee shop",
           "types": [
-            "Cafe",
-            "Bakery",
-            "Coffee roastery",
             "Coffee shop",
-            "Patisserie"
+            "Bakery",
+            "Cafe",
+            "Lunch restaurant"
           ],
-          "address": "345 Robson St #101, Vancouver, BC V6B 0H3, Canada",
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "bakery",
+            "cafe",
+            "lunch_restaurant"
+          ],
+          "address": "3208 Oak St, Vancouver, BC V6H 2L3, Canada",
           "country": "Canada",
           "open_state": "Open · Closes 5 PM",
           "hours": "Open · Closes 5 PM",
           "operating_hours": {
-            "tuesday": "7 AM–5 PM",
+            "wednesday": "7:30 AM–5 PM",
+            "thursday": "7:30 AM–5 PM",
+            "friday": "7:30 AM–5 PM",
+            "saturday": "8 AM–6 PM",
+            "sunday": "8 AM–6 PM",
+            "monday": "7:30 AM–5 PM",
+            "tuesday": "7:30 AM–5 PM"
+          },
+          "website": "https://instagram.com/commacafevan?igshid=MzNlNGNkZWQ4Mg==",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "College students",
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids",
+                "High chairs"
+              ]
+            },
+            {
+              "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Paid parking lot",
+                "Usually plenty of parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHrddDhZWyM9nlDr78BEhlewxEHdCULrqYIA2CSxlYAlvgVVUyO4ty9ycfg9ajBHXf_qwQPT_9nNGlCbyFIRZNZf2BNFox-hqC_OXmOs7RvdJMb8JmokNVC_6umNg_jxkcAX8=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/JLgMZ3icHcRLjoIwAADQE1VQJwqTzAIqikaLoiKwabRAG-1HaBV6Qe8wt5lk3uL9fpgxT_3tOJxNR1QpyuuXrjuipKmlGRElHPrUgGignSBO96eLiLuqWrDyYne-5Itu7oUR43U_RHEFz9uuLdbBBB4HXgT8TbPsbJMvY31LGupf72GcN7jtD_sT9iVacXizy3VaorKZhGipBsBaiJNcJHqevqvN7uZthHqgDOLZSyCK78ODBLn3049d1wXsfwLkH5yVRcU"
+        },
+        {
+          "position": 5,
+          "title": "Kranky Cafe in Mount Pleasant",
+          "place_id": "ChIJbw1_1V9xhlQR91y5-OWMdWg",
+          "data_id": "0x5486715fd57f0d6f:0x68758ce5f8b95cf7",
+          "data_cid": "7527077271567949047",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486715fd57f0d6f%3A0x68758ce5f8b95cf7&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486715fd57f0d6f%3A0x68758ce5f8b95cf7&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2671303,
+            "longitude": -123.09985669999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbw1_1V9xhlQR91y5-OWMdWg",
+          "provider_id": "/g/1v_z8lkd",
+          "rating": 4.6,
+          "reviews": 411,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Cafe",
+            "Lunch restaurant"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "breakfast_restaurant",
+            "cafe",
+            "lunch_restaurant"
+          ],
+          "address": "228 E 4th Ave, Vancouver, BC V5T 1G5, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5 PM",
+          "hours": "Open · Closes 5 PM",
+          "operating_hours": {
             "wednesday": "7 AM–5 PM",
             "thursday": "7 AM–5 PM",
             "friday": "7 AM–5 PM",
-            "saturday": "7 AM–5 PM",
-            "sunday": "7 AM–5 PM",
-            "monday": "7 AM–5 PM"
+            "saturday": "8 AM–5 PM",
+            "sunday": "8 AM–5 PM",
+            "monday": "7 AM–5 PM",
+            "tuesday": "7 AM–5 PM"
           },
-          "phone": "+1 604-599-7856",
-          "website": "http://www.lovelarte.com/",
+          "phone": "+1 604-568-4272",
+          "website": "http://www.krankycafe.com/",
+          "description": "Light bites & brews in snug, homey digs. Cozy, quirky coffee shop with sandwiches & Jamaican patties, plus homemade baked goods, beer & wine.",
           "extensions": [
+            {
+              "from_the_business": [
+                "Identifies as women-owned"
+              ]
+            },
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance",
-                "Wheelchair accessible restroom",
                 "Wheelchair accessible seating"
               ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Happy hour food",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid street parking",
+                "Usually somewhat difficult to find a space"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed",
+                "Dogs allowed outside"
+              ]
             }
           ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlCgkOM7qIYuQ1rl7ociTFISw257Vc6kJeiSXsprYisc1sdm4g_TVoRgLeQGaqufzqzRRk0JvkMxrQ1A7KbsDC2gBXuFwFx7KLLHUwiHnEmzd5uQli_gd73zbEwSVtOWOEiFZRb-g=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/B8mXSHicHcTRToMwFADQL-qAzdnExIc5QbaxIAXZ5ssipV4aCgVuaxf-0E_Y35h4Hs79tzFmwCfPU81qAVqDEhbFxHVvRG8WXHceDEg4EvQ2MXsvTmoLbXqk4-5is2BSVHNZRLvcLde05I_tXsj8jMN0kcgDrLsHuBalZpCI7O1rtN_zODPW-vuf9nibsmBDDxW-bpfwcraRi270kCTxh5NxH3ZzvbaZkleo6WquQpeXJj2loYw-WUXg2QW-75Pmf076P3kSRuM"
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2xtMSFdT5hJcwdMORAxYJl0VHkC0IvrpXhh0yFezple9N7gkBulGE82dEtQz2V4uiTG0ivpOeUMT5kEhlQh0JV6yhMDf6HIoxNF6d82wvVmVy3qCvPxyDzNLHdLwWT8zRwWGwzQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/ZulsSHicHcRNcoIwGADQEyEpKqWd6cIqPzKCQtNg10nK5xBIagKB3LBH6G2c6Vu8v18wRulX3xewXrVStoKPmt-pHAwfzIrK3m-V9qj2tL_L6gtu-mA2xUfC8BZyallxrnfzVy4Qybo9Ok53dQVAS8KdEvylfG6791GkcRSw2FQuIJvxhlN0m9SZfxZ428UgKkA5CRcoDt9hdpRzmYQsCuxEerKsf_bTZV4Orjxl7GQbHLnaNql11Zt9Qgh58D_1hgcs_kZV"
         },
         {
-          "position": 16,
-          "title": "Caffe Mira",
-          "place_id": "ChIJxcq1bRdzhlQRB_tKXz2MA28",
-          "data_id": "0x548673176db5cac5:0x6f038c3d5f4afb07",
-          "data_cid": "7999391558359776007",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673176db5cac5%3A0x6f038c3d5f4afb07&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548673176db5cac5%3A0x6f038c3d5f4afb07&engine=google_maps_photos&hl=en",
+          "position": 6,
+          "title": "Trees Organic Coffee University Canada West (UCW)",
+          "place_id": "ChIJZ3HRzX9zhlQRGamE2_UBK5w",
+          "data_id": "0x5486737fcdd17167:0x9c2b01f5db84a919",
+          "data_cid": "11253090249376835865",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486737fcdd17167%3A0x9c2b01f5db84a919&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486737fcdd17167%3A0x9c2b01f5db84a919&engine=google_maps_photos&hl=en",
           "gps_coordinates": {
-            "latitude": 49.2787953,
-            "longitude": -123.13002089999999
+            "latitude": 49.2745475,
+            "longitude": -123.1304309
           },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxcq1bRdzhlQRB_tKXz2MA28",
-          "provider_id": "/g/11hfbwpbs9",
-          "rating": 4.6,
-          "reviews": 743,
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ3HRzX9zhlQRGamE2_UBK5w",
+          "provider_id": "/g/11yvtntp20",
+          "rating": 4.5,
+          "reviews": 39,
+          "price": "CA$10–20",
+          "extracted_price": 10,
           "type": "Coffee shop",
           "types": [
             "Coffee shop"
           ],
-          "address": "1225 Burrard St, Vancouver, BC V6Z 1Z5, Canada",
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop"
+          ],
+          "address": "1461 Granville St, Vancouver, BC V6Z 0E5, Canada",
           "country": "Canada",
-          "open_state": "Open · Closes 5:30 PM",
-          "hours": "Open · Closes 5:30 PM",
+          "open_state": "Open · Closes 9 PM",
+          "hours": "Open · Closes 9 PM",
           "operating_hours": {
-            "tuesday": "7 AM–5:30 PM",
-            "wednesday": "7 AM–5:30 PM",
-            "thursday": "7 AM–5:30 PM",
-            "friday": "7 AM–5:30 PM",
-            "saturday": "8 AM–6 PM",
-            "sunday": "8 AM–6 PM",
-            "monday": "7 AM–5:30 PM"
+            "wednesday": "7 AM–9 PM",
+            "thursday": "7 AM–9 PM",
+            "friday": "7 AM–9 PM",
+            "saturday": "7 AM–9 PM",
+            "sunday": "7 AM–9 PM",
+            "monday": "7 AM–9 PM",
+            "tuesday": "7 AM–9 PM"
           },
-          "phone": "+1 604-423-9388",
-          "website": "http://caffemira.com/",
+          "phone": "+1 236-622-2823",
           "extensions": [
             {
-              "accessibility": [
-                "Wheelchair accessible entrance",
-                "Wheelchair accessible restroom"
+              "service_options": [
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
               ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoZmJ3cGJzORgAOgMI8A0%3D&g2lbs=AEzIGDvow2SqJJKK0IQAk3aKtH-9B9tX1oMWP1iOCfE1yl0TXlbgjsLe0zvsC33Z1QSerx8xB5x9&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlVC0XTfTOV95MMrWILBZTpU4HGR8XkPRjIOmE4s6DPcC349FWwN6kM9P0MnWtd7WeC6hJddrfYRPWdOEoxPrMRnIPvkwdH_wCqyccc8F05XHKdo52iVjzpSMIOY33kEzErHJW=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/WXrTOnicHcRLcoIwAADQEwGpfCrOuGgRG9RIJlKCbrpI-CiQYBJFvaBn8DbO9C3e69kYM-iZ43SNa9dS1l150aViUphSGJvJ3qkHbTFtaecLEpzRvssjUGRVluahj5Ciyeb7kA2_Hvwh06LF5JSkfezpYIFZ5Hrhko7boEUhBkhQwz9pGQXNinNV7QmmPI3lDStERIKv7cjh3xid74yx6RL4BVxz6U-O-ekx7FCS7l23jR-xgis6Hz8AAFbzP7PEG9WjQ5c"
-        },
-        {
-          "position": 17,
-          "title": "My Honey's Buns",
-          "place_id": "ChIJG7Fu3YFxhlQRAbENE7Xs2G4",
-          "data_id": "0x54867181dd6eb11b:0x6ed8ecb5130db101",
-          "data_cid": "7987394201594474753",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867181dd6eb11b%3A0x6ed8ecb5130db101&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x54867181dd6eb11b%3A0x6ed8ecb5130db101&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.284143699999994,
-            "longitude": -123.11990159999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG7Fu3YFxhlQRAbENE7Xs2G4",
-          "provider_id": "/g/1v42fh7s",
-          "rating": 4.7,
-          "reviews": 175,
-          "type": "Cafe",
-          "types": [
-            "Cafe"
-          ],
-          "address": "925 W Georgia St #110, Vancouver, BC V6C 3L2, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 4:30 PM",
-          "hours": "Open · Closes 4:30 PM",
-          "operating_hours": {
-            "tuesday": "7 AM–4:30 PM",
-            "wednesday": "7 AM–4:30 PM",
-            "thursday": "7 AM–4:30 PM",
-            "friday": "7 AM–4:30 PM",
-            "saturday": "10 AM–3 PM",
-            "sunday": "Closed",
-            "monday": "7 AM–4:30 PM"
-          },
-          "phone": "+1 778-859-1331",
-          "website": "http://eadacoffee.com/",
-          "extensions": [
+            },
             {
-              "accessibility": [
-                "Wheelchair accessible entrance",
-                "Wheelchair accessible restroom"
+              "highlights": [
+                "Great coffee"
               ]
-            }
-          ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlisuH0fO4Q-lU3ulOh7sd9RdHYKIS7g1hcImvrzVM0pn4Z15WthiHWKNyAGz-7fG3Zozc3sVfIQ0XAV9krBe9QkRfeAyVYrVuZQDdkelaZ3YVzdQbCziSWmzi1_mI2QMgx-5zFSQ=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/-5rQdXicHcTbDoIgAADQLyIxas62HqxWutYFLUxfWiGCE8UJduEP-4T-pq3zcL4fYUynZ44jBRpxpbhkg2Y9Va1hrRlR1Ti804BqoJ0gjI-nVFZ6CGF5mGAgz2iQB-Hpwo-LMNtGicddQaPm0Vuyg107yd1pakQVptv9O9hY4JUblCtLkSZlhOElIH7dL5iP67hkwZtkPRlyvCpqJm85yogt8H1pqyRtbOVem2iMd_wFpnad4PnThRAC8Z-C9gf8NEXD"
-        },
-        {
-          "position": 18,
-          "title": "Eli Cafe",
-          "place_id": "ChIJ_6HHO-NzhlQRVmVsobzyowQ",
-          "data_id": "0x548673e33bc7a1ff:0x4a3f2bca16c6556",
-          "data_cid": "334377689331557718",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673e33bc7a1ff%3A0x4a3f2bca16c6556&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548673e33bc7a1ff%3A0x4a3f2bca16c6556&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.281656399999996,
-            "longitude": -123.13381679999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_6HHO-NzhlQRVmVsobzyowQ",
-          "provider_id": "/g/11mlcjgghl",
-          "rating": 4.9,
-          "reviews": 172,
-          "type": "Coffee shop",
-          "types": [
-            "Coffee shop"
-          ],
-          "address": "1207 Bute St, Vancouver, BC V6E 1Z4, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 6 PM",
-          "hours": "Open · Closes 6 PM",
-          "operating_hours": {
-            "tuesday": "8 AM–6 PM",
-            "wednesday": "8 AM–6 PM",
-            "thursday": "8 AM–6 PM",
-            "friday": "8 AM–6:30 PM",
-            "saturday": "8 AM–6 PM",
-            "sunday": "8 AM–6 PM",
-            "monday": "8:30 AM–6 PM"
-          },
-          "phone": "+1 778-554-2007",
-          "extensions": [
+            },
+            {
+              "popular_for": [
+                "Solo dining"
+              ]
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance"
               ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Dessert"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Trendy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
             }
           ],
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQNLa-XCq9v64iKBxxEeCEgcHBZSY8gqSiBuiUOiyejIcZKUlmpyLBP_XUcLBvNt7kpPZFI5QPvy4W_HnJqmvlFUCQ_6eO4Gsh_f-tpfYVxrVvwbypwDvgIRvCvil4RONqA48C3OgTtyVF=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/hSBq6XicHcTNboIwAADgJ6qw2Dk18WCrCJPwp6ByIdrU0lmg2FroU3re2yzZd_h-37XWUi0dR9TTCes6JuhL0SfpWk1bPSFd4zCpAFFAOWs_S46nJo3CKzjjfmFmkO_ROG4p3jLio_JwmbP-wNGL5zG39Ccg5T4XjbQhSqpzTkJkIv31kEnpBZ9pYiw8VX773TdGeDlOqxmN4U7V1R1oeb8U47Mww83KYWNYkBlsuIBZHPVrOMfTmB21LbzV8OG6Lqj_J6D9AxVKSQk"
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5dnRudHAyMBgAOgMI8A0%3D&g2lbs=AEzIGDvRe1x17HnXWKf91LHx1ZrUaDBujih3NTUiDpN9OxJBKyFsRgIg6xdWglGr3QAIKZsyPjL3&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmIjqy40RC-vtPB-mifk-ay2-3I1uXSSPpP2jz5KetVw3wy-Yhk5Hc_V38qlFs4wkT4fKeAWlhaBFkE7QRU0xSBk_4qqzCciM_nEZed2YE-G7h2KnHpbJhAwqX_kI3D7rsFysX6t_yjt9J=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/vHJAvHicHcTBboIwGADgJ_qlUhzbkh1AYSBZwsAp7tJoV6kUCrV1XX3JnX2bJfsO3_2XGzPpZ8_rOZ6149j27KrZhY7SMGlmdBy8dtJANWgvyqpysxND3ikXoGoJ36aMYTifBBycDzifX5u6LqfS726LgpmtxdbBnotFRskWP6o-1YEVm-BUsGjX80OciiR8rz7QTx0LEih1W9LzG5HJJ_vy9wm8htwvZDYd1zyyqiEix6vwolOnmwdDXGee1i92jhAC_j8F-QeK60dx"
         },
         {
-          "position": 19,
+          "position": 7,
+          "title": "Prototype Coffee",
+          "place_id": "ChIJw_Lf8Y5xhlQRUowOM5ksZK0",
+          "data_id": "0x5486718ef1dff2c3:0xad642c99330e8c52",
+          "data_cid": "12494160302730808402",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486718ef1dff2c3%3A0xad642c99330e8c52&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486718ef1dff2c3%3A0xad642c99330e8c52&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2812774,
+            "longitude": -123.0852931
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw_Lf8Y5xhlQRUowOM5ksZK0",
+          "provider_id": "/g/11fmprml53",
+          "rating": 4.7,
+          "reviews": 689,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Cafe"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "cafe"
+          ],
+          "address": "883 E Hastings St, Vancouver, BC V6A 1R8, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–4 PM",
+            "thursday": "8 AM–4 PM",
+            "friday": "8 AM–4 PM",
+            "saturday": "9 AM–5 PM",
+            "sunday": "9 AM–4 PM",
+            "monday": "8 AM–4 PM",
+            "tuesday": "8 AM–4 PM"
+          },
+          "phone": "+1 604-251-6451",
+          "website": "https://www.prototypecoffee.ca/",
+          "extensions": [
+            {
+              "service_options": [
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Dessert"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Quiet",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "Tourists"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid street parking",
+                "Usually plenty of parking"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFmbXBybWw1MxgAOgMI8A0%3D&g2lbs=AEzIGDu0RkKfH9mI__JfKEpnUsdJHiVP5l7Dzt0N9AqKESTDVho1awWmNUHXzheFh2AgEoCABg_2&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlPWCHRjLQ9weCYp87i1WxrqefGct27kh_RsZxj0NF4y2yVBvi-XoQfifNJJnwTYTvybdd-g96TD3pUGzrEKklWd__gVry7OpElB5sJDYhlLJSUIKUF9AC9OYYPbnIL_vPSuM=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/NaketnicHcRLEoIgAADQE5H2NZtpUfY1KzXNaONMiGARkJBmB-wO3aaZ3uJ9P1RrqUaGwWi3RYQgDD8VLpHgGnPdQuJuEKkAUkAZk1XoRwlnfuKswqsX2DV2oBxaRTt5lQ-cL5HuWDeahur8upq7Ra_pNMdpVYCTCPIi37kuryMYVc0lywCxB9GsK-Plu5xvbizJ0pQcy8bayzmb9pU7g5R57iFeb-KFPXHsPYT-ha-9tPIPz-24bpumCeh_BPgPbF9E_A"
+        },
+        {
+          "position": 8,
           "title": "Chez nous Bakery & Coffee",
           "place_id": "ChIJh9H7QoZzhlQRXBs6VrXS3pc",
           "data_id": "0x5486738642fbd187:0x97ded2b5563a1b5c",
@@ -860,101 +1026,1867 @@
           "provider_id": "/g/11x2g4byyp",
           "rating": 4.6,
           "reviews": 431,
-          "type": "Bakery",
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
           "types": [
-            "Bakery",
+            "Coffee shop",
             "Brunch restaurant",
             "Catering food and drink supplier",
-            "Coffee shop",
+            "Bakery",
             "Coffee store",
             "Sweets and dessert buffet",
             "Dessert shop",
             "Pastry shop",
             "Tea house"
           ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "brunch_restaurant",
+            "catering_food_and_drink_supplies",
+            "bakery",
+            "coffee_store",
+            "dessert_buffet",
+            "dessert_shop",
+            "pastry_shop",
+            "tea_house"
+          ],
           "address": "1262 Homer St, Vancouver, BC V6B 2Y5, Canada",
           "country": "Canada",
           "open_state": "Open · Closes 6 PM",
           "hours": "Open · Closes 6 PM",
           "operating_hours": {
-            "tuesday": "8 AM–6 PM",
             "wednesday": "8 AM–6 PM",
             "thursday": "8 AM–6 PM",
             "friday": "8 AM–6 PM",
             "saturday": "8 AM–6 PM",
             "sunday": "8 AM–6 PM",
-            "monday": "Closed"
+            "monday": "Closed",
+            "tuesday": "8 AM–6 PM"
           },
           "phone": "+1 236-818-7196",
           "website": "http://cheznousbakery.com/",
           "extensions": [
             {
-              "accessibility": [
-                "Wheelchair accessible entrance",
-                "Wheelchair accessible restroom",
-                "Wheelchair accessible seating"
+              "service_options": [
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
               ]
-            }
-          ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4Mmc0Ynl5cBgCOgMI8A0%3D&g2lbs=AEzIGDusgRI4Cfl_-rPW1dunkSZ7v4ve97ggYfLAlJ9m3b2zzTs93bB9Mz4k2DsTwF4a5zrbB4vx&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlsECCLAV-HeFAQZ8mun_f9YKzzNgdF7SN-kHUO7qt6eEuAI5H1eHUZM9bzQ_1mgj9ku7wQd2BjS_wAaorpDrfBWNjLyKXMuX3hn5T_XLYJdl2O92wJh9eGnbyveWKhKi74ZkTVBgxJk18=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/Vdvii3icHcRLcoIwAADQE0U-ajHOdBGsNgJiqSjIhqkQE_kkSJJSuWTXvU1nfIv398uU6uTSMBo2nVAhaEO0JH0huCJcTQrRGrSToJBAGgh_fsRJ28j1ahWgE8Bkg6Js0WqeX-HZH8eQlhvnEIIaH_fOXb2QtUbbObYIPmY7eBmj3GppBWvtDFFpu9UhH9CX6Lu3_uomYRU8_HSn0ynj8zhPg7NXNvYe2oPHIHnnl8c3SXzm35xZVscnl_54tbV4HSzTNAF7XgD-D3ueRys"
-        },
-        {
-          "position": 20,
-          "title": "Monaco Cafe",
-          "place_id": "ChIJxQ-OjRBxhlQRtGrW8532saQ",
-          "data_id": "0x548671108d8e0fc5:0xa4b1f69df3d66ab4",
-          "data_cid": "11867537651359181492",
-          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671108d8e0fc5%3A0xa4b1f69df3d66ab4&engine=google_maps_reviews&hl=en",
-          "photos_link": "https://serpapi.com/search.json?data_id=0x548671108d8e0fc5%3A0xa4b1f69df3d66ab4&engine=google_maps_photos&hl=en",
-          "gps_coordinates": {
-            "latitude": 49.284473,
-            "longitude": -123.11029169999999
-          },
-          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxQ-OjRBxhlQRtGrW8532saQ",
-          "provider_id": "/g/11ty7tcnn0",
-          "rating": 4.3,
-          "reviews": 742,
-          "type": "Coffee shop",
-          "types": [
-            "Coffee shop",
-            "Breakfast restaurant",
-            "Brunch restaurant",
-            "Dessert shop",
-            "Pastry shop"
-          ],
-          "address": "356 Water St, Vancouver, BC V6B 1B6, Canada",
-          "country": "Canada",
-          "open_state": "Open · Closes 11 PM",
-          "hours": "Open · Closes 11 PM",
-          "operating_hours": {
-            "tuesday": "7 AM–11 PM",
-            "wednesday": "7:30 AM–11 PM",
-            "thursday": "7 AM–11 PM",
-            "friday": "7 AM–12:30 AM",
-            "saturday": "7 AM–12:30 AM",
-            "sunday": "7 AM–11 PM",
-            "monday": "7 AM–11 PM"
-          },
-          "phone": "+1 604-566-7111",
-          "website": "http://monacocafe.ca/",
-          "extensions": [
+            },
             {
               "accessibility": [
                 "Wheelchair accessible entrance",
                 "Wheelchair accessible restroom",
                 "Wheelchair accessible seating"
               ]
+            },
+            {
+              "offerings": [
+                "Coffee"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast"
+              ]
+            },
+            {
+              "amenities": [
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "planning": [
+                "Quick visit"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Paid street parking"
+              ]
             }
           ],
-          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0eTd0Y25uMBgAOgMI8A0%3D&g2lbs=AEzIGDtlDro8RcKosd9iPguoUDKsPp_qnbtxpuPBdFtyJW6JCyKI9nFpqIPya35yS1pfD8ciD_9n&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr9rpjZPV_Zm5wt7HZwgMq_WUP4BQqDwx2bltuUCoMqRksxpMab6IkO-qlXgBFodvxoA7y1-x0xjqiUKp1_9x2Q0akQBFvt7My_F0aV6vjHdf16tvGzHskbBbOlPLgrwbKw3Y=w1000-h1000-c-n",
-          "serpapi_thumbnail": "https://serpapi.com/images/url/E3gZ7XicHcRdDoIgAADgE5GYpauth6yZrVzqsh9fnKhhSgJCQh2wO3Sbtr6H7_uppWRibhiktkaYUkyqp6j6gnay6uSooA8DMwEKAYSx9OPweCb9rGdNGp6y9DFV0vFThQOenZNw4kZ8rfQYEflMVjTgcSs0C3Jkb9sD4OSCXY-Wg6ZL52UCDXXD78mOmdlMjyOYt5HrDdIJXpkH85M9NH55M205bN6-aJGLDiTc416hnbKuC2VCCEH9vwDdD9_0Rls"
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4Mmc0Ynl5cBgCOgMI8A0%3D&g2lbs=AEzIGDsr1snh3yijGJHWNcVbcVo-azHSRw4L1UD_iCaC_CJtB1el3mN7W82WHidsqAjdceKx2LRs&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6UpNaBRtUJBIYhYUUqMNwIPQ-0oITZa9QU9CAGN2myk1T3kSTqthpScvC8EX2B3r7tGD8mA01ijMnrpOR6oNcwhx1fPmTmVAGKuL1_BrUclXntkWToBKPedX91iU0l0d7D_6fM_f5ff1C=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/nU4-_3icHcTNboIwAADgJ6q0ElGW7EDRMOZgiK2iF2IqpQ76I63intKzb7Nk3-F7PYVzxr55Xi_8Sat12zc32wxMK9coN2Faeq2xgFlgveijLMi-C6jJT7h09BOnB3Gg9JrlY1psANQpOZ7CDQ3jKMmn8rdDxO-25OqE2bJ7vFhVU-wPc5csFzKC6PKTqcF8l4HO2SgeiBeSyF2UrG9fqMYDZX2lXLcnGq-L5lyF6EJhD8_zZR3wrOYzzlH8PiIIIRD_M6D-AEIERkw"
+        },
+        {
+          "position": 9,
+          "title": "The Mighty Oak",
+          "place_id": "ChIJ7RQhju9zhlQR2Z0mfE2A_2E",
+          "data_id": "0x548673ef8e2114ed:0x61ff804d7c269dd9",
+          "data_cid": "7061503811023969753",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673ef8e2114ed%3A0x61ff804d7c269dd9&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673ef8e2114ed%3A0x61ff804d7c269dd9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2545595,
+            "longitude": -123.10961739999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7RQhju9zhlQR2Z0mfE2A_2E",
+          "provider_id": "/g/12qgldd3w",
+          "rating": 4.7,
+          "reviews": 634,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Cafe",
+            "Gourmet grocery store"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "cafe",
+            "gourmet_grocery_store"
+          ],
+          "address": "198 W 18th Ave, Vancouver, BC V5Y 2A5, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5 PM",
+          "hours": "Open · Closes 5 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–5 PM",
+            "thursday": "8 AM–5 PM",
+            "friday": "8 AM–5 PM",
+            "saturday": "8 AM–5 PM",
+            "sunday": "8 AM–5 PM",
+            "monday": "8 AM–5 PM",
+            "tuesday": "8 AM–5 PM"
+          },
+          "phone": "+1 604-568-1946",
+          "website": "https://themightyoak.ca/",
+          "description": "Stylish espresso bar/gourmet shop & deli. Elegant grocery & coffee shop offering espresso drinks, baked goods, sandwiches & gourmet foods.",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Quick bite",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Usually plenty of parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfa7tRSf7PxvWDmnolgwCG4sOSb2e2zfuFxYp7qe40sDJzCRF_T85B6lOm8wm56zNUxVegrCMJyyCna_kQ1JGLSsvqnOgjIdMnRIiU74yks5zlp2m9jPTEmLVNK3ShEjXETfCc=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/0wkdxnicHcTbEoFAGADgJ0pJCTMuWDnkUCqnK8PaNrWH-JcOL-gZvI0Z38X3_aRKFTDQdZZ2WlRKysgLyBNLoYhQLSy5TgvQMGigj-ZhEB_y5OKoMEqcoHofJlxIRks0s8CPriYxm-Q1rU6F8yCWAROvQeH0HPfscZf5vFdyu9tsdtWe0Cdae3WNxOWcb9vebBXB-yF8mi1uaxEu7jvHqnOwG1aYvJ8FsctX-82yE6VudnTjBOFh2TYMQ0v_Y038ANItRbY"
+        },
+        {
+          "position": 10,
+          "title": "Timber Bistro & Books",
+          "place_id": "ChIJg8FnujRxhlQRUk08MF0udLI",
+          "data_id": "0x54867134ba67c183:0xb2742e5d303c4d52",
+          "data_cid": "12858953813825703250",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867134ba67c183%3A0xb2742e5d303c4d52&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867134ba67c183%3A0xb2742e5d303c4d52&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2616466,
+            "longitude": -123.0491426
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg8FnujRxhlQRUk08MF0udLI",
+          "provider_id": "/g/11dxb4j_zs",
+          "rating": 4.8,
+          "reviews": 20,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe"
+          ],
+          "address": "Slocan St Entrance, 2700 E Broadway, Vancouver, BC V5M 1Y8, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 1:30 PM",
+          "hours": "Open · Closes 1:30 PM",
+          "operating_hours": {
+            "wednesday": "9 AM–1:30 PM",
+            "thursday": "9 AM–3:30 PM",
+            "friday": "Closed",
+            "saturday": "Closed",
+            "sunday": "8:30 AM–2 PM",
+            "monday": "9 AM–1:30 PM",
+            "tuesday": "9 AM–3:30 PM"
+          },
+          "phone": "+1 604-253-2700",
+          "website": "http://broadwaychurch.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Prepared foods",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmUTkXJyh3SH1BmGL7wXqURb5rgBVKv_kJM5X3-MBntTiZX06wT6kNV6Gc74aNWU5KZJYW_OFMLqEkbn91hzZnZa_mWFrSNu4yOzrbzdq3WvnqUL7pIQiRPAha-3vQ7Hh8G4k0A=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/0OUZMnicHcRJDoIwAADAF1VKyqImHiBREAEVwSIXApVQUylLK0Q-6Bv8jYlzmO-HStmJtaI8KVrUbVs_q5eoBtJyWXG5IG2j1J0ARAChWG50inGTxCz13hRdXNVuHN-c0j6JSn2o7ethzJkX6CkCgc1l_MhSaEyxwcKr4RBTK0Kc6IfMu-H8uAv8fstKvlLpnPGsyBu8Gy7hS3sf56Gc7z3CI-8T3-z250d0smgB0Hg2Xbp0NAatzaRCCAH9TwD_ASOsQ_A"
+        },
+        {
+          "position": 11,
+          "title": "The Cockpit Cafe & Lounge",
+          "place_id": "ChIJy1nMo4RxhlQRGAAI7Cc3FIo",
+          "data_id": "0x54867184a3cc59cb:0x8a143727ec080018",
+          "data_cid": "9949638121371467800",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867184a3cc59cb%3A0x8a143727ec080018&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867184a3cc59cb%3A0x8a143727ec080018&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.290287199999995,
+            "longitude": -123.1173836
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy1nMo4RxhlQRGAAI7Cc3FIo",
+          "provider_id": "/g/11c55cw95m",
+          "rating": 4.7,
+          "reviews": 23,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "unclaimed_listing": true,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe"
+          ],
+          "address": "1075 W Waterfront Rd, Vancouver, BC, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
+          "operating_hours": {
+            "wednesday": "9 AM–4 PM",
+            "thursday": "9 AM–4 PM",
+            "friday": "9 AM–4 PM",
+            "saturday": "9 AM–4 PM",
+            "sunday": "9 AM–4 PM",
+            "monday": "9 AM–4 PM",
+            "tuesday": "9 AM–4 PM"
+          },
+          "extensions": [
+            {
+              "service_options": [
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeC_TaRivycd5F4AAL35L_eJAwAYNQUI98n8Q2q3_XTQMcHgnQrzAdN9aHOvFhqUHTtmVsm1xkg-OheqMeK8l6hPFQlpbPL8PzE-iMA5xo_eQbziKjzb8gj3mp8j0s_myRKhEcdw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/MoAN53icHcRdDoIgAADgE5GW2aitB9Zyllri7O-JJTLQBDQoyxt2hG7T1vfwfT_C2tYsHKcR3ohrzRv2MOxOtbJM2RHV0uGtAdQA46AwS_PTja1Ifs2q55uWfjBFKPb8mLAt6tFlhw-bOVQQTzqPnHOc0JArfB9QuZtfw_0zEN0hzK08Gjl-3TjYC9YlLILNTKQBbtoijWE6rEGVIP-lCcPFUEX1UEBee7KFtWuIfGeRWNOyX_Zj13WB-E-B-gHemEX7"
+        },
+        {
+          "position": 12,
+          "title": "Nemesis Coffee Gastown",
+          "place_id": "ChIJRZTroXlxhlQRihHJRYedPys",
+          "data_id": "0x54867179a1eb9445:0x2b3f9d8745c9118a",
+          "data_cid": "3116382671480623498",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867179a1eb9445%3A0x2b3f9d8745c9118a&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867179a1eb9445%3A0x2b3f9d8745c9118a&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.282801199999994,
+            "longitude": -123.11028809999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRZTroXlxhlQRihHJRYedPys",
+          "provider_id": "/g/11c1xdsr7z",
+          "rating": 4.5,
+          "reviews": 2662,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Cafe"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "cafe"
+          ],
+          "address": "302 W Hastings St, Vancouver, BC V6B 2N4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–4 PM",
+            "thursday": "8 AM–4 PM",
+            "friday": "8 AM–4 PM",
+            "saturday": "8 AM–4 PM",
+            "sunday": "8 AM–4 PM",
+            "monday": "8 AM–4 PM",
+            "tuesday": "8 AM–4 PM"
+          },
+          "website": "https://www.nemesis.coffee/",
+          "description": "Laid-back coffee shop serving brunch. Hip, light-filled coffeehouse with artisanal pastries & all-day brunch, plus coffee, tea & kombucha.",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great dessert",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Healthy options",
+                "Quick bite",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Catering",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid street parking",
+                "Usually somewhat difficult to find a space"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMYcaU1xCGEeSfjr0UuE73j6p8M6z_dpWPE0RBENVIHGFY9EE88LuA2NpZzXyiYTNdh_yaYlSKoU-xmhSoWLTcRJ42LkUamNzVs4w9WxxshWfncB8nA91ifNR5sukYO8F4bmY=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/3hJy6nicHcTbDoIgAADQLyKxrLCtB210NWpeInppRiqVAgtd5gf2D_1NW-fhfD-irrWZWFYpBr1CqaLMGpM9uZJ1JuseV5VVaAO4AcbyluE-pnLLeJrY7WyBsyi_P2HS4PHgPtJoO-rOV033GIY-JofVcjFnLsYIBY3XJ_rUHd83FpOrOL9TVkYblYC2EpGiQczDtdMPHklake5gnJdL29YImkvuI-m59i0n4dA0D7ZDc-dSsenLhhAC8Z8D-QPmEEQo"
+        },
+        {
+          "position": 13,
+          "title": "Café Portrait",
+          "place_id": "ChIJkdJ5TNpzhlQRQ9oMzm4g-cY",
+          "data_id": "0x548673da4c79d291:0xc6f9206ece0cda43",
+          "data_cid": "14337526548986124867",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673da4c79d291%3A0xc6f9206ece0cda43&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673da4c79d291%3A0xc6f9206ece0cda43&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.288021699999994,
+            "longitude": -123.1404396
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkdJ5TNpzhlQRQ9oMzm4g-cY",
+          "provider_id": "/g/11fs0bd_xw",
+          "rating": 4.6,
+          "reviews": 1544,
+          "price": "CA$20–30",
+          "extracted_price": 20,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Breakfast restaurant",
+            "Brunch restaurant",
+            "Coffee store",
+            "Lunch restaurant"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe",
+            "breakfast_restaurant",
+            "brunch_restaurant",
+            "coffee_store",
+            "lunch_restaurant"
+          ],
+          "address": "1120 Denman St, Vancouver, BC V6G 2M8, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 3:30 PM",
+          "hours": "Open · Closes 3:30 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–3:30 PM",
+            "thursday": "8 AM–3:30 PM",
+            "friday": "8 AM–3:30 PM",
+            "saturday": "8 AM–3:30 PM",
+            "sunday": "8 AM–3:30 PM",
+            "monday": "8 AM–3:30 PM",
+            "tuesday": "8 AM–3:30 PM"
+          },
+          "phone": "+1 604-915-6993",
+          "website": "http://cafeportrait.com/",
+          "description": "Brunch standards in an arty eatery. Cozy destination with an arty vibe offering classic breakfast options, plus Turkish coffee.",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Solo dining"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Hard liquor",
+                "Healthy options",
+                "Organic dishes",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Counter service",
+                "Dessert",
+                "Seating",
+                "Table service"
+              ]
+            },
+            {
+              "amenities": [
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids",
+                "Has changing table(s)",
+                "High chairs"
+              ]
+            },
+            {
+              "parking": [
+                "Paid parking lot",
+                "Paid street parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwT8slyPBN1Kl9ZdrBczQTeGHevby3Dl_RyUCNLGTD4ZGkFiaS6qWGz7gY8FtzJkQUv0Dh1ex7shF7pXSe4dfwy1dlIcdDhJciMgUClWt5cWfsP5T_go47Gh23WNPjPzejNKDQSpojcVIc=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/W01SXXicHcRNcoIwGADQEyFQUNSZLtQM8ZcJEprWjVM_YiJGgiYV4ZKuextnfIv3_5TW1mbsukoGPaG1UPzP8BvoyvLK9kBfXFEbB4xj3Ml8SyhTDR0a1ZJp4q_UaFfcptCllOM5vx_aAKn9ts1nyRpTFO7wOT79ZoMrw10kfoax7ZbnNL97SPr8ERkZR_V3xsPi2LR-oRZQILmE00bkM8VsH9jRkD7dCx1GWH4ELCEl6XiZrFCa1bqErwV8Nr7neY58D071AvAUSDc"
+        },
+        {
+          "position": 14,
+          "title": "Cafe Lokal",
+          "place_id": "ChIJZy2wsLJzhlQRwGZsQMBiBAk",
+          "data_id": "0x548673b2b0b02d67:0x90462c0406c66c0",
+          "data_cid": "649752824102282944",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673b2b0b02d67%3A0x90462c0406c66c0&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673b2b0b02d67%3A0x90462c0406c66c0&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2681703,
+            "longitude": -123.16473359999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZy2wsLJzhlQRwGZsQMBiBAk",
+          "provider_id": "/g/11c56c2zw_",
+          "rating": 4.7,
+          "reviews": 787,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe"
+          ],
+          "address": "2610 W 4th Ave, Vancouver, BC V6K 1P8, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–4 PM",
+            "thursday": "8 AM–4 PM",
+            "friday": "8 AM–4 PM",
+            "saturday": "8:30 AM–4 PM",
+            "sunday": "8:30 AM–4 PM",
+            "monday": "8 AM–4 PM",
+            "tuesday": "8 AM–4 PM"
+          },
+          "phone": "+1 604-739-0098",
+          "website": "http://www.cafelokal.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Fireplace",
+                "Great coffee",
+                "Great tea selection",
+                "Live music",
+                "Live performances"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Hard liquor",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "Tourists"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+              ]
+            },
+            {
+              "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Paid street parking",
+                "Usually plenty of parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjNTZjMnp3XxgAOgMI8A0%3D&g2lbs=AEzIGDuMuDgAjIBBtoRkunqJK44xw-GU-ps_GsQRwXagdp05M73KGVNKTWibosDJlCvDGIYDYIf3&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3ryQce9AL6BzNF4fYHenFtq1C53hV2Csg2CvxeOMowy0sfv5P9Azts5CuPl86Rqnwx4YKUhWzUNIPdutt3MPfDq5nbDXbINGMmujhJrnxQaR6_MQ9SFH_Wb4XmeaX8WOJk-x9BQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/PisQJHicHcRdEkJAAADgE22Un6GZHtAIRUuJnppsy06xG7siN-wI3aaZvofv-yFCPPlSkmqizCrGqhr3HHeIUYGpmCHWSNWTA8QBlywvgceMKt07Rti0dro9Ra5anj1MXdHOHU0hp4XDq4XzGvE-ZMNb5uVLg6Y1Ca45PawNPWnpMKrnbUqyKY18eOuFUEJYrluNFuu88KNN2PR3EnR0jK-Jfglj8-B6l6xQ8wZfcyPbBw8wmna8GuayLAPyHwH6Awz6RaA"
+        },
+        {
+          "position": 15,
+          "title": "Foglifter Coffee Roasters",
+          "place_id": "ChIJtZ1vTmVzhlQRKYtkWL3vwHs",
+          "data_id": "0x548673654e6f9db5:0x7bc0efbd58648b29",
+          "data_cid": "8917390858704423721",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673654e6f9db5%3A0x7bc0efbd58648b29&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673654e6f9db5%3A0x7bc0efbd58648b29&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.253118199999996,
+            "longitude": -123.1007379
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtZ1vTmVzhlQRKYtkWL3vwHs",
+          "provider_id": "/g/11hdszgfh3",
+          "rating": 4.4,
+          "reviews": 507,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Cafe",
+            "Coffee roastery",
+            "Coffee store"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "cafe",
+            "coffee_roasters",
+            "coffee_store"
+          ],
+          "address": "3590 Main St, Vancouver, BC V5V 3N4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 7 PM",
+          "hours": "Open · Closes 7 PM",
+          "operating_hours": {
+            "wednesday": "6 AM–7 PM",
+            "thursday": "6 AM–7 PM",
+            "friday": "6 AM–7 PM",
+            "saturday": "7 AM–7 PM",
+            "sunday": "7 AM–7 PM",
+            "monday": "6 AM–7 PM",
+            "tuesday": "6 AM–7 PM"
+          },
+          "phone": "+1 604-428-9022",
+          "website": "http://www.fogliftercoffee.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Quick bite",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid parking lot",
+                "Paid street parking",
+                "Usually somewhat difficult to find a space"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmKExfR9gAuBk5TCYIAaxR8L7u5fGdgwlkm3qsYJj_XQ9xHjwwJ6VxrUmzbRn7x7QRHm7ZtgkAVQqZP1n2auMPr0C83U8Vpa--JdbUeyUBm7tc8PpqYG09Eh1W71Nw5gdkjnDmC3Q=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/wDV2CnicHcRdboMgAADgE6E449Ale1DX1Ll2USJ29mWxaDEq-AMG1hv2CLtNk34P3_-9U2qWb7Y9dq7FpomN7SbblU5CtUJZdOI2myWgEkg7THBWnPjXzlxxwMItGrwirj7D2mD_gDbvum-YHgfuLrJK-9-fPDBJr3X6WpqV8NsFC2RQjhOOzooNYZkv58wRL_V2zFYY-y7xy7kGIG0upP0jEUeK-tm8VHsY7DrnhJxv7bFm6MUHj938XTsQQtA9p0A8ABjnRTk"
+        },
+        {
+          "position": 16,
+          "title": "Analog Coffee",
+          "place_id": "ChIJjzgbw71zhlQRrN-rmpS73gM",
+          "data_id": "0x548673bdc31b388f:0x3debb949aabdfac",
+          "data_cid": "278866473868058540",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673bdc31b388f%3A0x3debb949aabdfac&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673bdc31b388f%3A0x3debb949aabdfac&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2757429,
+            "longitude": -123.12113819999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjzgbw71zhlQRrN-rmpS73gM",
+          "provider_id": "/g/11tx27crlx",
+          "rating": 4.3,
+          "reviews": 619,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop"
+          ],
+          "address": "338 Helmcken St, Vancouver, BC V6B 5L1, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 8 PM",
+          "hours": "Open · Closes 8 PM",
+          "operating_hours": {
+            "wednesday": "7 AM–8 PM",
+            "thursday": "7 AM–8 PM",
+            "friday": "7 AM–8 PM",
+            "saturday": "8 AM–8 PM",
+            "sunday": "8 AM–8 PM",
+            "monday": "7 AM–8 PM",
+            "tuesday": "7 AM–8 PM"
+          },
+          "phone": "+1 604-423-4588",
+          "website": "https://www.analogcoffee.ca/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "Identifies as women-owned"
+              ]
+            },
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Prepared foods",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Catering",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "College students",
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids"
+              ]
+            },
+            {
+              "parking": [
+                "Paid street parking",
+                "Usually somewhat difficult to find a space"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "dining_options": [
+                "Table service"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0eDI3Y3JseBgCOgMI8A0%3D&g2lbs=AEzIGDteyGSVMHrOQEg88H5nrilsuC6w5PDpocYpBMe-03A-KbH7qy2PYbJ77l8VsDVfJERrX5m8&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XMmqar_rNNLmwN4PiZ-Y6QU&ei=XMmqar_rNNLmwN4PiZ-Y6QU&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmy6blzMPPMsQZ9t5RCK7amrdd7w4TnBkIUP4kCq2luQ34xOwtang7kB4OlO-U75gnTIJhS_Mvf9l0jubMvm5dYGCJirzVx1C8MMczV3js2rgDay09zAegaGkY6XdHq8_EAgjov_Q=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/omjkKnicHcRJDoIwAADAF1WqbGLiAdHgkgZQXC8ECxahtEALKD_0Cf7GxDnM95NJWYmZotBMHRHOCU1bkTaYM5kyOcK8VEglABZAKPZ674fn8m3c6YB8H4ngZkl97-zMuGySxOy1kC2KzdHXCqee0DZQtZfXy5gRs1hoHvXA0dQJCzfb7BCh7mFRmLd31JV6cnWd7bMZTq-xM0UIDyc1F5OGLOM3tAY7JbFbXI1Lsq6n0comOe-iYN6PIYQg-48B-wEQVUXa"
+        },
+        {
+          "position": 17,
+          "title": "Tru Cafe",
+          "place_id": "ChIJ7eC0DExzhlQRIPRlhEuLF6Y",
+          "data_id": "0x5486734c0cb4e0ed:0xa6178b4b8465f420",
+          "data_cid": "11968187691220464672",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486734c0cb4e0ed%3A0xa6178b4b8465f420&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486734c0cb4e0ed%3A0xa6178b4b8465f420&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.26949,
+            "longitude": -123.13868989999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7eC0DExzhlQRIPRlhEuLF6Y",
+          "provider_id": "/g/11t9j6twbn",
+          "rating": 4.5,
+          "reviews": 260,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Bakery",
+            "Cafe",
+            "Coffee store",
+            "Espresso bar",
+            "Ice cream shop",
+            "Pastry shop",
+            "Sandwich shop",
+            "Tea house",
+            "Tea store"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop",
+            "bakery",
+            "cafe",
+            "coffee_store",
+            "espresso_bar",
+            "ice_cream_shop",
+            "pastry_shop",
+            "sandwich_shop",
+            "tea_house",
+            "tea_store"
+          ],
+          "address": "1500 W 2nd Ave, Vancouver, BC V6J 5C5, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 7 PM",
+          "hours": "Open · Closes 7 PM",
+          "operating_hours": {
+            "wednesday": "7 AM–7 PM",
+            "thursday": "7 AM–7 PM",
+            "friday": "7 AM–8 PM",
+            "saturday": "8 AM–8 PM",
+            "sunday": "8 AM–7 PM",
+            "monday": "7 AM–7 PM",
+            "tuesday": "7 AM–7 PM"
+          },
+          "phone": "+1 604-731-2508",
+          "website": "https://www.tru.cafe/",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Coffee",
+                "Healthy options",
+                "Organic dishes",
+                "Prepared foods",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids"
+              ]
+            },
+            {
+              "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Paid street parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPVA7FWlVtdxcuL7FNm1s_TgtaAZ-aYUKEzN6X7Nk8TD4FOFZM15gQW7vpT_9n7a1wj0KBNNeyDUV9rxu7PMtMFf7vhkFVT9KMVu5F0Y7VbqMFZoxKSwnHvACdvpk590VkvLlQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/GPbo7nicHcRRboIwAADQE1VKFCsmfrBpY4KtOGuZ_BhWWYnFFm0p6AV3Bm9jsvfxXn-1c62dB0FTj0fSGNlUna3uwmhXaTcS5hrI1gJhgQ2S9VfGcpXxBOG84e48iG6DML2G9sSkK5MClMdDunrS6TeiasaWE7zFBQkjucuRb9kp1qgM-wtMPyitHssDj-9DhzLiCP5FvlaYszglvIswPCL-cyO4MEO67_XaJ59n36oohlz5TbNb9CGEENT_C6DfC0VD5w"
+        },
+        {
+          "position": 18,
+          "title": "Crossroads Cafe",
+          "place_id": "ChIJjfyDh39xhlQRgTqe5Bpi2nQ",
+          "data_id": "0x5486717f8783fc8d:0x74da621ae49e3a81",
+          "data_cid": "8420150320966810241",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486717f8783fc8d%3A0x74da621ae49e3a81&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486717f8783fc8d%3A0x74da621ae49e3a81&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.282937999999994,
+            "longitude": -123.1216438
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjfyDh39xhlQRgTqe5Bpi2nQ",
+          "provider_id": "/g/1tj1m605",
+          "rating": 4.9,
+          "reviews": 38,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Soup kitchen"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe",
+            "soup_kitchen"
+          ],
+          "address": "777 Hornby St, Vancouver, BC V6Z 1S4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 2 PM",
+          "hours": "Open · Closes 2 PM",
+          "operating_hours": {
+            "wednesday": "7:30 AM–2 PM",
+            "thursday": "7:30 AM–2 PM",
+            "friday": "7:30 AM–2 PM",
+            "saturday": "Closed",
+            "sunday": "Closed",
+            "monday": "7:30 AM–2 PM",
+            "tuesday": "7:30 AM–2 PM"
+          },
+          "website": "https://www.facebook.com/pages/Crossroads-Cafe/104382469613484",
+          "extensions": [
+            {
+              "service_options": [
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+              ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Healthy options",
+                "Organic dishes",
+                "Prepared foods",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Catering",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly"
+              ]
+            },
+            {
+              "payments": [
+                "Checks",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "children": [
+                "Good for kids",
+                "High chairs"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8TKclez3DRjwW_f9NZNd7cNPVZ64BSUaKSYh0rbhD34ZEOWBR8Dbjozf1__1ElofQp1KUw_29ZKQ9EVNbR-kfc8JVD9EppOnSWlARCWGXqGlwlPv6G9GGNvcX1z_B37HINgwFW2xrjec9=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/VapnFHicHcTBboIwAADQL6pQMUqX7CAD60ZSsSh1XBrpCg2rtKPMLvzkzv7Nkr3De_yqabLuKQi0ihadMZ2W306OwgyTHKaFMLegsw4IB1yw3dPixG7xKRdazlFKe894i0hNPjaCFFW9XiXl-ZqX7yocG5VGqzo7sITGadObuYWcw0yb9mhhfvZ8ier8iLKKNBR8tiJ-q1KUWXsYSqa39IXhyxfWXhf3NUYYk7u4wJkn0Wb_Sjq_Y8ufsZcCPXsYhiFQ_wsw_AErwkYY"
+        },
+        {
+          "position": 19,
+          "title": "Market Veranda Cafe",
+          "place_id": "ChIJhdX87IdxhlQRLfP6GO_TYsQ",
+          "data_id": "0x54867187ecfcd585:0xc462d3ef18faf32d",
+          "data_cid": "14151106003021263661",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867187ecfcd585%3A0xc462d3ef18faf32d&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867187ecfcd585%3A0xc462d3ef18faf32d&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2893824,
+            "longitude": -123.1326814
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhdX87IdxhlQRLfP6GO_TYsQ",
+          "provider_id": "/g/1wg5xpxf",
+          "rating": 4.7,
+          "reviews": 57,
+          "price": "CA$1–10",
+          "extracted_price": 1,
+          "unclaimed_listing": true,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "type_id": "coffee_shop",
+          "type_ids": [
+            "coffee_shop"
+          ],
+          "address": "1610 Robson St Unit 119, Vancouver, BC V6G 1C7, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 7 PM",
+          "hours": "Open · Closes 7 PM",
+          "operating_hours": {
+            "wednesday": "9 AM–7 PM",
+            "thursday": "9 AM–7 PM",
+            "friday": "9 AM–7 PM",
+            "saturday": "9 AM–7 PM",
+            "sunday": "9 AM–7 PM",
+            "monday": "9 AM–7 PM",
+            "tuesday": "9 AM–7 PM"
+          },
+          "extensions": [
+            {
+              "service_options": [
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Solo dining"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            },
+            {
+              "offerings": [
+                "Coffee",
+                "Quick bite"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dessert"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "Delivery"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyAoUG4KLDRTz1omxk3DuIy4lhztOYvZLA9YwqTd96nDUAe1C4KgJG2KlXEX_DW5M9C0b2efhk3cWz5-YfJDdohneFOfcUYE-VK5VrfWd6vyWeD5pXI_i9zgmbLjsyriS4eq8A=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/sDHjmnicHcRdDoIgAADgE5Ga2rKtBxZlpa1WKtpLm4hQKpjQj16wM3Sbtr6H7_vhWrdqZhg1t0dMSlbTh6IdkUJToUdENgZrFSAKKAOuj4cIVz2Use8EITpGgyWbd2Wjx6Z3aj7offY8h9DLXveo8CYCxZBaCydgW38c1OkyvSDs7ryFmY9pySub4MEFWblFheSCrvYlibMlSAI36UpcTJ49psht083l6g2sycOb6rvryaH3KZy_LNM0Af9PgPgBQlxElQ"
+        },
+        {
+          "position": 20,
+          "title": "Nemesis Coffee GNW",
+          "place_id": "ChIJZzxdHW9xhlQRKS9s0XXYUZQ",
+          "data_id": "0x5486716f1d5d3c67:0x9451d875d16c2f29",
+          "data_cid": "10687561391263199017",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486716f1d5d3c67%3A0x9451d875d16c2f29&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486716f1d5d3c67%3A0x9451d875d16c2f29&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.267036,
+            "longitude": -123.09258919999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZzxdHW9xhlQRKS9s0XXYUZQ",
+          "provider_id": "/g/11qpmzmbbx",
+          "rating": 4.3,
+          "reviews": 1850,
+          "price": "CA$10–20",
+          "extracted_price": 10,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "type_id": "cafe",
+          "type_ids": [
+            "cafe"
+          ],
+          "address": "555 Great Northern Wy, Vancouver, BC V5T 1E1, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4 PM",
+          "hours": "Open · Closes 4 PM",
+          "operating_hours": {
+            "wednesday": "8 AM–4 PM",
+            "thursday": "8 AM–4 PM",
+            "friday": "8 AM–4 PM",
+            "saturday": "9 AM–5 PM",
+            "sunday": "9 AM–5 PM",
+            "monday": "8 AM–4 PM",
+            "tuesday": "8 AM–4 PM"
+          },
+          "website": "https://www.nemesis.coffee/",
+          "extensions": [
+            {
+              "service_options": [
+                "Outdoor seating",
+                "Delivery",
+                "Onsite services",
+                "Takeout",
+                "Dine-in"
+              ]
+            },
+            {
+              "highlights": [
+                "Great coffee",
+                "Great tea selection",
+                "Live music",
+                "Live performances"
+              ]
+            },
+            {
+              "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+              ]
+            },
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            },
+            {
+              "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Organic dishes",
+                "Prepared foods",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+              ]
+            },
+            {
+              "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+              ]
+            },
+            {
+              "amenities": [
+                "Bar onsite",
+                "Restroom"
+              ]
+            },
+            {
+              "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+              ]
+            },
+            {
+              "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+              ]
+            },
+            {
+              "planning": [
+                "Accepts reservations",
+                "Usually a wait"
+              ]
+            },
+            {
+              "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+              ]
+            },
+            {
+              "parking": [
+                "Free street parking",
+                "Paid parking lot",
+                "Paid street parking"
+              ]
+            },
+            {
+              "pets": [
+                "Dogs allowed outside"
+              ]
+            }
+          ],
+          "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1UL91PHiXeXQoCCfSIv3_jf2xkSH0eJ-XLvldeSHF9VU37pQkwY5JUTlPnVjeRQOBWh8ZKJ1Wdhii0lk-lwL8NcRcvidZUTTIXEIJUNCM7Byxj1GbNOsGNk-Ls3eAxOHTHmMUIg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/T4zdxXicHcTbDoIgAADQLyIh17psPZSr0MwrpPXSFpKoKC5M7RP7hP6mrfNwvh_Rda1eGYYU5iRXKpf8pfmTqabjTTdhqjbyVgOmgTY2OApIUiPqLlGAi5SnobKsR2z35q18TMcqxpA7IHV7mfEY75dnas7bsBouM4cSGTTnkkehv03E4np0UJKJooCyAnJwFx6LWF9kV0qIne5sh3rWab59jyU63D1fH7wKuNrkm9HHBNcnaufrAUEIgfjPQPMDk0pEXg"
         }
       ],
       "serpapi_pagination": {
-        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+cafe+Vancouver+BC+wheelchair+accessible+bathroom&start=20&type=search&z=15"
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&lat=49.2827&lon=-123.1207&q=coffee+shop+Vancouver+British+Columbia+wheelchair+accessible+entrance+open+now&start=20&type=search&z=14"
       }
     }
   }

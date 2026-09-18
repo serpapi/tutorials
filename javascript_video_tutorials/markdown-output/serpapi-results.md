@@ -1,5 +1,5 @@
 ## search
 
 Error: {
-  "error": "Missing `z` or `m` parameter. Parameter is required when using `location` parameter."
+  "error": "Missing `lat` and `lon` parameters. Parameters are required when using `z` parameter."
 }
