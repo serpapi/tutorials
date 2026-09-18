@@ -1,0 +1,961 @@
+[
+  {
+    "name": "search",
+    "arguments": "{\"params\":{\"q\":\"matcha cafe Vancouver BC wheelchair accessible bathroom\",\"engine\":\"google_maps\",\"location\":\"Vancouver, British Columbia, Canada\",\"z\":15,\"hl\":\"en\"},\"mode\":\"complete\"}",
+    "output": {
+      "search_metadata": {
+        "id": "6aa9a25d06ca7f683ac28631",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.json",
+        "markdown_endpoint": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.md",
+        "created_at": "2026-09-15 19:54:05 UTC",
+        "processed_at": "2026-09-15 19:54:05 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/matcha+cafe+Vancouver+BC+wheelchair+accessible+bathroom/@49.2827291,-123.1207375,15.0z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.html",
+        "prettify_html_file": "https://serpapi.com/searches/96EIYBf5wBxB52Q--Atk0r31pjBM1_Rnh3Mb0HPlGO0/6aa9a25d06ca7f683ac28631.prettify",
+        "total_time_taken": 0.97
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "matcha cafe Vancouver BC wheelchair accessible bathroom",
+        "location_requested": "Vancouver, British Columbia, Canada",
+        "location_used": "Vancouver,British Columbia,Canada",
+        "z": "15",
+        "google_domain": "google.com",
+        "hl": "en"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "matcha cafe Vancouver BC wheelchair accessible bathroom"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "Matcha Made",
+          "place_id": "ChIJkXN0dupxhlQRQEETqVjqO_Q",
+          "data_id": "0x548671ea76747391:0xf43bea58a9134140",
+          "data_cid": "17598917635394978112",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671ea76747391%3A0xf43bea58a9134140&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671ea76747391%3A0xf43bea58a9134140&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.282013799999994,
+            "longitude": -123.1084954
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkXN0dupxhlQRQEETqVjqO_Q",
+          "provider_id": "/g/11zcjslzh8",
+          "rating": 4.7,
+          "reviews": 88,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Coffee shop"
+          ],
+          "address": "134 W Hastings St, Vancouver, BC V6B 1G8, Canada",
+          "country": "Canada",
+          "open_state": "Closed · Opens 11 AM Fri",
+          "hours": "Closed · Opens 11 AM Fri",
+          "operating_hours": {
+            "tuesday": "Closed",
+            "wednesday": "Closed",
+            "thursday": "Closed",
+            "friday": "11 AM–6 PM",
+            "saturday": "11 AM–6 PM",
+            "sunday": "11 AM–6 PM",
+            "monday": "Closed"
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm684g1fHDaviO4YA5rW1PfMkZZyyM3xEQDfqu8Wgse1eE9d7cPTxvs8By1ItFU5cZ-RDCj_JXp3lgDtoBsU5fmnW9owNPZUJD0BaG1tYoMVFznpT_Eb1xHOhqanlAUh1LNKORTj8zZ-9-o=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/iaGo-3icHcTNToMwAADgJyrQMCaYeICViSg_EpDRy8JqaZ3QMtptwEt69m1M_A7f7w_XelSPptlz22BSsp5eFZ2IFJoKbRA5mGxUgCigTD8q8rIetu6GwS5C7e0r2zS-M9Uw75JvjJclsefwHXWXq1szRSENvc8HkpfzTbnBAl_0vnIIBgXanY_xYbR7hrQMVOV0g6g9eU9zXMXICtpnqBuZfOxXMZbH8ATnKOOXVvR-xeFb-poV5dldMfCAfLpDy7IA_58A8QdwN0bk"
+        },
+        {
+          "position": 2,
+          "title": "Whisk Matcha Cafe",
+          "place_id": "ChIJEYe1d6VxhlQRuvZgyPpdaXw",
+          "data_id": "0x548671a577b58711:0x7c695dfac860f6ba",
+          "data_cid": "8964799864942687930",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671a577b58711%3A0x7c695dfac860f6ba&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671a577b58711%3A0x7c695dfac860f6ba&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.263903199999994,
+            "longitude": -123.10007329999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEYe1d6VxhlQRuvZgyPpdaXw",
+          "provider_id": "/g/11hzy6ybw7",
+          "rating": 4.1,
+          "reviews": 662,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Coffee shop",
+            "Tea house",
+            "Vegan restaurant"
+          ],
+          "address": "39 Kingsway, Vancouver, BC V5T 3H7, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
+          "operating_hours": {
+            "tuesday": "9 AM–6 PM",
+            "wednesday": "9 AM–6 PM",
+            "thursday": "9 AM–6 PM",
+            "friday": "9 AM–6 PM",
+            "saturday": "9 AM–6 PM",
+            "sunday": "9 AM–6 PM",
+            "monday": "9 AM–6 PM"
+          },
+          "phone": "+1 604-558-3232",
+          "website": "http://www.whiskmatcha.ca/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoenk2eWJ3NxgAOgMI8A0%3D&g2lbs=AEzIGDvSacE80eKDoBh35ANMHE1eR38KHfCyp02TLM0Bf4fRKdMQNW-Fl-AwXxP7qFyX7mzVpyZz&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKpKzGC2Sh3wy5xsa5OMVEudPwOb8q7BSiAiAUJUOXX3dPjNgn__n4lu2MnuxS1CAYjUpVb8GmNWVmT7d5WdNYzn4DBQy8gM9N8E4dLvP_2t4QfyG1Q7pt6aZBzwZi7RUOCV_e=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/pKzyy3icHcTbEkJAAADQL3InaqYHZDTJLaG8GKyWhrW1K_GDfUN_00zn4Xw_DaWYbDiuayQWDgPs6pHUz2pAtEaUrYaeg5gwFWEIp-9PwTntHOwstilGjTTNypsUiu8m1giCyS-1h2pErd7q8SH2LxcJBHcPojxHcjeKLhrfkWDq13uMk1Kzey9N-rMKlBR41wXJOyOcNeiuPc2SwfEV5CKVw9tsC6GK6arIjGXKWvUU-2aS19tJ4Hmeaf5XDPoBW1xEUQ"
+        },
+        {
+          "position": 3,
+          "title": "Cloud Matcha",
+          "place_id": "ChIJTbyzo_tzhlQR02zrxEwYlOA",
+          "data_id": "0x548673fba3b3bc4d:0xe094184cc4eb6cd3",
+          "data_cid": "16182586079049379027",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673fba3b3bc4d%3A0xe094184cc4eb6cd3&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673fba3b3bc4d%3A0xe094184cc4eb6cd3&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2904354,
+            "longitude": -123.13728669999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTbyzo_tzhlQR02zrxEwYlOA",
+          "provider_id": "/g/11zb56cl9_",
+          "rating": 4.8,
+          "reviews": 32,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "address": "907 Denman St, Vancouver, BC V6G 2L9, Canada",
+          "country": "Canada",
+          "open_state": "Closed · Opens 2 PM",
+          "hours": "Closed · Opens 2 PM",
+          "operating_hours": {
+            "tuesday": "2–7 PM",
+            "wednesday": "2–7 PM",
+            "thursday": "2–7 PM",
+            "friday": "2–7 PM",
+            "saturday": "12:30–7 PM",
+            "sunday": "12:30–7 PM",
+            "monday": "2–7 PM"
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEVLoqOHlCgQFkXzbbq0DKRnvviss4yoaJeGoVrW1mKgnMs93xye2O2Hq450dQLn7aIYwW05UODdoMCN0xAjTi_lrgn32__cFStIcW9N6w5nJkPbRaEfsnbGwkUrh88SurrdCsutrjeKXM=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/4S73XHicHcRBjoIwFADQEyEVZNRJZmFARRFRVHBWBEotSv2V_iLqJWc9tzHxLd7_X6X1Db9NU1R2j0vJBWuRKSpBM9A9Kq8mv6FB0UBz4sebfSqmyUo2kS9cvp3Vx1dRNMQLYrjfz4iDp8yXbC4TlfavAYcQx_bjyazI8puBQ8rtCob54rdLiXOIvFKG7po8Jpf9OROKg21lGZ3t9IKm4_VX58Cy3hRxPj0hFPOuPqhqNNq1SpUutlpdWHAMf7o-IcSoPlMD3h3iSQE"
+        },
+        {
+          "position": 4,
+          "title": "Nana's Green Tea - Downtown",
+          "place_id": "ChIJxwwCNetxhlQRj2a8s66nQ1Y",
+          "data_id": "0x548671eb35020cc7:0x5643a7aeb3bc668f",
+          "data_cid": "6215996279483033231",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671eb35020cc7%3A0x5643a7aeb3bc668f&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671eb35020cc7%3A0x5643a7aeb3bc668f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2819894,
+            "longitude": -123.12341719999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxwwCNetxhlQRj2a8s66nQ1Y",
+          "provider_id": "/g/11njt0n7v6",
+          "rating": 4.4,
+          "reviews": 50,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "address": "Next to ZUBU on, 869 Hornby St, Smithe St, Vancouver, BC V6Z 1T9, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 12 AM",
+          "hours": "Open · Closes 12 AM",
+          "operating_hours": {
+            "tuesday": "8:30 AM–12 AM",
+            "wednesday": "8:30 AM–12 AM",
+            "thursday": "8:30 AM–12 AM",
+            "friday": "8:30 AM–12 AM",
+            "saturday": "8:30 AM–12 AM",
+            "sunday": "8:30 AM–12 AM",
+            "monday": "8:30 AM–12 AM"
+          },
+          "phone": "+1 604-336-5054",
+          "website": "https://www.sevenleavestea.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFuanQwbjd2NhgAOgMI8A0%3D&g2lbs=AEzIGDtprF7aU9lyaqWfznrRlZbNtQtKasRY6lySTJ9-BdwnezwKAveGi1CO1GxLPJmG6sol8nWJ&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktsZhsVm1kKxLI-J_x0L6IOv-LTiRfvdBtvJXvAss5SwQi3VcyHnqXRhbH2wpr3ZmXoLdNhyICq2x7OwKP9_YIGcYDQiRVL9Auww73HMMNhhS8BTbDO7fwfgDdiM2Mbo8Uk9-NG7NTJlkS=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/pgq3NXicHcRLDoIwFADAE1UQooiJC5REwAIKiMiGhPIp4VP0VYqndO1tTJzFfD-U8xG2ktRRdVEzVnflC8onYQMvB74grJfqERABBJJhBefo1nJIKcT9sj3N2EZONst4bfsTwlETVFOx55OTTAbAKhSXRo3J2xoeSUBzSxHjU037hOHCo2_78FBmzRens57d7SO5m5cmiLFuvITQVMt1PUrDzT7KTV-rRFWbReMqbs4211ZH3lHzIqdrw51YyrKM6H-Chh8I4Uep"
+        },
+        {
+          "position": 5,
+          "title": "Mitchie Matcha Cafe",
+          "place_id": "ChIJ3YkB3hZzhlQRZY3LODWYYCs",
+          "data_id": "0x54867316de0189dd:0x2b60983538cb8d65",
+          "data_cid": "3125665495748676965",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867316de0189dd%3A0x2b60983538cb8d65&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867316de0189dd%3A0x2b60983538cb8d65&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2462964,
+            "longitude": -123.10146329999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3YkB3hZzhlQRZY3LODWYYCs",
+          "provider_id": "/g/11xl_pvk1h",
+          "rating": 4.5,
+          "reviews": 217,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Catering food and drink supplier"
+          ],
+          "address": "4385 Main St, Vancouver, BC V5V 3R1, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
+          "operating_hours": {
+            "tuesday": "10 AM–6 PM",
+            "wednesday": "10 AM–6 PM",
+            "thursday": "10 AM–6 PM",
+            "friday": "10 AM–6 PM",
+            "saturday": "10 AM–7 PM",
+            "sunday": "10 AM–7 PM",
+            "monday": "10 AM–6 PM"
+          },
+          "phone": "+1 672-380-8307",
+          "website": "https://mitchiematcha.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTcn4v1nKFUQiYo2W6zBKacxRmitrb6BCOHH4gRS9Qaxr3tpSw3SYstF65hNd4CS4hUfD3Sjw9ZH_vjJPLUD_PFFiEx6oK1TMuyqybs93M-KB-jmlUJ505GqJ_HCuM6TW-pUS8ESzXp78H=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/AwLMjHicHcTBboIwAADQL6rACp0s2WGgrIGxIaVheiFaGYVAW2kR9Cd39m-W7B3e45cbo_SLZfUcrhopm76edD0yKUwtzIrJwWqUBkwDbb3hPCvKoWDCvToiieiu3cunEt2D5MiWfGjNeEJB-IWx2-TE3x2XERpFZkj22kTI459nNyQupz8bSLrZP-Dq2sXZB91UWRS12wXJxCnS6Xa5nbQPU5AEoBt6Gnu2936JKxxOKSpKoChZb8n9Wz2v8evs2LYN-P8MiD9520Yo"
+        },
+        {
+          "position": 6,
+          "title": "Superbolt Lab Matcha Tea Vancouver",
+          "place_id": "ChIJmW7VXiBzhlQR0p1ZBNIEWKs",
+          "data_id": "0x548673205ed56e99:0xab5804d204599dd2",
+          "data_cid": "12346623678498840018",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673205ed56e99%3A0xab5804d204599dd2&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673205ed56e99%3A0xab5804d204599dd2&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2708337,
+            "longitude": -123.1473618
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmW7VXiBzhlQR0p1ZBNIEWKs",
+          "provider_id": "/g/11w8k484vw",
+          "rating": 4.3,
+          "reviews": 255,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "address": "1849 W 1st Ave, Vancouver, BC V6J 5B8, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5 PM",
+          "hours": "Open · Closes 5 PM",
+          "operating_hours": {
+            "tuesday": "8 AM–5 PM",
+            "wednesday": "8 AM–5 PM",
+            "thursday": "8 AM–5 PM",
+            "friday": "8 AM–5 PM",
+            "saturday": "8 AM–7 PM",
+            "sunday": "8 AM–7 PM",
+            "monday": "Closed"
+          },
+          "phone": "+1 778-917-4798",
+          "website": "http://www.superbolt-tea.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF3OGs0ODR2dxgAOgMI8A0%3D&g2lbs=AEzIGDvOPKPGeOUZLQPDU39LrO-wR7MFcy9LQgHpVPY_8JLmrc62IJyuPRSYuQzcMXbg4F1Nsz5l&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNu-2XVX6Zc3DfhNM_6XhIsu53r9TseQfp0wlJs7yPcDvs0rE8P-Kfwt2RThO5DFvw4zo40KsUHk7IT-TVnbDhW4CdxqBbr3BWEIbbC3K4U8y20aiFniakqqOee9_UEW2cojfphPtZrdrZ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/CTAW7nicHcRLDoIwFADAE1UqxW_iQgUjEhVNEcLGSC1UxRb6iqiXdO1tTJzFfD_CmArGllUK0imUKkreANdMScOl6TB1t4oKEAME1nS5D2l83zTITg5JP2XEzcVmfewnwoemR_SIAt_lFW7LFQxeIXMfgLU3DFGQt8beU7HtuYtH67yVgwOIlreBTxE9yMwVsTM_P-tZpsks9vwsm5PAiYYvG58uC3k53ep6y_noGHmxzdQ1r0RoUn3W6aTtYoyR-M-Q_AFmr0dI"
+        },
+        {
+          "position": 7,
+          "title": "Matcha Corner Cafe",
+          "place_id": "ChIJtZWlBQBxhlQRhbmXZbkIAOk",
+          "data_id": "0x5486710005a595b5:0xe90008b96597b985",
+          "data_cid": "16789429003203623301",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486710005a595b5%3A0xe90008b96597b985&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486710005a595b5%3A0xe90008b96597b985&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.252417099999995,
+            "longitude": -123.0810365
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtZWlBQBxhlQRhbmXZbkIAOk",
+          "provider_id": "/g/11md1m218s",
+          "rating": 4.3,
+          "reviews": 257,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "address": "1148 Kingsway, Vancouver, BC V5V 3C8, Canada",
+          "country": "Canada",
+          "open_state": "Closed · Opens 11 AM Wed",
+          "hours": "Closed · Opens 11 AM Wed",
+          "operating_hours": {
+            "tuesday": "Closed",
+            "wednesday": "11 AM–9 PM",
+            "thursday": "11 AM–9 PM",
+            "friday": "11 AM–9 PM",
+            "saturday": "11 AM–6 PM",
+            "sunday": "11 AM–9 PM",
+            "monday": "11 AM–9 PM"
+          },
+          "phone": "+1 604-620-2018",
+          "website": "https://matchacorner.square.site/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFtZDFtMjE4cxgAOgMI8A0%3D&g2lbs=AEzIGDsFfv5LIlI83GyOMZS2VqhBPFk73ztKHeaE2q0UZ5XVVcaFTpp9N9LyOPQSg3Y20eihh1an&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkg0jxmoQVQ0dNFbbmb14HKTCxha1dSgZx1kPk-3-Ts2eo1SERxk156zPHreycBkX3ButW7o4bZMDcaLSUIYs0iVEBeqGnulQRSFd1aCGsFM8khQjpxTfLlletMcYGtNht2M-4YCT8eFjU=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/hVEbZ3icHcTNboIwAADgJ6q0gtOYeBgoYBTDT9HhDUrXSgtFW2LdQ3rf2yzZd_h-39yYUa8dR3J3xpRikk6aPogaDB3MjKjeYaMGRAPtfMZ5ii-Cwc72KjtnsD2FTdM3yIsPOLC8Rm3BrhaJVAAXYD2nChW73Aq0-PhJ4wd9EV98uf5kLkvlNddkS-pjUe4rDW_nnU_v0TDJLC_CFtVBpMNkJXjWjRZ_H6WkJiFVZE7czBPgVQFe0bArN08EIQT8fwKGP0uSRu4"
+        },
+        {
+          "position": 8,
+          "title": "Nana's Green Tea - Olympic Village",
+          "place_id": "ChIJc4flUnpzhlQR8POkv22_Qac",
+          "data_id": "0x5486737a52e58773:0xa741bf6dbfa4f3f0",
+          "data_cid": "12052124555907757040",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486737a52e58773%3A0xa741bf6dbfa4f3f0&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486737a52e58773%3A0xa741bf6dbfa4f3f0&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.267586599999994,
+            "longitude": -123.10855169999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc4flUnpzhlQR8POkv22_Qac",
+          "provider_id": "/g/11hcyx9xrw",
+          "rating": 4.3,
+          "reviews": 1277,
+          "type": "Japanese restaurant",
+          "types": [
+            "Japanese restaurant",
+            "Cafe",
+            "Coffee shop",
+            "Dessert restaurant",
+            "Ice cream shop",
+            "Japanese curry restaurant",
+            "Udon noodle restaurant"
+          ],
+          "address": "159 W 4th Ave, Vancouver, BC V5Y 1G4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 12 AM",
+          "hours": "Open · Closes 12 AM",
+          "operating_hours": {
+            "tuesday": "8:30 AM–12 AM",
+            "wednesday": "8:30 AM–12 AM",
+            "thursday": "8:30 AM–12 AM",
+            "friday": "8:30 AM–12 AM",
+            "saturday": "8:30 AM–12 AM",
+            "sunday": "8:30 AM–12 AM",
+            "monday": "8:30 AM–12 AM"
+          },
+          "phone": "+1 604-263-5054",
+          "website": "https://sevenleavestea.com/",
+          "description": "Japanese drinks & snacks in a cosy cafe. Compact operation with a contemporary ambiance offering fancy teas, plus miso soup & desserts.",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible parking lot"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoY3l4OXhydxgAOgMI8A0%3D&g2lbs=AEzIGDsUTyBp7gxQPqLMq_nHCMGcvC8jrq7l0YW0NoaetYIbzRGnPRUsB0f6zJbtYVkn1AOgCFW7&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmG1YMDKrA6NWJ25rVIABfrLBeKPUEXBYFOfg-O2NLajPa-RFjdxw5bquQdTcwL7fuwHfpOzJPG93JXppkqq-s6Z11wtXEZLhETLQUqvltnp_1UmQQMN9A20m576N_j_wfXUd6h=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/SCBZAHicHcRJDoIwAADAF1UoBIwmHiDigpUtoOiFaKE0yNLSYo0f9A3-xsQ5zPdDpWRiqWktNWf1MNRtNYlqxEMvq17O8NBpNRMACyA0Z5dE6bnbwstxfRgdOzj7hjWe9o5LRuRWhyjzcveyCUkNQiNAtya6gWTTlC9l3fkUlylWaE4mtSMsfPvRdmH6OWMPzoGwrxAqmXtXRL0UxRl_trJnBcy6OD4GC8fQO2tuB0VTKJJnpU1XCuq6Duh_DPof-zlD8A"
+        },
+        {
+          "position": 9,
+          "title": "emeri matcha bar",
+          "place_id": "ChIJN-Vn_phzhlQRUCO5ajXiG48",
+          "data_id": "0x54867398fe67e537:0x8f1be2356ab92350",
+          "data_cid": "10312084490846544720",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867398fe67e537%3A0x8f1be2356ab92350&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867398fe67e537%3A0x8f1be2356ab92350&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.259853,
+            "longitude": -123.10136159999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN-Vn_phzhlQRUCO5ajXiG48",
+          "provider_id": "/g/11nq2syy29",
+          "rating": 4.8,
+          "reviews": 155,
+          "type": "Tea house",
+          "types": [
+            "Tea house"
+          ],
+          "address": "2833 Main St, Vancouver, BC V5T 3G1, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
+          "operating_hours": {
+            "tuesday": "11 AM–6 PM",
+            "wednesday": "11 AM–6 PM",
+            "thursday": "11 AM–6 PM",
+            "friday": "11 AM–6 PM",
+            "saturday": "10 AM–6 PM",
+            "sunday": "10 AM–6 PM",
+            "monday": "Closed"
+          },
+          "website": "https://www.enjoyemeri.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfibLTdj8DNrEHbJYocxOW3rC68zrYl2pnqy01Fgjr_DgF2iMsXrnrfGFXMq1pDjZ9q6yfvXivEN_SF8uJMYOtGEr_IaBfYtJq_ahrL9ctzAnjOeCS8i35ykwAj6FoSN5sC2kwrXnWPjc5=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/8jJHbHicHcRNjoIwGADQEyF_gaCJCwSqEgEjJsBsCHagULCFr1XES7r2NpPMW7zvp5VyFBtVHVpzRTgnQ_0QNWDOZM3kCvO7SkahYKEI1T1cztesb7rb6fpLHT-G4HALC45fSWaCZztvKAZjZNOi6YhQKH2CjC4SOTBo9iiPJn306c96spfmmXfPIC5T5DzCqEjkPoDyWO2aQoZTWbVwWmP5dhlNai91OtNa-tmlNuJpbAnP6GfIWXam2NrOuqZpSvs_VtgfNldI-g"
+        },
+        {
+          "position": 10,
+          "title": "Aiyaohno Cafe",
+          "place_id": "ChIJgTXf8OdxhlQRScve0U3I5s8",
+          "data_id": "0x548671e7f0df3581:0xcfe6c84dd1decb49",
+          "data_cid": "14980881447053609801",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671e7f0df3581%3A0xcfe6c84dd1decb49&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671e7f0df3581%3A0xcfe6c84dd1decb49&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2811762,
+            "longitude": -123.1046461
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgTXf8OdxhlQRScve0U3I5s8",
+          "provider_id": "/g/11t26t5kyn",
+          "rating": 4.8,
+          "reviews": 398,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Coffee stand",
+            "Sandwich shop"
+          ],
+          "address": "425 Carrall St, Vancouver, BC V6B 6E3, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 3 PM",
+          "hours": "Open · Closes 3 PM",
+          "operating_hours": {
+            "tuesday": "10 AM–3 PM",
+            "wednesday": "10 AM–3 PM",
+            "thursday": "10 AM–3 PM",
+            "friday": "10 AM–3 PM",
+            "saturday": "10 AM–3 PM",
+            "sunday": "Closed",
+            "monday": "Closed"
+          },
+          "phone": "+1 604-652-7555",
+          "website": "http://www.aiyaohno.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsd6SYkDoolAxs0VtqpyEjsTFxDkdtlETKYfoAGXTqx7YgnNPseApOyKKxXjE65JxAIBVeWRfAthGS1ckhS03shHZ1DvGKYkFDWJVOi0OJHOEKMqMdO78KdDJktpJGEC3jltw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/LGIJTnicHcRRboMgGADgE1kxZu3SZA9sUB2ko6lG616RyoQC7mctvWDvsNss2ffw_T50jAG2eW51uZq8n6z6AfUtvYvKxZX0l3wKkEnIIMf18dD2DsZ1MxjivcUJUBeXcKcztLtEzBgtbflw9rg6tUvaDJP7OIDCQdw5T6eZrp9Ywu-vneqPZxx11RTS6AaVoOvPglwrPpgd6VknvpBgtaB8v-xHsXnmI2EmBlbRt3K28fZyKxBCmf5fZu4PrTdE_g"
+        },
+        {
+          "position": 11,
+          "title": "BAM BAM",
+          "place_id": "ChIJ-d7QBABxhlQRoeCtrTeUUH8",
+          "data_id": "0x5486710004d0def9:0x7f509437adade0a1",
+          "data_cid": "9173995407811666081",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486710004d0def9%3A0x7f509437adade0a1&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486710004d0def9%3A0x7f509437adade0a1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.278779899999996,
+            "longitude": -123.11295559999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-d7QBABxhlQRoeCtrTeUUH8",
+          "provider_id": "/g/11z2ms6l1_",
+          "rating": 4.6,
+          "reviews": 328,
+          "type": "Restaurant",
+          "types": [
+            "Restaurant"
+          ],
+          "address": "160 W Georgia St, Vancouver, BC V6B 4P4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 8 PM",
+          "hours": "Open · Closes 8 PM",
+          "operating_hours": {
+            "tuesday": "8 AM–8 PM",
+            "wednesday": "8 AM–8 PM",
+            "thursday": "8 AM–8 PM",
+            "friday": "8 AM–8 PM",
+            "saturday": "8 AM–8 PM",
+            "sunday": "8 AM–8 PM",
+            "monday": "8 AM–8 PM"
+          },
+          "website": "https://bambam.cafe/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlkBBzzv8JWzW8ynF1PZqMndeFComVuEq442spEBLu42qiM67lJbz3IzU1ID_ynm4lfXw01FZ0veeJPiIKIM8pIP3Zd_hP6fpYBhPrNrYe0CNctEKQ8QQke0a8xd78IyycQODfRDdGXst0=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/_zD4ynicHcTBboIwAADQL0KKEG2W7CACWhRXjA7lYrZSqLG0hRaVfqT3_Y3J3uH9vZgxSn-4Lmf-pJGy4XTQtCdSGCrMhMjWbZR2iHa0u1jv8aHgtzC09g7TwhZwFImHyy4TFU2Wsv0e4i4IplrF4XYIpt01m815-mt9ZI8eii6jaANenx7AS0pwpzTFV7RBGVQI-2V1YXhWq3PIcL_rzxQsd8TEmxzm-Y2CH_is5hCNI8m_onofVauTNuDz4QEAHPY_ccQbZJxG1A"
+        },
+        {
+          "position": 12,
+          "title": "Café Kitsuné Vancouver",
+          "place_id": "ChIJWxeGx6dxhlQRcaNiRAgIcnY",
+          "data_id": "0x548671a7c786175b:0x767208084462a371",
+          "data_cid": "8534893075420586865",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671a7c786175b%3A0x767208084462a371&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671a7c786175b%3A0x767208084462a371&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2843065,
+            "longitude": -123.1081107
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWxeGx6dxhlQRcaNiRAgIcnY",
+          "provider_id": "/g/11rxwh6lqx",
+          "rating": 4.3,
+          "reviews": 457,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "address": "157 Water St, Vancouver, BC V6B 1A7, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5:30 PM",
+          "hours": "Open · Closes 5:30 PM",
+          "operating_hours": {
+            "tuesday": "10:30 AM–5:30 PM",
+            "wednesday": "10:30 AM–5:30 PM",
+            "thursday": "10:30 AM–5:30 PM",
+            "friday": "10:30 AM–5:30 PM",
+            "saturday": "10:30 AM–5:30 PM",
+            "sunday": "10:30 AM–5:30 PM",
+            "monday": "10:30 AM–5:30 PM"
+          },
+          "phone": "+1 236-477-4777",
+          "website": "http://www.cafekitsune.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDgBBAprE2iGTKZ2G6eMP1lgG_gwPMxp4ScXA4rti37A2HJSMUX6NXUT_0fgNdr3hOx6RruGkeQbWMJ4Zoi2_eoZQQIGYkS3g9wqYgL5MLZaONaYLmkRprwyrpUmYxvWhxEdBYcgIDcO8F=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Uzyd83icHcRJboMwFADQExEIUDpIXYCSOEmZB4HZoMRxvxGDXdsp9JRZ9zaV-hbv98G0FurNNEfmbIBzGOldUUn4rOmsN4RPJghlEGUo0z_maVnPOwgCX8i93aPyo7WRR6N0OwLqYEmjVbgFaXxX6t559u3juYiqxoubquysT4hv0mHJ6uXyjgaaXevo7La8tzvK2yw7ITwUDrwuXxjCpyhsL0l8weE05EIuP1JUE16_a7bubwEmcNqR5OXwvmwtyzLY_8SY_wBiBkec"
+        },
+        {
+          "position": 13,
+          "title": "Let's Matcha",
+          "place_id": "ChIJx9bB0Al0hlQRCVfSY50e2aE",
+          "data_id": "0x54867409d0c1d6c7:0xa1d91e9d63d25709",
+          "data_cid": "11662386371386038025",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867409d0c1d6c7%3A0xa1d91e9d63d25709&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867409d0c1d6c7%3A0xa1d91e9d63d25709&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 62.6573279,
+            "longitude": -95.989235
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx9bB0Al0hlQRCVfSY50e2aE",
+          "provider_id": "/g/11btwr_fmh",
+          "rating": 4.3,
+          "reviews": 12,
+          "type": "Tea store",
+          "types": [
+            "Tea store",
+            "Service establishment"
+          ],
+          "open_state": "Open 24 hours",
+          "hours": "Open 24 hours",
+          "operating_hours": {
+            "tuesday": "Open 24 hours",
+            "wednesday": "Open 24 hours",
+            "thursday": "Open 24 hours",
+            "friday": "Open 24 hours",
+            "saturday": "Open 24 hours",
+            "sunday": "Open 24 hours",
+            "monday": "Open 24 hours"
+          },
+          "website": "http://www.letsmatcha.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMziK9YF9qSN963FPAYj4iF_w215SjZTgdwo3jRMRVIUQuDnhUsf09nh-DDbaimpSN0-ZtnaSrA6ycG9M3FnJev7AiwltkrHyVGLWMH7P8Vm1wbfDvgbVWYk-kS_X3KmVaHE2n=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/efsC1XicHcTdboIwGADQJ6oUu6ldsgsShmyKYVTL8MZAhy1_XxmtNu4F9wx7GxPPxfn_U9aO5sXzekVmUmvZ1xdTT0KDrcHOhB48ORokDDJeEGfpPofkt9nQIqI_bEcXJEqDon1qopOb-8-sPe7lt9OkzZKMvx8-LyGogzljCgqFYVU2w8h2GB0tlGwKFjexpgmJ4KO-LoPG9bab4htfb_MkXqYrPviuOodXWfG86FDHTl9kM_AyfpvDq_Mxxkg9FgjuHRFELA"
+        },
+        {
+          "position": 14,
+          "title": "Amberdo Cafe & Bakery",
+          "place_id": "ChIJCXxEiZpxhlQRfv9IW5oQtBE",
+          "data_id": "0x5486719a89447c09:0x11b4109a5b48ff7e",
+          "data_cid": "1275662849595211646",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486719a89447c09%3A0x11b4109a5b48ff7e&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486719a89447c09%3A0x11b4109a5b48ff7e&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2882392,
+            "longitude": -123.12750319999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCXxEiZpxhlQRfv9IW5oQtBE",
+          "provider_id": "/g/11nb2wssbd",
+          "rating": 4.9,
+          "reviews": 124,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "address": "1328 W Georgia St, Vancouver, BC V6E 4N9, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5 PM",
+          "hours": "Open · Closes 5 PM",
+          "operating_hours": {
+            "tuesday": "8 AM–5 PM",
+            "wednesday": "8 AM–5 PM",
+            "thursday": "8 AM–5 PM",
+            "friday": "8 AM–5 PM",
+            "saturday": "8 AM–5 PM",
+            "sunday": "8 AM–5 PM",
+            "monday": "8 AM–5 PM"
+          },
+          "phone": "+1 778-951-2814",
+          "website": "https://amberdogeorgia.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc-YkkOrxiIH8QJatpKxpCZD7CFS5sl-xqPrGD2QmpDL2MsJ6rcfrPQ4k21XOQlIZPeE3n3UavqEb3ZCFDLeCR025ZoBVjtKM6SwIW64dTH8Dk-LMLRxFPskI9nGYfzA7DKeAsj6c560k=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/PTohjHicHcRBcoIwFADQE0UiSLSd6YISEQTGgLZWdjaNUINJzI-V8ZDuvY0zfYv3uHfOGXj1vL4LRq3WbS8uICzXygnlRlyfvNYA4oDAi9KabbaKo52UKzv8ZumsWu6dyQcTN3QaJ-sQejScmV1QvzoZWvglLInlB8uqifTHX6uqzxom5oEKPvZ_5_l30MQJLURcYz9s9Pvn0eUlWV-zLZn8bNIZlagoi3pIGMjsRS12h1s0pbmI4Eh4SLB8u44xxqj7nyP1BPgtRSw"
+        },
+        {
+          "position": 15,
+          "title": "lovelarte",
+          "place_id": "ChIJgaWgg35xhlQRO-fJYBdEoDM",
+          "data_id": "0x5486717e83a0a581:0x33a0441760c9e73b",
+          "data_cid": "3720048159406810939",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486717e83a0a581%3A0x33a0441760c9e73b&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486717e83a0a581%3A0x33a0441760c9e73b&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2791964,
+            "longitude": -123.11606809999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgaWgg35xhlQRO-fJYBdEoDM",
+          "provider_id": "/g/11dxskxn7n",
+          "rating": 4.6,
+          "reviews": 825,
+          "type": "Cafe",
+          "types": [
+            "Cafe",
+            "Bakery",
+            "Coffee roastery",
+            "Coffee shop",
+            "Patisserie"
+          ],
+          "address": "345 Robson St #101, Vancouver, BC V6B 0H3, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5 PM",
+          "hours": "Open · Closes 5 PM",
+          "operating_hours": {
+            "tuesday": "7 AM–5 PM",
+            "wednesday": "7 AM–5 PM",
+            "thursday": "7 AM–5 PM",
+            "friday": "7 AM–5 PM",
+            "saturday": "7 AM–5 PM",
+            "sunday": "7 AM–5 PM",
+            "monday": "7 AM–5 PM"
+          },
+          "phone": "+1 604-599-7856",
+          "website": "http://www.lovelarte.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlCgkOM7qIYuQ1rl7ociTFISw257Vc6kJeiSXsprYisc1sdm4g_TVoRgLeQGaqufzqzRRk0JvkMxrQ1A7KbsDC2gBXuFwFx7KLLHUwiHnEmzd5uQli_gd73zbEwSVtOWOEiFZRb-g=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/B8mXSHicHcTRToMwFADQL-qAzdnExIc5QbaxIAXZ5ssipV4aCgVuaxf-0E_Y35h4Hs79tzFmwCfPU81qAVqDEhbFxHVvRG8WXHceDEg4EvQ2MXsvTmoLbXqk4-5is2BSVHNZRLvcLde05I_tXsj8jMN0kcgDrLsHuBalZpCI7O1rtN_zODPW-vuf9nibsmBDDxW-bpfwcraRi270kCTxh5NxH3ZzvbaZkleo6WquQpeXJj2loYw-WUXg2QW-75Pmf076P3kSRuM"
+        },
+        {
+          "position": 16,
+          "title": "Caffe Mira",
+          "place_id": "ChIJxcq1bRdzhlQRB_tKXz2MA28",
+          "data_id": "0x548673176db5cac5:0x6f038c3d5f4afb07",
+          "data_cid": "7999391558359776007",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673176db5cac5%3A0x6f038c3d5f4afb07&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673176db5cac5%3A0x6f038c3d5f4afb07&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.2787953,
+            "longitude": -123.13002089999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxcq1bRdzhlQRB_tKXz2MA28",
+          "provider_id": "/g/11hfbwpbs9",
+          "rating": 4.6,
+          "reviews": 743,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "address": "1225 Burrard St, Vancouver, BC V6Z 1Z5, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 5:30 PM",
+          "hours": "Open · Closes 5:30 PM",
+          "operating_hours": {
+            "tuesday": "7 AM–5:30 PM",
+            "wednesday": "7 AM–5:30 PM",
+            "thursday": "7 AM–5:30 PM",
+            "friday": "7 AM–5:30 PM",
+            "saturday": "8 AM–6 PM",
+            "sunday": "8 AM–6 PM",
+            "monday": "7 AM–5:30 PM"
+          },
+          "phone": "+1 604-423-9388",
+          "website": "http://caffemira.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoZmJ3cGJzORgAOgMI8A0%3D&g2lbs=AEzIGDvow2SqJJKK0IQAk3aKtH-9B9tX1oMWP1iOCfE1yl0TXlbgjsLe0zvsC33Z1QSerx8xB5x9&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlVC0XTfTOV95MMrWILBZTpU4HGR8XkPRjIOmE4s6DPcC349FWwN6kM9P0MnWtd7WeC6hJddrfYRPWdOEoxPrMRnIPvkwdH_wCqyccc8F05XHKdo52iVjzpSMIOY33kEzErHJW=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/WXrTOnicHcRLcoIwAADQEwGpfCrOuGgRG9RIJlKCbrpI-CiQYBJFvaBn8DbO9C3e69kYM-iZ43SNa9dS1l150aViUphSGJvJ3qkHbTFtaecLEpzRvssjUGRVluahj5Ciyeb7kA2_Hvwh06LF5JSkfezpYIFZ5Hrhko7boEUhBkhQwz9pGQXNinNV7QmmPI3lDStERIKv7cjh3xid74yx6RL4BVxz6U-O-ekx7FCS7l23jR-xgis6Hz8AAFbzP7PEG9WjQ5c"
+        },
+        {
+          "position": 17,
+          "title": "My Honey's Buns",
+          "place_id": "ChIJG7Fu3YFxhlQRAbENE7Xs2G4",
+          "data_id": "0x54867181dd6eb11b:0x6ed8ecb5130db101",
+          "data_cid": "7987394201594474753",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x54867181dd6eb11b%3A0x6ed8ecb5130db101&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x54867181dd6eb11b%3A0x6ed8ecb5130db101&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.284143699999994,
+            "longitude": -123.11990159999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG7Fu3YFxhlQRAbENE7Xs2G4",
+          "provider_id": "/g/1v42fh7s",
+          "rating": 4.7,
+          "reviews": 175,
+          "type": "Cafe",
+          "types": [
+            "Cafe"
+          ],
+          "address": "925 W Georgia St #110, Vancouver, BC V6C 3L2, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 4:30 PM",
+          "hours": "Open · Closes 4:30 PM",
+          "operating_hours": {
+            "tuesday": "7 AM–4:30 PM",
+            "wednesday": "7 AM–4:30 PM",
+            "thursday": "7 AM–4:30 PM",
+            "friday": "7 AM–4:30 PM",
+            "saturday": "10 AM–3 PM",
+            "sunday": "Closed",
+            "monday": "7 AM–4:30 PM"
+          },
+          "phone": "+1 778-859-1331",
+          "website": "http://eadacoffee.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlisuH0fO4Q-lU3ulOh7sd9RdHYKIS7g1hcImvrzVM0pn4Z15WthiHWKNyAGz-7fG3Zozc3sVfIQ0XAV9krBe9QkRfeAyVYrVuZQDdkelaZ3YVzdQbCziSWmzi1_mI2QMgx-5zFSQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/-5rQdXicHcTbDoIgAADQLyIxas62HqxWutYFLUxfWiGCE8UJduEP-4T-pq3zcL4fYUynZ44jBRpxpbhkg2Y9Va1hrRlR1Ti804BqoJ0gjI-nVFZ6CGF5mGAgz2iQB-Hpwo-LMNtGicddQaPm0Vuyg107yd1pakQVptv9O9hY4JUblCtLkSZlhOElIH7dL5iP67hkwZtkPRlyvCpqJm85yogt8H1pqyRtbOVem2iMd_wFpnad4PnThRAC8Z-C9gf8NEXD"
+        },
+        {
+          "position": 18,
+          "title": "Eli Cafe",
+          "place_id": "ChIJ_6HHO-NzhlQRVmVsobzyowQ",
+          "data_id": "0x548673e33bc7a1ff:0x4a3f2bca16c6556",
+          "data_cid": "334377689331557718",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548673e33bc7a1ff%3A0x4a3f2bca16c6556&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548673e33bc7a1ff%3A0x4a3f2bca16c6556&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.281656399999996,
+            "longitude": -123.13381679999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_6HHO-NzhlQRVmVsobzyowQ",
+          "provider_id": "/g/11mlcjgghl",
+          "rating": 4.9,
+          "reviews": 172,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop"
+          ],
+          "address": "1207 Bute St, Vancouver, BC V6E 1Z4, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
+          "operating_hours": {
+            "tuesday": "8 AM–6 PM",
+            "wednesday": "8 AM–6 PM",
+            "thursday": "8 AM–6 PM",
+            "friday": "8 AM–6:30 PM",
+            "saturday": "8 AM–6 PM",
+            "sunday": "8 AM–6 PM",
+            "monday": "8:30 AM–6 PM"
+          },
+          "phone": "+1 778-554-2007",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQNLa-XCq9v64iKBxxEeCEgcHBZSY8gqSiBuiUOiyejIcZKUlmpyLBP_XUcLBvNt7kpPZFI5QPvy4W_HnJqmvlFUCQ_6eO4Gsh_f-tpfYVxrVvwbypwDvgIRvCvil4RONqA48C3OgTtyVF=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/hSBq6XicHcTNboIwAADgJ6qw2Dk18WCrCJPwp6ByIdrU0lmg2FroU3re2yzZd_h-37XWUi0dR9TTCes6JuhL0SfpWk1bPSFd4zCpAFFAOWs_S46nJo3CKzjjfmFmkO_ROG4p3jLio_JwmbP-wNGL5zG39Ccg5T4XjbQhSqpzTkJkIv31kEnpBZ9pYiw8VX773TdGeDlOqxmN4U7V1R1oeb8U47Mww83KYWNYkBlsuIBZHPVrOMfTmB21LbzV8OG6Lqj_J6D9AxVKSQk"
+        },
+        {
+          "position": 19,
+          "title": "Chez nous Bakery & Coffee",
+          "place_id": "ChIJh9H7QoZzhlQRXBs6VrXS3pc",
+          "data_id": "0x5486738642fbd187:0x97ded2b5563a1b5c",
+          "data_cid": "10943415820834446172",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x5486738642fbd187%3A0x97ded2b5563a1b5c&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x5486738642fbd187%3A0x97ded2b5563a1b5c&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.274469599999996,
+            "longitude": -123.123993
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh9H7QoZzhlQRXBs6VrXS3pc",
+          "provider_id": "/g/11x2g4byyp",
+          "rating": 4.6,
+          "reviews": 431,
+          "type": "Bakery",
+          "types": [
+            "Bakery",
+            "Brunch restaurant",
+            "Catering food and drink supplier",
+            "Coffee shop",
+            "Coffee store",
+            "Sweets and dessert buffet",
+            "Dessert shop",
+            "Pastry shop",
+            "Tea house"
+          ],
+          "address": "1262 Homer St, Vancouver, BC V6B 2Y5, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 6 PM",
+          "hours": "Open · Closes 6 PM",
+          "operating_hours": {
+            "tuesday": "8 AM–6 PM",
+            "wednesday": "8 AM–6 PM",
+            "thursday": "8 AM–6 PM",
+            "friday": "8 AM–6 PM",
+            "saturday": "8 AM–6 PM",
+            "sunday": "8 AM–6 PM",
+            "monday": "Closed"
+          },
+          "phone": "+1 236-818-7196",
+          "website": "http://cheznousbakery.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4Mmc0Ynl5cBgCOgMI8A0%3D&g2lbs=AEzIGDusgRI4Cfl_-rPW1dunkSZ7v4ve97ggYfLAlJ9m3b2zzTs93bB9Mz4k2DsTwF4a5zrbB4vx&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlsECCLAV-HeFAQZ8mun_f9YKzzNgdF7SN-kHUO7qt6eEuAI5H1eHUZM9bzQ_1mgj9ku7wQd2BjS_wAaorpDrfBWNjLyKXMuX3hn5T_XLYJdl2O92wJh9eGnbyveWKhKi74ZkTVBgxJk18=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Vdvii3icHcRLcoIwAADQE0U-ajHOdBGsNgJiqSjIhqkQE_kkSJJSuWTXvU1nfIv398uU6uTSMBo2nVAhaEO0JH0huCJcTQrRGrSToJBAGgh_fsRJ28j1ahWgE8Bkg6Js0WqeX-HZH8eQlhvnEIIaH_fOXb2QtUbbObYIPmY7eBmj3GppBWvtDFFpu9UhH9CX6Lu3_uomYRU8_HSn0ynj8zhPg7NXNvYe2oPHIHnnl8c3SXzm35xZVscnl_54tbV4HSzTNAF7XgD-D3ueRys"
+        },
+        {
+          "position": 20,
+          "title": "Monaco Cafe",
+          "place_id": "ChIJxQ-OjRBxhlQRtGrW8532saQ",
+          "data_id": "0x548671108d8e0fc5:0xa4b1f69df3d66ab4",
+          "data_cid": "11867537651359181492",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x548671108d8e0fc5%3A0xa4b1f69df3d66ab4&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x548671108d8e0fc5%3A0xa4b1f69df3d66ab4&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 49.284473,
+            "longitude": -123.11029169999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxQ-OjRBxhlQRtGrW8532saQ",
+          "provider_id": "/g/11ty7tcnn0",
+          "rating": 4.3,
+          "reviews": 742,
+          "type": "Coffee shop",
+          "types": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Brunch restaurant",
+            "Dessert shop",
+            "Pastry shop"
+          ],
+          "address": "356 Water St, Vancouver, BC V6B 1B6, Canada",
+          "country": "Canada",
+          "open_state": "Open · Closes 11 PM",
+          "hours": "Open · Closes 11 PM",
+          "operating_hours": {
+            "tuesday": "7 AM–11 PM",
+            "wednesday": "7:30 AM–11 PM",
+            "thursday": "7 AM–11 PM",
+            "friday": "7 AM–12:30 AM",
+            "saturday": "7 AM–12:30 AM",
+            "sunday": "7 AM–11 PM",
+            "monday": "7 AM–11 PM"
+          },
+          "phone": "+1 604-566-7111",
+          "website": "http://monacocafe.ca/",
+          "extensions": [
+            {
+              "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+              ]
+            }
+          ],
+          "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0eTd0Y25uMBgAOgMI8A0%3D&g2lbs=AEzIGDtlDro8RcKosd9iPguoUDKsPp_qnbtxpuPBdFtyJW6JCyKI9nFpqIPya35yS1pfD8ciD_9n&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XaKpauDQE92H9u8PkfP6oAw&ei=XaKpauDQE92H9u8PkfP6oAw&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr9rpjZPV_Zm5wt7HZwgMq_WUP4BQqDwx2bltuUCoMqRksxpMab6IkO-qlXgBFodvxoA7y1-x0xjqiUKp1_9x2Q0akQBFvt7My_F0aV6vjHdf16tvGzHskbBbOlPLgrwbKw3Y=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/E3gZ7XicHcRdDoIgAADgE5GYpauth6yZrVzqsh9fnKhhSgJCQh2wO3Sbtr6H7_uppWRibhiktkaYUkyqp6j6gnay6uSooA8DMwEKAYSx9OPweCb9rGdNGp6y9DFV0vFThQOenZNw4kZ8rfQYEflMVjTgcSs0C3Jkb9sD4OSCXY-Wg6ZL52UCDXXD78mOmdlMjyOYt5HrDdIJXpkH85M9NH55M205bN6-aJGLDiTc416hnbKuC2VCCEH9vwDdD9_0Rls"
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&location=Vancouver%2C+British+Columbia%2C+Canada&q=matcha+cafe+Vancouver+BC+wheelchair+accessible+bathroom&start=20&type=search&z=15"
+      }
+    }
+  }
+]
