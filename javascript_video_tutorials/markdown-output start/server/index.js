@@ -2,7 +2,7 @@ import express, { json } from 'express';
 import cors from 'cors';
 import dotenv from "dotenv";
 import OpenAI from 'openai';
-
+import { writeMcpResults } from './writeMcpResults.js';
 dotenv.config();
 const app = express();
 const PORT = 3001;
@@ -22,6 +22,7 @@ app.post('/api/message', async (req, res) => {
   const response = await client.responses.create({
     model: "gpt-5-mini",
     instructions: "When calling SerpApi, use the Google Maps engine. Set params.z to 14. " +
+      // "Set params.output to md so that output is in markdown." +
       "Return items as a list. Do not ask any follow-up questions.",
     tools: [
       {
@@ -34,7 +35,9 @@ app.post('/api/message', async (req, res) => {
     ],
     input: message,
   });
-  console.log(response.output_text);
+  const mcpCalls = response.output.filter((item) => item.type === "mcp_call");
+  writeMcpResults(mcpCalls);
+
   res.json({ reply: "Hello from the server" });
 
 });

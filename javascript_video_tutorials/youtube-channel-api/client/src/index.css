@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+form {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+form input {
+  flex: 1;
+  padding: 0.6rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+form input:focus {
+  outline: none;
+  border-color: #e62117;
+  box-shadow: 0 0 0 3px rgba(230, 33, 23, 0.2);
+}
+
+form button {
+  padding: 0.6rem 1.25rem;
+  font-size: 1rem;
+  color: #fff;
+  background: #e62117;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #c41a12;
+}
+
+pre {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #f5f5f5;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+form button:disabled {
+  background: #999;
+  cursor: not-allowed;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.video-grid a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.video-grid img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.video-grid p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+}
+
+.video-grid .video-meta {
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: #666;
+}
